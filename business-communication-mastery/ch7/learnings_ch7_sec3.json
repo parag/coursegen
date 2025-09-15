@@ -1,0 +1,56 @@
+{
+  "section": { "chapterIx": 7, "sectionIx": 3, "title": "Meetings & Collaboration" },
+  "learnings": [
+    {
+      "ix": 1,
+      "title": "Meeting Types, Goals, and Alternatives",
+      "bodyMd": "# Meeting Types, Goals, and Alternatives\n\n## Overview\nUse meetings selectively. Choose the right type (decision, alignment, brainstorm, 1:1) or an async alternative.\n\n## Key Concepts\n- Goal clarity and pre‑reads.\n- Agenda with timeboxes and roles.\n- Async alternatives: docs, Looms, polls.\n\n## Examples\n- Convert status meetings into async updates.\n- Keep decision meetings small and prepared.\n\n## Common Pitfalls\n- Meetings without a defined outcome.\n- Inviting spectators who don’t contribute.\n\n## Summary\nMeet only when necessary, with clear goals and the right people. Default to async updates for information sharing.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show an agenda", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 2,
+      "title": "Facilitation and Inclusive Participation",
+      "bodyMd": "# Facilitation and Inclusive Participation\n\n## Overview\nStrong facilitation balances voices, keeps time, and surfaces dissent safely across cultures and seniority.\n\n## Key Concepts\n- Round‑robins and hand‑raises.\n- Parking lot for off‑topic items.\n- Capturing dissent and next steps.\n\n## Examples\n- Call on quiet participants by name.\n- Summarize: \"We have two unresolved risks—owners A and B.\"\n\n## Common Pitfalls\n- Allowing dominance by a few voices.\n- No capture of decisions and risks.\n\n## Summary\nFacilitate actively: balance airtime, protect agenda, and record outcomes and open items visibly.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give tips", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 3,
+      "title": "Cross‑Time‑Zone Collaboration",
+      "bodyMd": "# Cross‑Time‑Zone Collaboration\n\n## Overview\nDesign collaboration so progress continues across time zones with minimal friction.\n\n## Key Concepts\n- Core hours and handoff windows.\n- Handover notes and checklists.\n- Tooling for async collaboration.\n\n## Examples\n- Daily handoff doc with status and blockers.\n- Shared kanban with explicit WIP and owners.\n\n## Common Pitfalls\n- Blockers waiting 24 hours due to unclear ownership.\n- Meetings scheduled in someone’s midnight.\n\n## Summary\nCreate structured handoffs and shared boards. Rotate inconvenient times and clarify ownership to keep work moving.\n",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show a handoff", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 4,
+      "title": "Decision Frameworks (RACI/DACI)",
+      "bodyMd": "# Decision Frameworks (RACI/DACI)\n\n## Overview\nClarify who decides, who is accountable, and who must be consulted or informed.\n\n## Key Concepts\n- RACI: Responsible, Accountable, Consulted, Informed.\n- DACI: Driver, Approver, Contributors, Informed.\n- Single‑threaded ownership.\n\n## Examples\n- DACI for a vendor selection decision.\n- RACI for a cross‑team launch.\n\n## Common Pitfalls\n- Shared accountability leading to diffusion.\n- Unclear approver causing stalls.\n\n## Summary\nAssign roles explicitly for each decision. Keep approver singular and visible to accelerate throughput.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show a template", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 5,
+      "title": "Notes, Recordings, and Follow‑Ups",
+      "bodyMd": "# Notes, Recordings, and Follow‑Ups\n\n## Overview\nCapture outcomes and action items immediately so momentum isn’t lost and context persists.\n\n## Key Concepts\n- Notes template: decisions, actions, risks.\n- Recording and transcripts where appropriate.\n- Distribution within 24 hours.\n\n## Examples\n- Shared notes doc with owners and due dates.\n- Link notes in the calendar invite post‑meeting.\n\n## Common Pitfalls\n- No notes leading to re‑litigation.\n- Hidden notes not shared with stakeholders.\n\n## Summary\nWrite short, structured notes with clear owners and dates. Share promptly and file where they’re easily found later.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show notes template", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    }
+  ]
+}
+

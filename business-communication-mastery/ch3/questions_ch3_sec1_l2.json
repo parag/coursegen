@@ -1,0 +1,26 @@
+{
+  "learning": { "chapterIx": 3, "sectionIx": 1, "ix": 2, "title": "Character, Conflict, and Stakes in Business Stories" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which story pitch BEST establishes character, conflict, and stakes succinctly?", "difficulty": "hard", "rationaleMd": "Assesses inclusion of protagonist, blocker, and consequences.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Support team (character) loses 200 hrs/mo to manual triage (conflict), causing SLO misses and churn risk (stakes)", "isCorrect": true, "feedbackMd": "Contains protagonist, conflict, and meaningful stakes tied to outcomes." },
+      { "ix": 2, "contentMd": "We built a tool that’s exciting and modern", "isCorrect": false, "feedbackMd": "No character or stakes; tech‑centric." },
+      { "ix": 3, "contentMd": "Customers like speed; we like quality", "isCorrect": false, "feedbackMd": "Vague tension; no concrete stakes." },
+      { "ix": 4, "contentMd": "Our team values craftsmanship", "isCorrect": false, "feedbackMd": "No conflict or stakes." }
+    ]},
+    { "ix": 2, "type": "true_false", "promptMd": "True or False: Stakes must be financial to matter in a business narrative.", "difficulty": "medium", "rationaleMd": "Non‑financial stakes (risk, time, reputation) can be decisive.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": false, "feedbackMd": "Time, risk, and reputation often drive decisions." },
+      { "ix": 2, "contentMd": "False", "isCorrect": true, "feedbackMd": "Correct. Financials matter, but so do risk and human impact." }
+    ]},
+    { "ix": 3, "type": "mcq", "promptMd": "Which conflict description is MOST actionable?", "difficulty": "medium", "rationaleMd": "Actionable conflict ties to fixable constraints.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Paging noise causes 2 a.m. alerts 12×/wk due to missing runbooks", "isCorrect": true, "feedbackMd": "Specific blockers imply solutions." },
+      { "ix": 2, "contentMd": "People don’t like change", "isCorrect": false, "feedbackMd": "Too generic to address." },
+      { "ix": 3, "contentMd": "We need more innovation", "isCorrect": false, "feedbackMd": "Abstract and unactionable." },
+      { "ix": 4, "contentMd": "There’s tension between teams", "isCorrect": false, "feedbackMd": "Needs specifics to act." }
+    ]},
+    { "ix": 4, "type": "true_false", "promptMd": "True or False: Over‑dramatizing conflict can undercut credibility with executives.", "difficulty": "easy", "rationaleMd": "Realistic stakes preserve trust.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Keep conflicts real and verifiable." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Exaggeration backfires." }
+    ]}
+  ]
+}
+

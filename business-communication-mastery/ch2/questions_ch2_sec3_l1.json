@@ -1,0 +1,26 @@
+{
+  "learning": { "chapterIx": 2, "sectionIx": 3, "ix": 1, "title": "Framing Effects and Loss Aversion" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which framing balances motivation without triggering reactance?", "difficulty": "hard", "rationaleMd": "Calibrates loss vs. gain frames.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "\"Avoid 20% rework and gain 15% throughput by adopting X next quarter\"", "isCorrect": true, "feedbackMd": "Balanced: acknowledges losses avoided and gains achieved." },
+      { "ix": 2, "contentMd": "\"If you don’t adopt X now, you’ll fail\"", "isCorrect": false, "feedbackMd": "Alarmist loss framing triggers reactance." },
+      { "ix": 3, "contentMd": "\"X is great—trust us\"", "isCorrect": false, "feedbackMd": "Empty gain claim; lacks specifics." },
+      { "ix": 4, "contentMd": "\"We might see some benefits eventually\"", "isCorrect": false, "feedbackMd": "Too weak; no clear stakes." }
+    ]},
+    { "ix": 2, "type": "true_false", "promptMd": "True or False: People typically weigh losses more than gains of equal size.", "difficulty": "easy", "rationaleMd": "Core loss aversion principle.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Losses loom larger than gains." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Loss aversion is well‑documented in behavioral science." }
+    ]},
+    { "ix": 3, "type": "mcq", "promptMd": "A team resists due to fear of disruption. Which tactic BEST reduces loss aversion?", "difficulty": "medium", "rationaleMd": "Designing mitigations for perceived losses.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Pilot with rollback plan and support to minimize switching costs", "isCorrect": true, "feedbackMd": "Offsets perceived losses with safety net and help." },
+      { "ix": 2, "contentMd": "Insist that disruption fears are irrational", "isCorrect": false, "feedbackMd": "Invalidation increases resistance." },
+      { "ix": 3, "contentMd": "Add a hype video to boost interest", "isCorrect": false, "feedbackMd": "Doesn’t address losses." },
+      { "ix": 4, "contentMd": "Delay indefinitely to avoid discomfort", "isCorrect": false, "feedbackMd": "Avoidance doesn’t solve the problem." }
+    ]},
+    { "ix": 4, "type": "true_false", "promptMd": "True or False: The reference point for framing should be the audience’s current baseline, not the sender’s.", "difficulty": "medium", "rationaleMd": "Perspective alignment.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Frame relative to what the audience experiences now." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Sender‑centric frames misread stakes." }
+    ]}
+  ]
+}
+

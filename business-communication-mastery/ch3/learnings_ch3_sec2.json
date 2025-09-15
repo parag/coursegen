@@ -1,0 +1,56 @@
+{
+  "section": { "chapterIx": 3, "sectionIx": 2, "title": "Stories with Data" },
+  "learnings": [
+    {
+      "ix": 1,
+      "title": "From Analysis to Narrative",
+      "bodyMd": "# From Analysis to Narrative\n\n## Overview\nTranslate analysis into a narrative that answers a decision question with evidence and implications.\n\n## Key Concepts\n- Question → hypothesis → test → result → implication.\n- One core insight per slide/section.\n- Claim‑Evidence‑Impact pattern.\n\n## Examples\n- Claim: \"Feature X reduces churn\" → Evidence: cohort analysis → Impact: +$2M ARR.\n\n## Common Pitfalls\n- Dumping all analysis without a through‑line.\n- Hiding assumptions and caveats.\n\n## Summary\nStart from the decision. Present claims backed by succinct evidence and clear business impact.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show example", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 2,
+      "title": "Choosing the Right Chart for the Story",
+      "bodyMd": "# Choosing the Right Chart for the Story\n\n## Overview\nChart choice depends on the relationship you need to show: comparison, change, distribution, or composition.\n\n## Key Concepts\n- Comparison: bar charts; Change over time: line charts.\n- Distribution: histogram/density; Composition: stacked bars/treemap.\n- Part‑to‑whole pitfalls: avoid 3D and misleading scales.\n\n## Examples\n- Replace pie charts with bars for easier comparisons.\n- Use small multiples to compare trends across segments.\n\n## Common Pitfalls\n- Fancy visuals that obscure relationships.\n- Axes that exaggerate effects.\n\n## Summary\nPick charts that align with the relationship and keep encoding simple and readable.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give me examples", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 3,
+      "title": "Weaving Evidence: Layering Claims, Context, and Caveats",
+      "bodyMd": "# Weaving Evidence: Layering Claims, Context, and Caveats\n\n## Overview\nPresent just enough context and caveats to be credible without derailing the narrative.\n\n## Key Concepts\n- Context first: define scope, baseline, and period.\n- Caveats: data quality, confounders, and limitations.\n- Appendix: deep methods and alternative cuts.\n\n## Examples\n- Add a footnote with known limitations and links to methods.\n- Provide an appendix slide with alternate segmentations.\n\n## Common Pitfalls\n- Hiding caveats (backfires).\n- Overloading core slides with methods details.\n\n## Summary\nBe transparent about limits and methods. Keep the main flow clean and link to deeper materials.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show a template", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 4,
+      "title": "Avoiding Misleading Visuals and Ethical Data Use",
+      "bodyMd": "# Avoiding Misleading Visuals and Ethical Data Use\n\n## Overview\nPresent data honestly. Avoid manipulative encodings and respect privacy and consent.\n\n## Key Concepts\n- Common distortions: truncated axes, cherry‑picking, 3D effects.\n- Privacy: de‑identification, consent, minimal use.\n- Reproducibility: show sources and methods.\n\n## Examples\n- Always label axes and show baselines.\n- Cite data sources and contact for reproducibility.\n\n## Common Pitfalls\n- Selective time windows to exaggerate trends.\n- Sharing sensitive data without consent.\n\n## Summary\nDesign for truth. Favor clarity over persuasion and disclose limitations and sources.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give me examples", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 5,
+      "title": "Slide‑Level Narratives and Annotations",
+      "bodyMd": "# Slide‑Level Narratives and Annotations\n\n## Overview\nEach slide should read as a self‑contained story: headline claim, visual evidence, and short takeaway.\n\n## Key Concepts\n- Headline: conclusion, not topic.\n- Visual: clean chart/table with highlighted insights.\n- Annotation: concise labels that guide the eye.\n\n## Examples\n- Annotate peak points and deltas directly on lines/bars.\n- Use color sparingly to emphasize the key series.\n\n## Common Pitfalls\n- Descriptive titles (\"Revenue by Segment\") without a conclusion.\n- Legends that require constant cross‑referencing.\n\n## Summary\nMake slides readable at a glance. Lead with the claim, then support with a clean visual and minimal annotation.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show an example", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    }
+  ]
+}
+

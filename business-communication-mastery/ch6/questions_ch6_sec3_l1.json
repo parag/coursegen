@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 6, "sectionIx": 3, "ix": 1, "title": "Emotional Regulation and De‑escalation" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which move MOST effectively de‑escalates your own stress response mid‑conversation?", "difficulty": "hard", "rationaleMd": "Physiological down‑regulation.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Take a slow breath, label your emotion silently, and pause before replying", "isCorrect": true, "feedbackMd": "Breath + labeling restores cognitive control." },
+      { "ix": 2, "contentMd": "Talk faster to get through it", "isCorrect": false, "feedbackMd": "Increases arousal and errors." },
+      { "ix": 3, "contentMd": "Match the other’s volume", "isCorrect": false, "feedbackMd": "Escalates conflict." },
+      { "ix": 4, "contentMd": "Continue while flooded", "isCorrect": false, "feedbackMd": "Leads to poor decisions." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which phrase BEST requests a brief reset without blame?", "difficulty": "medium", "rationaleMd": "Timeout language.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "‘Let’s pause for five minutes and reconvene to keep this productive’", "isCorrect": true, "feedbackMd": "Neutral and purpose‑oriented." },
+      { "ix": 2, "contentMd": "‘I’m done with this’", "isCorrect": false, "feedbackMd": "Abrupt and blaming." },
+      { "ix": 3, "contentMd": "Walk out silently", "isCorrect": false, "feedbackMd": "Breaks rapport." },
+      { "ix": 4, "contentMd": "‘Calm down’", "isCorrect": false, "feedbackMd": "Invalidating; escalates." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Naming an emotion (even silently) can reduce its intensity.", "difficulty": "easy", "rationaleMd": "Affect labeling.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Labeling recruits regulatory circuits." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Evidence supports labeling as down‑regulation." }
+    ]}
+  ]
+}
+

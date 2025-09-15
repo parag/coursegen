@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 6, "sectionIx": 1, "ix": 4, "title": "Agreement, Actions, and Follow‑Up" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which closing MOST ensures behavior change?", "difficulty": "hard", "rationaleMd": "SMART action + checkpoint.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Agree on a specific action, owner, date; schedule a review", "isCorrect": true, "feedbackMd": "Commits and creates accountability." },
+      { "ix": 2, "contentMd": "Encourage improvement with no date", "isCorrect": false, "feedbackMd": "No commitment, low follow‑through." },
+      { "ix": 3, "contentMd": "Say ‘let’s see how it goes’", "isCorrect": false, "feedbackMd": "Vague closing invites drift." },
+      { "ix": 4, "contentMd": "End after venting feelings", "isCorrect": false, "feedbackMd": "Catharsis without plan." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which follow‑up note is BEST?", "difficulty": "medium", "rationaleMd": "Written reinforcement.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Email summarizing behavior, impact, agreed action, date", "isCorrect": true, "feedbackMd": "Reinforces clarity and shared record." },
+      { "ix": 2, "contentMd": "A thumbs‑up emoji", "isCorrect": false, "feedbackMd": "Insufficient record." },
+      { "ix": 3, "contentMd": "No follow‑up to avoid pressure", "isCorrect": false, "feedbackMd": "Lowers accountability." },
+      { "ix": 4, "contentMd": "Forward unrelated articles", "isCorrect": false, "feedbackMd": "Off‑topic." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Behavior change requires repetition; plan multiple checkpoints.", "difficulty": "easy", "rationaleMd": "Reinforcement principle.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Repetition consolidates change." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "One‑offs rarely stick." }
+    ]}
+  ]
+}
+

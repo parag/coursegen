@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 6, "sectionIx": 2, "ix": 2, "title": "Mediation Steps and Roles" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which sequence MOST reflects a light mediation flow?", "difficulty": "hard", "rationaleMd": "Opening→stories→issues→options→agreement.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Opening ground rules → parties share stories → list issues → generate options → agreement", "isCorrect": true, "feedbackMd": "Standard facilitation arc." },
+      { "ix": 2, "contentMd": "Jump to options → argue → adjourn", "isCorrect": false, "feedbackMd": "Skips understanding; escalates." },
+      { "ix": 3, "contentMd": "Facilitator decides unilaterally", "isCorrect": false, "feedbackMd": "Not mediation." },
+      { "ix": 4, "contentMd": "Stories only; no agreement stage", "isCorrect": false, "feedbackMd": "Cathartic, but no closure." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which facilitator behavior MOST preserves neutrality?", "difficulty": "medium", "rationaleMd": "Process stewardship.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Summarize each view fairly and time‑box turns", "isCorrect": true, "feedbackMd": "Models impartiality and structure." },
+      { "ix": 2, "contentMd": "Debate the strongest argument", "isCorrect": false, "feedbackMd": "Becomes a party, not a facilitator." },
+      { "ix": 3, "contentMd": "Share your preferred solution", "isCorrect": false, "feedbackMd": "Compromises neutrality." },
+      { "ix": 4, "contentMd": "Allow interruptions", "isCorrect": false, "feedbackMd": "Erodes fairness." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Ground rules (no interruptions, time limits) help contain heat and keep sessions productive.", "difficulty": "easy", "rationaleMd": "Container creation.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Process guardrails matter." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Without rules, heat rises and progress stalls." }
+    ]}
+  ]
+}
+

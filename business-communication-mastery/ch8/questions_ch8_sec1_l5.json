@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 8, "sectionIx": 1, "ix": 5, "title": "Auditing Influence Practices" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which audit checklist MOST aligns with ethical influence?", "difficulty": "hard", "rationaleMd": "Truthfulness, consent, fairness, reversibility.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Truthfulness of claims, informed consent, fairness, reversibility of defaults", "isCorrect": true, "feedbackMd": "Covers key ethical dimensions." },
+      { "ix": 2, "contentMd": "Conversion rate only", "isCorrect": false, "feedbackMd": "Ignores ethics." },
+      { "ix": 3, "contentMd": "Design aesthetics", "isCorrect": false, "feedbackMd": "Not central to ethics." },
+      { "ix": 4, "contentMd": "Number of emojis used", "isCorrect": false, "feedbackMd": "Irrelevant." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "After a misstep, which remediation is BEST?", "difficulty": "medium", "rationaleMd": "Incident learning.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Run a post‑mortem; update guidelines; verify fixes; communicate outcomes", "isCorrect": true, "feedbackMd": "Closes the learning loop." },
+      { "ix": 2, "contentMd": "Silence to avoid attention", "isCorrect": false, "feedbackMd": "Breeds suspicion." },
+      { "ix": 3, "contentMd": "Blame an individual publicly", "isCorrect": false, "feedbackMd": "Undermines culture." },
+      { "ix": 4, "contentMd": "Change nothing if metrics looked good", "isCorrect": false, "feedbackMd": "Ethics > metrics." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Independent audits of campaigns can improve trust and quality.", "difficulty": "easy", "rationaleMd": "Third‑party review.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. External checks reveal blind spots." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Audits add credibility." }
+    ]}
+  ]
+}
+

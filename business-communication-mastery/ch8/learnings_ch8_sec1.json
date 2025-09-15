@@ -1,0 +1,56 @@
+{
+  "section": { "chapterIx": 8, "sectionIx": 1, "title": "Ethical Persuasion" },
+  "learnings": [
+    {
+      "ix": 1,
+      "title": "Principles and Red Lines",
+      "bodyMd": "# Principles and Red Lines\n\n## Overview\nDefine ethical boundaries so influence builds trust rather than exploiting vulnerabilities.\n\n## Key Concepts\n- Autonomy: respect informed choice.\n- Beneficence: aim for mutual benefit.\n- Honesty: no false scarcity or credentials.\n\n## Examples\n- Disclose material limits, risks, and conflicts.\n- Decline tactics that coerce or mislead.\n\n## Common Pitfalls\n- Rationalizing gray‑area tactics for short‑term wins.\n- Hiding key information that affects decisions.\n\n## Summary\nSet red lines in advance. Favor transparency and mutual benefit to protect relationships and reputation.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give examples", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 2,
+      "title": "Transparency and Informed Consent",
+      "bodyMd": "# Transparency and Informed Consent\n\n## Overview\nEnsure stakeholders understand what they’re agreeing to, including alternatives and implications.\n\n## Key Concepts\n- Clear disclosures: terms, costs, data use.\n- Alternatives and opt‑outs.\n- Plain‑language summaries.\n\n## Examples\n- Summarize key terms up front with links to details.\n- Highlight opt‑out and reversal mechanisms.\n\n## Common Pitfalls\n- Burying material terms in fine print.\n- Designing opt‑outs that are confusing or hidden.\n\n## Summary\nCommunicate terms plainly and offer easy opt‑outs. Informed consent is the foundation of ethical influence.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show a template", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 3,
+      "title": "Conflicts of Interest and Recusal",
+      "bodyMd": "# Conflicts of Interest and Recusal\n\n## Overview\nIdentify and disclose conflicts. Recuse or add independent review where needed.\n\n## Key Concepts\n- Financial, relational, and role conflicts.\n- Disclosure timing and channels.\n- Independent review mechanisms.\n\n## Examples\n- Declare vendor relationships early.\n- Bring in an independent approver.\n\n## Common Pitfalls\n- Downplaying conflicts until challenged.\n- Self‑reviewing decisions with personal stakes.\n\n## Summary\nName conflicts early, document them, and design neutral review so decisions remain trustworthy.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give examples", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 4,
+      "title": "Protecting Vulnerable Audiences",
+      "bodyMd": "# Protecting Vulnerable Audiences\n\n## Overview\nBe extra cautious when audiences have limited capacity, information, or choice.\n\n## Key Concepts\n- Avoid pressure on dependent or time‑stressed groups.\n- Provide extra time and clear summaries.\n- Seek third‑party advocacy.\n\n## Examples\n- Extended review windows and plain‑language briefs.\n- Optional advisor joins for complex decisions.\n\n## Common Pitfalls\n- Using urgency to override careful consideration.\n- Overwhelming with jargon or volume.\n\n## Summary\nSlow down and simplify. Add safeguards and advocates to support fair, informed decisions for vulnerable groups.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give safeguards", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 5,
+      "title": "Auditing Influence Practices",
+      "bodyMd": "# Auditing Influence Practices\n\n## Overview\nPeriodically audit messaging and negotiation practices against ethical criteria and outcomes.\n\n## Key Concepts\n- Checklist: truthfulness, consent, fairness, reversibility.\n- Review cadence and independent audits.\n- Incident learning and remediation.\n\n## Examples\n- Quarterly review of campaign claims and tactics.\n- Post‑mortems when tactics harm trust.\n\n## Common Pitfalls\n- \"Ends justify means\" creep.\n- No learning loop after missteps.\n\n## Summary\nInstitutionalize ethical reviews and learning to keep influence practices aligned with values and long‑term trust.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show a checklist", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    }
+  ]
+}
+

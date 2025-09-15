@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 8, "sectionIx": 1, "ix": 1, "title": "Principles and Red Lines" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which influence practice MOST violates ethical red lines?", "difficulty": "hard", "rationaleMd": "Autonomy, beneficence, honesty.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Fabricating scarcity to rush a commitment", "isCorrect": true, "feedbackMd": "Violates honesty and informed consent." },
+      { "ix": 2, "contentMd": "Disclosing risks alongside benefits", "isCorrect": false, "feedbackMd": "Ethically required transparency." },
+      { "ix": 3, "contentMd": "Offering a reversible default with clear opt‑out", "isCorrect": false, "feedbackMd": "Benign if transparent and beneficial." },
+      { "ix": 4, "contentMd": "Providing references on request", "isCorrect": false, "feedbackMd": "Supports informed choice." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which principle MOST applies when the audience has limited time/capacity?", "difficulty": "medium", "rationaleMd": "Protect vulnerable audiences.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Slow down, summarize plainly, extend review windows", "isCorrect": true, "feedbackMd": "Supports autonomy under constraints." },
+      { "ix": 2, "contentMd": "Accelerate to secure a ‘yes’ before questions", "isCorrect": false, "feedbackMd": "Coercive and unethical." },
+      { "ix": 3, "contentMd": "Hide caveats to avoid confusion", "isCorrect": false, "feedbackMd": "Deceptive." },
+      { "ix": 4, "contentMd": "Require immediate public commitment", "isCorrect": false, "feedbackMd": "Pressure tactic." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Set ethical red lines in advance to avoid situational drift.", "difficulty": "easy", "rationaleMd": "Precommitment to ethics.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Precommitment resists temptation." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Ad‑hoc ethics invite rationalization." }
+    ]}
+  ]
+}
+

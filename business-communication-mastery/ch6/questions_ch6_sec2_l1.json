@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 6, "sectionIx": 2, "ix": 1, "title": "Interest‑Based Problem Solving" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which step MOST reliably moves a stuck positional debate forward?", "difficulty": "hard", "rationaleMd": "Interests→options→criteria.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "List interests on both sides, then brainstorm options before evaluating", "isCorrect": true, "feedbackMd": "Opens solution space and reduces defensiveness." },
+      { "ix": 2, "contentMd": "Insist louder on your position", "isCorrect": false, "feedbackMd": "Escalates without learning." },
+      { "ix": 3, "contentMd": "Seek a compromise midpoint immediately", "isCorrect": false, "feedbackMd": "Splits the difference without value creation." },
+      { "ix": 4, "contentMd": "Delay for a week", "isCorrect": false, "feedbackMd": "Time alone rarely resolves positions." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which articulation BEST captures an interest?", "difficulty": "medium", "rationaleMd": "From what to why.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "‘We need predictability on monthly costs’", "isCorrect": true, "feedbackMd": "Explains why (predictability), not a fixed term position." },
+      { "ix": 2, "contentMd": "‘12‑month term or nothing’", "isCorrect": false, "feedbackMd": "Position, not interest." },
+      { "ix": 3, "contentMd": "‘We want a discount’", "isCorrect": false, "feedbackMd": "Position framed as price." },
+      { "ix": 4, "contentMd": "‘Because I said so’", "isCorrect": false, "feedbackMd": "Not an interest." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Objective criteria should be agreed before evaluating options.", "difficulty": "easy", "rationaleMd": "Decision hygiene.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Reduces bias and anchors." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Criteria after debate invite rationalization." }
+    ]}
+  ]
+}
+

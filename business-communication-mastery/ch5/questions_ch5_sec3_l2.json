@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 5, "sectionIx": 3, "ix": 2, "title": "Body Language and Executive Presence" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which stance MOST signals calm authority?", "difficulty": "medium", "rationaleMd": "Presence cues.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Tall, grounded posture; open shoulders; purposeful gestures", "isCorrect": true, "feedbackMd": "Projects confidence and warmth." },
+      { "ix": 2, "contentMd": "Arms crossed; weight shifting", "isCorrect": false, "feedbackMd": "Closed and restless." },
+      { "ix": 3, "contentMd": "Hands in pockets; looking at screen", "isCorrect": false, "feedbackMd": "Low engagement signal." },
+      { "ix": 4, "contentMd": "Pacing constantly", "isCorrect": false, "feedbackMd": "Distracts attention." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which eye contact pattern is BEST for groups?", "difficulty": "hard", "rationaleMd": "Audience scanning.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Scan the room in short connections without staring", "isCorrect": true, "feedbackMd": "Balances inclusion and comfort." },
+      { "ix": 2, "contentMd": "Focus only on the approver", "isCorrect": false, "feedbackMd": "Excludes others; raises pressure." },
+      { "ix": 3, "contentMd": "Look at slides while speaking", "isCorrect": false, "feedbackMd": "Breaks connection." },
+      { "ix": 4, "contentMd": "Alternate rapidly between two people", "isCorrect": false, "feedbackMd": "Feels erratic." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Purposeful gestures tied to content improve clarity.", "difficulty": "easy", "rationaleMd": "Gesture use.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Gesture to visuals or sections to guide." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Fidgeting distracts, but purposeful gestures help." }
+    ]}
+  ]
+}
+

@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 8, "sectionIx": 2, "ix": 3, "title": "Crisis Response and Narrative Control" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which first 24‑hour response MOST limits reputation damage?", "difficulty": "hard", "rationaleMd": "Golden hour: facts, ownership, remedy.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Share verified facts, acknowledge impact/ownership, outline mitigation and next updates", "isCorrect": true, "feedbackMd": "Transparent and action‑oriented." },
+      { "ix": 2, "contentMd": "Stay silent until all facts are known weeks later", "isCorrect": false, "feedbackMd": "Silence invites speculation." },
+      { "ix": 3, "contentMd": "Blame a vendor immediately", "isCorrect": false, "feedbackMd": "Deflection without facts harms trust." },
+      { "ix": 4, "contentMd": "Issue a vague reassurance only", "isCorrect": false, "feedbackMd": "Lacks substance." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which role assignment is BEST?", "difficulty": "medium", "rationaleMd": "Single spokesperson + Q&A doc.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Designate one spokesperson; maintain a living Q&A document", "isCorrect": true, "feedbackMd": "Consistency and speed improve." },
+      { "ix": 2, "contentMd": "Let anyone answer externally", "isCorrect": false, "feedbackMd": "Inconsistent messaging." },
+      { "ix": 3, "contentMd": "No Q&A; improvise", "isCorrect": false, "feedbackMd": "Slow and error‑prone." },
+      { "ix": 4, "contentMd": "Multiple spokespeople without coordination", "isCorrect": false, "feedbackMd": "Raises contradictions risk." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Overpromising fixes in a crisis can worsen damage later.", "difficulty": "easy", "rationaleMd": "Promise discipline.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Keep commitments realistic and dated." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Broken promises amplify backlash." }
+    ]}
+  ]
+}
+

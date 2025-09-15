@@ -1,0 +1,26 @@
+{
+  "learning": { "chapterIx": 2, "sectionIx": 2, "ix": 4, "title": "Consistency, Follow‑Through, and Reputation Signals" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which combination MOST visibly signals reliability to external stakeholders?", "difficulty": "medium", "rationaleMd": "Operationalizing reliability signals.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Predictable update cadence + public changelog + clear SLAs", "isCorrect": true, "feedbackMd": "Cadence and artifacts make reliability observable." },
+      { "ix": 2, "contentMd": "Occasional detailed reports + no deadlines", "isCorrect": false, "feedbackMd": "Irregular and non‑committal signals are weak." },
+      { "ix": 3, "contentMd": "Private assurances + verbal commitments", "isCorrect": false, "feedbackMd": "Hard to verify and remember." },
+      { "ix": 4, "contentMd": "Large logo wall + inspirational quotes", "isCorrect": false, "feedbackMd": "Not reliability evidence." }
+    ]},
+    { "ix": 2, "type": "true_false", "promptMd": "True or False: Visibility of process (how you work) can improve trust even before outcomes are delivered.", "difficulty": "medium", "rationaleMd": "Process transparency as a trust driver.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Process signals reduce uncertainty about delivery risk." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Outcomes matter, but process visibility helps earlier." }
+    ]},
+    { "ix": 3, "type": "mcq", "promptMd": "A team misses a milestone. Which response MOST preserves reputation?", "difficulty": "hard", "rationaleMd": "Follow‑through under stress.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Own the miss, explain impact, present a realistic new plan with checkpoints", "isCorrect": true, "feedbackMd": "Accountability + plan sustains trust." },
+      { "ix": 2, "contentMd": "Downplay the miss and hope no one notices", "isCorrect": false, "feedbackMd": "Erodes credibility when discovered." },
+      { "ix": 3, "contentMd": "Blame dependencies publicly to deflect", "isCorrect": false, "feedbackMd": "Damages relationships; avoids ownership." },
+      { "ix": 4, "contentMd": "Promise to make it up later without dates", "isCorrect": false, "feedbackMd": "Vague and non‑binding." }
+    ]},
+    { "ix": 4, "type": "true_false", "promptMd": "True or False: Responsiveness SLAs should be private to avoid accountability pressure.", "difficulty": "medium", "rationaleMd": "Public SLAs as reliability signal.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": false, "feedbackMd": "Public SLAs set expectations and signal commitment." },
+      { "ix": 2, "contentMd": "False", "isCorrect": true, "feedbackMd": "Correct. External visibility reinforces reliability." }
+    ]}
+  ]
+}
+

@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 6, "sectionIx": 1, "ix": 2, "title": "Timing, Setting, and Psychological Safety" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which setup MOST improves receptivity for critical feedback?", "difficulty": "hard", "rationaleMd": "Private, timely, intent framed.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Private 1:1 soon after event with intent framed and time boxed", "isCorrect": true, "feedbackMd": "Balances timeliness and safety." },
+      { "ix": 2, "contentMd": "Public team call to model transparency", "isCorrect": false, "feedbackMd": "Public criticism harms safety." },
+      { "ix": 3, "contentMd": "Wait a quarter to avoid emotion", "isCorrect": false, "feedbackMd": "Too late; details fade." },
+      { "ix": 4, "contentMd": "Async chat in a busy channel", "isCorrect": false, "feedbackMd": "Tone easily misread; low safety." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which opener MOST effectively signals positive intent?", "difficulty": "medium", "rationaleMd": "Safety phrase.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "‘I want us both to succeed; can we review one moment from Monday?’", "isCorrect": true, "feedbackMd": "Collaborative and specific." },
+      { "ix": 2, "contentMd": "‘I have some concerns…’", "isCorrect": false, "feedbackMd": "Vague and anxiety‑provoking." },
+      { "ix": 3, "contentMd": "‘I need to address your attitude’", "isCorrect": false, "feedbackMd": "Personal and inflammatory." },
+      { "ix": 4, "contentMd": "‘Let’s fix your behavior’", "isCorrect": false, "feedbackMd": "Accusatory tone." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Praise in public, coach in private is a good default.", "difficulty": "easy", "rationaleMd": "Norm for safety.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Protects dignity and trust." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Public coaching risks shame." }
+    ]}
+  ]
+}
+

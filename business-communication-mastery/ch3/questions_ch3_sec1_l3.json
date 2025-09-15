@@ -1,0 +1,26 @@
+{
+  "learning": { "chapterIx": 3, "sectionIx": 1, "ix": 3, "title": "Story Beats for Docs and Decks" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which outline maps beats to a decision deck MOST effectively?", "difficulty": "hard", "rationaleMd": "Checks decision‑centric flow.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Recommendation (headline) → options vs. criteria → risks → CTA → appendix", "isCorrect": true, "feedbackMd": "Puts the answer first, compares options, and ends with an explicit ask." },
+      { "ix": 2, "contentMd": "Background → history → org chart → recommendation", "isCorrect": false, "feedbackMd": "Delays the decision; weak flow." },
+      { "ix": 3, "contentMd": "Vision quotes → feature parade → demo gifs", "isCorrect": false, "feedbackMd": "Not a decision framework." },
+      { "ix": 4, "contentMd": "Risks first → recommendation at the very end", "isCorrect": false, "feedbackMd": "Risk without context can stall momentum." }
+    ]},
+    { "ix": 2, "type": "true_false", "promptMd": "True or False: Each slide should have a headline that states the takeaway, not just the topic.", "difficulty": "easy", "rationaleMd": "Headline discipline.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. A takeaway headline advances the narrative." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Topic labels don’t guide decisions." }
+    ]},
+    { "ix": 3, "type": "mcq", "promptMd": "Where do detailed methods and alternate cuts belong in a decision deck?", "difficulty": "medium", "rationaleMd": "Core vs. appendix placement.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Appendix with clear links from the core", "isCorrect": true, "feedbackMd": "Keeps the core lean while preserving transparency." },
+      { "ix": 2, "contentMd": "In the opening slides", "isCorrect": false, "feedbackMd": "Front‑loading methods derails the decision path." },
+      { "ix": 3, "contentMd": "Only in a separate doc, never referenced", "isCorrect": false, "feedbackMd": "References should be easy to find." },
+      { "ix": 4, "contentMd": "Sprinkled throughout to show rigor", "isCorrect": false, "feedbackMd": "Interrupts narrative flow." }
+    ]},
+    { "ix": 4, "type": "true_false", "promptMd": "True or False: A doc’s closing should restate the decision request, owners, and dates.", "difficulty": "medium", "rationaleMd": "Closing clarity.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Close with explicit CTA and ownership to lock action." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Ambiguous closings slow decisions." }
+    ]}
+  ]
+}
+

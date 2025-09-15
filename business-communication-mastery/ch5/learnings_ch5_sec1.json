@@ -1,0 +1,56 @@
+{
+  "section": { "chapterIx": 5, "sectionIx": 1, "title": "Structuring Presentations" },
+  "learnings": [
+    {
+      "ix": 1,
+      "title": "Executive Summaries and BLUF",
+      "bodyMd": "# Executive Summaries and BLUF\n\n## Overview\nLead with the Bottom Line Up Front (BLUF): the decision request and recommendation, followed by just enough context.\n\n## Key Concepts\n- BLUF: answer first, details second.\n- Executive summary: 4–6 bullets max.\n- Clear CTA: specific ask, owner, and deadline.\n\n## Examples\n- Slide 1: recommendation, impact, risks, CTA.\n- Memo: TL;DR section at the top.\n\n## Common Pitfalls\n- Warming up for 10 minutes before the point.\n- Multiple asks buried in text.\n\n## Summary\nStart with the answer and the ask. Keep the summary short and actionable.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show an example", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 2,
+      "title": "Narrative Arcs and Agenda Design",
+      "bodyMd": "# Narrative Arcs and Agenda Design\n\n## Overview\nUse SCQA/SCR to shape your arc. Align the agenda to build momentum toward the decision.\n\n## Key Concepts\n- SCQA/SCR: situation, complication, question/resolution.\n- Agenda: the path to the decision.\n- Timeboxing: allocate minutes by importance.\n\n## Examples\n- Agenda with decision points marked.\n- Slide headlines that track the arc.\n\n## Common Pitfalls\n- Agenda as a list of topics, not outcomes.\n- Overweighting background over decisions.\n\n## Summary\nDesign a purposeful sequence that advances toward a clear decision and allocates time accordingly.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show an agenda", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 3,
+      "title": "Layering for Mixed Audiences",
+      "bodyMd": "# Layering for Mixed Audiences\n\n## Overview\nCater to both executives and specialists by layering: core story first, details in appendix.\n\n## Key Concepts\n- Core vs. appendix: keep main flow lean.\n- Drill‑downs: links and appendix slides.\n- Parking lot: track off‑topic questions for later.\n\n## Examples\n- Summary slide linking to backup charts.\n- Appendix with methods, sensitivity, and alternatives.\n\n## Common Pitfalls\n- Mixing deep dives into core slides.\n- No backup for expected expert questions.\n\n## Summary\nOptimize for the decision‑maker while equipping experts with accessible details in the appendix.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show a template", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 4,
+      "title": "Signposting and Transitions",
+      "bodyMd": "# Signposting and Transitions\n\n## Overview\nClear signposts and transitions keep the audience oriented and on pace.\n\n## Key Concepts\n- Section dividers: \"Where we are\" markers.\n- Roadmap slide: show progress along the arc.\n- Verbal transitions: recap → preview.\n\n## Examples\n- \"We’ve covered options; now the recommendation and risks.\"\n- Progress bar at slide footers.\n\n## Common Pitfalls\n- Abrupt topic shifts.\n- Losing time context without signposts.\n\n## Summary\nUse visual and verbal cues to guide attention and maintain shared context throughout the talk.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give phrases", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 5,
+      "title": "Speaker Notes and Rehearsal Plans",
+      "bodyMd": "# Speaker Notes and Rehearsal Plans\n\n## Overview\nPrepare concise notes and rehearse to lock timing, transitions, and Q&A readiness.\n\n## Key Concepts\n- Notes: bullets, not scripts.\n- Time targets: 60–70% content, 30–40% discussion.\n- Dry runs: record and review.\n\n## Examples\n- 10‑slide deck rehearsed to 12 minutes + 8 for Q&A.\n- Notes with key transitions and data points.\n\n## Common Pitfalls\n- Reading slides verbatim.\n- No timing buffer for questions.\n\n## Summary\nUse tight notes and timed rehearsals to deliver confidently and leave space for interaction.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show notes template", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    }
+  ]
+}
+

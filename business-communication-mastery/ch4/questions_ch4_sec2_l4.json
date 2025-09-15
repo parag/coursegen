@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 4, "sectionIx": 2, "ix": 4, "title": "Collaborative Language and Problem‑Solving" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which phrase MOST supports interest‑based collaboration?", "difficulty": "medium", "rationaleMd": "Language that opens options.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "‘How can we structure this to reduce your risk within budget?’", "isCorrect": true, "feedbackMd": "Invites joint problem‑solving around interests." },
+      { "ix": 2, "contentMd": "‘Take it or leave it’", "isCorrect": false, "feedbackMd": "Positional and closing options." },
+      { "ix": 3, "contentMd": "‘That’s your problem, not ours’", "isCorrect": false, "feedbackMd": "Destroys collaboration." },
+      { "ix": 4, "contentMd": "‘We won’t move unless you concede first’", "isCorrect": false, "feedbackMd": "Escalatory and unproductive." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which sequence BEST facilitates option generation?", "difficulty": "hard", "rationaleMd": "Brainstorm before evaluation.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "List interests → brainstorm options without judging → evaluate against criteria", "isCorrect": true, "feedbackMd": "Protects creativity before filtering." },
+      { "ix": 2, "contentMd": "Debate positions → criticize ideas → settle", "isCorrect": false, "feedbackMd": "Premature judgment narrows options." },
+      { "ix": 3, "contentMd": "Start with criteria only → then decide", "isCorrect": false, "feedbackMd": "Criteria are useful but need option space." },
+      { "ix": 4, "contentMd": "Vote on positions → create options if tie", "isCorrect": false, "feedbackMd": "Misses interest exploration." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Reframing from ‘positions’ to ‘problems’ reduces defensiveness and expands solution space.", "difficulty": "easy", "rationaleMd": "Language reframing benefits.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Problem framing invites curiosity and joint work." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Positions keep parties stuck." }
+    ]}
+  ]
+}
+

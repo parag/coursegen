@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 8, "sectionIx": 3, "ix": 1, "title": "Strategic Networking and Mapping" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which mapping practice MOST improves relationship strategy?", "difficulty": "hard", "rationaleMd": "Roles, tie strength, gaps.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Map mentors/peers/partners; score tie strength; identify gaps vs. goals", "isCorrect": true, "feedbackMd": "Informs intentional outreach." },
+      { "ix": 2, "contentMd": "Rely on memory of contacts", "isCorrect": false, "feedbackMd": "Leads to bias/omissions." },
+      { "ix": 3, "contentMd": "Track only big names", "isCorrect": false, "feedbackMd": "Ignores diverse value sources." },
+      { "ix": 4, "contentMd": "Reach out only when you need something", "isCorrect": false, "feedbackMd": "Transactional; weakens ties." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which outreach plan is BEST?", "difficulty": "medium", "rationaleMd": "Periodic, tailored touchpoints.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Quarterly tailored check‑ins; share relevant value; track responses", "isCorrect": true, "feedbackMd": "Consistent and useful." },
+      { "ix": 2, "contentMd": "Mass generic messages", "isCorrect": false, "feedbackMd": "Low resonance." },
+      { "ix": 3, "contentMd": "Only cold asks for favors", "isCorrect": false, "feedbackMd": "Damages goodwill." },
+      { "ix": 4, "contentMd": "No plan; rely on serendipity", "isCorrect": false, "feedbackMd": "Unreliable growth." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Diversify your relationship portfolio across roles and domains.", "difficulty": "easy", "rationaleMd": "Portfolio thinking.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Reduces concentration risk and expands opportunity." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Homogeneity limits perspective and reach." }
+    ]}
+  ]
+}
+

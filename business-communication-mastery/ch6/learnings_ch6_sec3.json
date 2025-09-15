@@ -1,0 +1,56 @@
+{
+  "section": { "chapterIx": 6, "sectionIx": 3, "title": "Emotions & Power Dynamics" },
+  "learnings": [
+    {
+      "ix": 1,
+      "title": "Emotional Regulation and De‑escalation",
+      "bodyMd": "# Emotional Regulation and De‑escalation\n\n## Overview\nManage your state to think clearly under pressure. Use breathing, labeling, and timeouts to de‑escalate.\n\n## Key Concepts\n- Physiological down‑regulation: breath, posture, pacing.\n- Affect labeling: \"I’m noticing I’m getting defensive.\"\n- Timeout and reset: take short breaks.\n\n## Examples\n- 4‑7‑8 breathing before responding.\n- \"Let’s pause for five minutes and reconvene.\"\n\n## Common Pitfalls\n- Reacting from threat response.\n- Plowing ahead when flooded.\n\n## Summary\nStabilize physiology and name emotions to regain cognitive control and reduce heat in the room.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give tips", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 2,
+      "title": "Status, Power, and Influence",
+      "bodyMd": "# Status, Power, and Influence\n\n## Overview\nRecognize status cues and power sources to adjust approach and maintain dignity on all sides.\n\n## Key Concepts\n- Formal vs. informal power.\n- Status threats and saving face.\n- Influence without authority: expertise, relationships, reputation.\n\n## Examples\n- Offer choices to preserve autonomy.\n- Credit others publicly to boost status.\n\n## Common Pitfalls\n- Triggering status threat with public correction.\n- Ignoring informal influencers.\n\n## Summary\nMap power and status dynamics. Communicate in ways that protect dignity and enlist informal leaders.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give examples", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 3,
+      "title": "Psychological Safety and Productive Dissent",
+      "bodyMd": "# Psychological Safety and Productive Dissent\n\n## Overview\nCreate conditions where people can voice concerns and surface risks without fear.\n\n## Key Concepts\n- Invitation: explicit asks for dissent.\n- Response: thank, probe, and log concerns.\n- Protection: no retaliation norms.\n\n## Examples\n- \"What are we missing?\" round‑robin.\n- Decision log with named risks and owners.\n\n## Common Pitfalls\n- Asking for feedback then dismissing it.\n- Punishing messengers.\n\n## Summary\nInvite and reward dissent. Track concerns transparently and address them to build resilient decisions.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show practices", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 4,
+      "title": "Language for De‑escalation and Boundary Setting",
+      "bodyMd": "# Language for De‑escalation and Boundary Setting\n\n## Overview\nUse specific phrases to acknowledge emotion, set boundaries, and refocus on issues.\n\n## Key Concepts\n- Acknowledge: name feelings and impacts.\n- Boundaries: time, topics, and tone.\n- Refocus: return to interests and process.\n\n## Examples\n- \"I hear you’re frustrated; let’s focus on options we can act on today.\"\n- \"If we can’t keep it respectful, we’ll pause and reschedule.\"\n\n## Common Pitfalls\n- Matching escalation with escalation.\n- Vague boundaries without enforcement.\n\n## Summary\nAcknowledge emotion, set clear boundaries, and steer back to solvable problems with neutral, firm language.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give phrases", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 5,
+      "title": "Escalation Protocols and When to Use Them",
+      "bodyMd": "# Escalation Protocols and When to Use Them\n\n## Overview\nNot all conflicts resolve at the same level. Define when to escalate and how to preserve relationships.\n\n## Key Concepts\n- Criteria: impact, risk, deadline proximity.\n- Path: who, how, and what to share.\n- Framing: neutral facts, desired outcome, prior attempts.\n\n## Examples\n- Escalation template: context, issue, impact, attempts, ask.\n- CC only those needed to decide.\n\n## Common Pitfalls\n- Escalation as punishment.\n- Broad CCs that inflame dynamics.\n\n## Summary\nUse escalation sparingly and professionally with clear criteria and a respectful, solution‑oriented brief.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show a template", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    }
+  ]
+}
+

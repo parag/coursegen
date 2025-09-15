@@ -1,0 +1,56 @@
+{
+  "learning": { "chapterIx": 1, "sectionIx": 1, "ix": 5, "title": "Sequencing Messages and Cadence Planning" },
+  "questions": [
+    {
+      "ix": 1,
+      "type": "mcq",
+      "promptMd": "What is the primary benefit of pre‑briefing high‑influence stakeholders before a broad announcement?",
+      "difficulty": "easy",
+      "rationaleMd": "Assesses understanding of sequencing to reduce resistance.",
+      "metadata": { "shuffle": true },
+      "answers": [
+        { "ix": 1, "contentMd": "Reduce surprises and surface objections early", "isCorrect": true, "feedbackMd": "Correct. Pre‑briefs buy alignment and improve message reception." },
+        { "ix": 2, "contentMd": "Increase email open rates", "isCorrect": false, "feedbackMd": "That’s not the main goal of pre‑briefs." },
+        { "ix": 3, "contentMd": "Avoid having to write FAQs", "isCorrect": false, "feedbackMd": "FAQs still help; pre‑briefs are about alignment and risk reduction." },
+        { "ix": 4, "contentMd": "Shorten the final announcement", "isCorrect": false, "feedbackMd": "Not the primary benefit." }
+      ]
+    },
+    {
+      "ix": 2,
+      "type": "true_false",
+      "promptMd": "True or False: A one‑and‑done announcement is sufficient for major policy changes if the initial message is clear.",
+      "difficulty": "medium",
+      "rationaleMd": "Reinforces need for reinforcement and drip sequences.",
+      "answers": [
+        { "ix": 1, "contentMd": "True", "isCorrect": false, "feedbackMd": "Major changes need reinforcement: reminders, Q&A, and support touchpoints." },
+        { "ix": 2, "contentMd": "False", "isCorrect": true, "feedbackMd": "Correct. Plan a sequence: announce → reinforce → support." }
+      ]
+    },
+    {
+      "ix": 3,
+      "type": "mcq",
+      "promptMd": "Which element is MOST important to avoid audience fatigue during a communication campaign?",
+      "difficulty": "medium",
+      "rationaleMd": "Applies cadence planning principles.",
+      "metadata": { "shuffle": true },
+      "answers": [
+        { "ix": 1, "contentMd": "Cadence calendar that avoids collisions and staggers reminders", "isCorrect": true, "feedbackMd": "Correct. A planned cadence prevents overload and improves recall." },
+        { "ix": 2, "contentMd": "Using more emojis to keep it light", "isCorrect": false, "feedbackMd": "Tone tweaks won’t fix over‑messaging." },
+        { "ix": 3, "contentMd": "Adding more people to the email list", "isCorrect": false, "feedbackMd": "Broader distribution can worsen fatigue." },
+        { "ix": 4, "contentMd": "Switching fonts and colors often", "isCorrect": false, "feedbackMd": "Inconsistent visuals won’t reduce fatigue." }
+      ]
+    },
+    {
+      "ix": 4,
+      "type": "true_false",
+      "promptMd": "True or False: Tailored cascades for execs, managers, and front‑line teams are unnecessary if the core message is strong.",
+      "difficulty": "easy",
+      "rationaleMd": "Assesses understanding of audience tailoring in cascades.",
+      "answers": [
+        { "ix": 1, "contentMd": "True", "isCorrect": false, "feedbackMd": "Different roles need different details, examples, and CTAs." },
+        { "ix": 2, "contentMd": "False", "isCorrect": true, "feedbackMd": "Correct. Cascades tailor depth and asks per audience." }
+      ]
+    }
+  ]
+}
+

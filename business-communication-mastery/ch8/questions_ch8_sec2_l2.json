@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 8, "sectionIx": 2, "ix": 2, "title": "Monitoring and Listening Systems" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which monitoring loop MOST improves early detection and response?", "difficulty": "hard", "rationaleMd": "Alerts→triage→owner→response log.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Mentions/reviews alerts → triage → owner assigned → response logged → weekly review", "isCorrect": true, "feedbackMd": "Closed‑loop listening and response." },
+      { "ix": 2, "contentMd": "Scan ad hoc when time allows", "isCorrect": false, "feedbackMd": "Inconsistent and reactive." },
+      { "ix": 3, "contentMd": "Reply to everything instantly without triage", "isCorrect": false, "feedbackMd": "Inefficient; poor prioritization." },
+      { "ix": 4, "contentMd": "Ignore negative mentions", "isCorrect": false, "feedbackMd": "Misses risks and learning." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which signal triage is MOST sensible?", "difficulty": "medium", "rationaleMd": "Severity/impact triage.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Prioritize high‑impact/credible signals; queue low‑impact for periodic batch", "isCorrect": true, "feedbackMd": "Balances urgency with throughput." },
+      { "ix": 2, "contentMd": "Treat all signals equally", "isCorrect": false, "feedbackMd": "Wastes effort." },
+      { "ix": 3, "contentMd": "Defer all negative signals", "isCorrect": false, "feedbackMd": "Avoidance harms reputation." },
+      { "ix": 4, "contentMd": "Only monitor positive signals", "isCorrect": false, "feedbackMd": "Bias misses issues." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Tag themes in support tickets to spot patterns early.", "difficulty": "easy", "rationaleMd": "Theme detection.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Enables trend analysis and priorities." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Unstructured data hides signals." }
+    ]}
+  ]
+}
+

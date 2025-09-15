@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 4, "sectionIx": 2, "ix": 1, "title": "Creating Value: Trades Across Issues" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which proposal MOST exemplifies logrolling?", "difficulty": "medium", "rationaleMd": "Trading low‑value for high‑value issues across sides.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Longer term for lower price; earlier payment for improved SLAs", "isCorrect": true, "feedbackMd": "Trades on issues valued differently by each side." },
+      { "ix": 2, "contentMd": "Price cut for price cut", "isCorrect": false, "feedbackMd": "Single‑issue haggling, not logrolling." },
+      { "ix": 3, "contentMd": "Scope freeze for scope freeze", "isCorrect": false, "feedbackMd": "No cross‑issue trade." },
+      { "ix": 4, "contentMd": "Delay decision to next quarter", "isCorrect": false, "feedbackMd": "Not a trade; a deferral." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which diagnostic question BEST reveals value differences?", "difficulty": "hard", "rationaleMd": "Surfacing preferences.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "‘Which matters more to you: price certainty or flexibility on scope/timeline—and why?’", "isCorrect": true, "feedbackMd": "Targets comparative preferences across issues." },
+      { "ix": 2, "contentMd": "‘Will you accept our proposal?’", "isCorrect": false, "feedbackMd": "Yes/no closes learning." },
+      { "ix": 3, "contentMd": "‘Do you like us?’", "isCorrect": false, "feedbackMd": "Irrelevant to issue value." },
+      { "ix": 4, "contentMd": "‘Can we lower price?’", "isCorrect": false, "feedbackMd": "Narrow single‑issue focus." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Mutual gains are found by exploring differences in priorities, not similarities.", "difficulty": "easy", "rationaleMd": "Integrative negotiation principle.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Differences create trade opportunities." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Similarity often yields fewer trades." }
+    ]}
+  ]
+}
+

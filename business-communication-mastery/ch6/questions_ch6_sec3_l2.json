@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 6, "sectionIx": 3, "ix": 2, "title": "Status, Power, and Influence" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which action MOST reduces status threat while maintaining progress?", "difficulty": "hard", "rationaleMd": "Dignity preservation.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Offer choices within constraints and credit contributions publicly", "isCorrect": true, "feedbackMd": "Protects autonomy and face while collaborating." },
+      { "ix": 2, "contentMd": "Correct publicly to establish standards", "isCorrect": false, "feedbackMd": "Triggers threat; use private channels." },
+      { "ix": 3, "contentMd": "Insist on your authority", "isCorrect": false, "feedbackMd": "Authority pressure increases resistance." },
+      { "ix": 4, "contentMd": "Ignore informal influencers", "isCorrect": false, "feedbackMd": "Misses real power dynamics." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which influence source is LEAST dependent on formal authority?", "difficulty": "medium", "rationaleMd": "Power bases.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Expertise and reputation capital", "isCorrect": true, "feedbackMd": "Operates across hierarchies." },
+      { "ix": 2, "contentMd": "Budget sign‑off rights", "isCorrect": false, "feedbackMd": "Formal authority." },
+      { "ix": 3, "contentMd": "Org chart position", "isCorrect": false, "feedbackMd": "Formal hierarchy." },
+      { "ix": 4, "contentMd": "Hiring/firing authority", "isCorrect": false, "feedbackMd": "Formal power." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Preserving the other party’s dignity can increase willingness to agree.", "difficulty": "easy", "rationaleMd": "Face concerns.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Face‑saving reduces resistance." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Threat to face blocks agreement." }
+    ]}
+  ]
+}
+

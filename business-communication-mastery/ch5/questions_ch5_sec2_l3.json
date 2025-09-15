@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 5, "sectionIx": 2, "ix": 3, "title": "Templates, Grids, and Consistency" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which practice MOST improves consistency across slides?", "difficulty": "medium", "rationaleMd": "Grid and master usage.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Use master slides with a column grid and consistent tokens", "isCorrect": true, "feedbackMd": "Locks structure and styling." },
+      { "ix": 2, "contentMd": "Place elements by eye on each slide", "isCorrect": false, "feedbackMd": "Inconsistent alignment." },
+      { "ix": 3, "contentMd": "Change colors per slide to avoid boredom", "isCorrect": false, "feedbackMd": "Reduces coherence." },
+      { "ix": 4, "contentMd": "Disable templates to gain freedom", "isCorrect": false, "feedbackMd": "Freedom increases inconsistency." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which token set is MOST useful to define?", "difficulty": "hard", "rationaleMd": "Design tokens for scale.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Colors, spacing, font sizes, icon style", "isCorrect": true, "feedbackMd": "Covers key reusable primitives." },
+      { "ix": 2, "contentMd": "Logo size variations only", "isCorrect": false, "feedbackMd": "Branding element, but not sufficient." },
+      { "ix": 3, "contentMd": "Slide transitions and animations", "isCorrect": false, "feedbackMd": "Not core consistency tokens." },
+      { "ix": 4, "contentMd": "Background images per slide", "isCorrect": false, "feedbackMd": "Adds noise, not consistency." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: A grid helps align elements and creates visual rhythm.", "difficulty": "easy", "rationaleMd": "Grid value.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Improves alignment and scanability." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Grids are a standard design tool for consistency." }
+    ]}
+  ]
+}
+

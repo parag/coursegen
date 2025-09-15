@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 4, "sectionIx": 2, "ix": 3, "title": "Concession Strategy and Pacing" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which concession pattern MOST preserves value?", "difficulty": "hard", "rationaleMd": "Decreasing concession size + reciprocity.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Small, diminishing concessions paired with specific reciprocal asks", "isCorrect": true, "feedbackMd": "Signals nearing limit and trades value for value." },
+      { "ix": 2, "contentMd": "Large early concession to build goodwill", "isCorrect": false, "feedbackMd": "Sets bad expectations and weakens position." },
+      { "ix": 3, "contentMd": "Match every demand tit‑for‑tat immediately", "isCorrect": false, "feedbackMd": "Reactive and reveals flexibility too fast." },
+      { "ix": 4, "contentMd": "Concede on price without documenting what it buys", "isCorrect": false, "feedbackMd": "Loses track of value trades." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "What should a concession log include?", "difficulty": "medium", "rationaleMd": "Documentation and discipline.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Concession, rationale, what it buys, and the reciprocal movement", "isCorrect": true, "feedbackMd": "Creates accountability and memory." },
+      { "ix": 2, "contentMd": "Only the other side’s moves", "isCorrect": false, "feedbackMd": "Track both sides to stay balanced." },
+      { "ix": 3, "contentMd": "Just final numbers", "isCorrect": false, "feedbackMd": "Misses process learning." },
+      { "ix": 4, "contentMd": "Meeting length and attendance", "isCorrect": false, "feedbackMd": "Not relevant to concessions." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Concessions should be tied to clear rationales to avoid signaling unlimited flexibility.", "difficulty": "easy", "rationaleMd": "Signal management.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Explain why and what it buys." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Unexplained concessions invite more demands." }
+    ]}
+  ]
+}
+

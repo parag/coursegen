@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 7, "sectionIx": 1, "ix": 2, "title": "Time Orientation and Scheduling Norms" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Working with polychronic teams, which plan MOST reduces friction?", "difficulty": "hard", "rationaleMd": "Buffer + clarity on deadlines/horizons.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Add buffers, clarify deadline meaning, and align on core hours", "isCorrect": true, "feedbackMd": "Respects time norms and prevents misses." },
+      { "ix": 2, "contentMd": "Insist on rigid punctuality immediately", "isCorrect": false, "feedbackMd": "Imposes norms without buy‑in." },
+      { "ix": 3, "contentMd": "Avoid deadlines to be flexible", "isCorrect": false, "feedbackMd": "Ambiguity invites slippage." },
+      { "ix": 4, "contentMd": "Schedule during local holidays", "isCorrect": false, "feedbackMd": "Avoid cultural conflicts." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which clarification MOST prevents deadline misunderstandings?", "difficulty": "medium", "rationaleMd": "Definition of ‘deadline’.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Define whether deadline means ‘start by’ or ‘complete by’ and the time zone", "isCorrect": true, "feedbackMd": "Eliminates common confusion." },
+      { "ix": 2, "contentMd": "Say ‘ASAP’", "isCorrect": false, "feedbackMd": "Vague and subjective." },
+      { "ix": 3, "contentMd": "Use ‘soon’", "isCorrect": false, "feedbackMd": "Ambiguous." },
+      { "ix": 4, "contentMd": "Assume shared meaning", "isCorrect": false, "feedbackMd": "Risky across cultures." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Explicitly listing local holidays reduces accidental scheduling conflicts.", "difficulty": "easy", "rationaleMd": "Calendar alignment.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Make invisible constraints visible." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Hidden holidays derail plans." }
+    ]}
+  ]
+}
+

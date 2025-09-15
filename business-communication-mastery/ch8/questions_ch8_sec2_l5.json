@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 8, "sectionIx": 2, "ix": 5, "title": "Repair and Apology Patterns" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which apology pattern MOST repairs trust?", "difficulty": "hard", "rationaleMd": "Acknowledge → apologize → remedy → verify.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Acknowledge impact → specific apology → remedy plan with dates → verification update", "isCorrect": true, "feedbackMd": "Complete repair sequence." },
+      { "ix": 2, "contentMd": "‘Sorry if you felt…’ + optimism", "isCorrect": false, "feedbackMd": "Non‑apology; lacks ownership." },
+      { "ix": 3, "contentMd": "Blame partner; move on", "isCorrect": false, "feedbackMd": "Deflection harms trust." },
+      { "ix": 4, "contentMd": "Silence until fixed", "isCorrect": false, "feedbackMd": "Vacuum fuels speculation." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which make‑good is MOST credible?", "difficulty": "medium", "rationaleMd": "Proportional remedy.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Proportional credit/refund plus prevention steps explained", "isCorrect": true, "feedbackMd": "Addresses harm and recurrence." },
+      { "ix": 2, "contentMd": "Generic coupon unrelated to harm", "isCorrect": false, "feedbackMd": "Feels transactional." },
+      { "ix": 3, "contentMd": "Promise to ‘do better’", "isCorrect": false, "feedbackMd": "Vague; no plan." },
+      { "ix": 4, "contentMd": "Offer swag", "isCorrect": false, "feedbackMd": "Not tied to harm." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Closing the loop publicly after remediation can strengthen trust above baseline.", "difficulty": "easy", "rationaleMd": "Trust rebound.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Competent recovery can increase trust." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Handled well, outcomes can improve perception." }
+    ]}
+  ]
+}
+

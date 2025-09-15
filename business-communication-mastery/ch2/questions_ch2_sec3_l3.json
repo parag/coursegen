@@ -1,0 +1,26 @@
+{
+  "learning": { "chapterIx": 2, "sectionIx": 3, "ix": 3, "title": "Simplification and Information Architecture" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which redesign MOST reduces cognitive load in an executive memo?", "difficulty": "hard", "rationaleMd": "Applying IA to decision narratives.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "BLUF + options vs. criteria table + risks + CTA; move methods to appendix", "isCorrect": true, "feedbackMd": "Maintains decision path while removing non‑essential detail." },
+      { "ix": 2, "contentMd": "Add a long history section before the ask", "isCorrect": false, "feedbackMd": "Background first buries the decision." },
+      { "ix": 3, "contentMd": "Insert more adjectives for emphasis", "isCorrect": false, "feedbackMd": "Stylistic padding increases noise." },
+      { "ix": 4, "contentMd": "Keep methods inline to ensure transparency", "isCorrect": false, "feedbackMd": "Transparency is good, but core flow should be lean with appendix for detail." }
+    ]},
+    { "ix": 2, "type": "true_false", "promptMd": "True or False: Progressive disclosure helps both novices and experts navigate content efficiently.", "difficulty": "medium", "rationaleMd": "IA principle across audiences.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Essentials first; deeper layers on demand." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Both groups benefit from staged detail." }
+    ]},
+    { "ix": 3, "type": "mcq", "promptMd": "Which element MOST helps scanners locate the CTA quickly?", "difficulty": "medium", "rationaleMd": "IA cues for action.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "A labeled \"Decision Needed\" section near the top with owner/date", "isCorrect": true, "feedbackMd": "Explicit label + placement speeds action." },
+      { "ix": 2, "contentMd": "A colorful background image", "isCorrect": false, "feedbackMd": "Visual noise without semantic value." },
+      { "ix": 3, "contentMd": "A long narrative paragraph without headings", "isCorrect": false, "feedbackMd": "Hard to scan for action." },
+      { "ix": 4, "contentMd": "Footnote explaining scope", "isCorrect": false, "feedbackMd": "Not an action locator." }
+    ]},
+    { "ix": 4, "type": "true_false", "promptMd": "True or False: Optionally omitting an appendix is recommended to keep documents short.", "difficulty": "easy", "rationaleMd": "Appendix supports depth without cluttering core.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": false, "feedbackMd": "Appendices enable transparency and depth when needed." },
+      { "ix": 2, "contentMd": "False", "isCorrect": true, "feedbackMd": "Correct. Keep core lean but include appendices for motivated readers." }
+    ]}
+  ]
+}
+

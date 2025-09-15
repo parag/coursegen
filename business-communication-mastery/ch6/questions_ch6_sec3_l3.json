@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 6, "sectionIx": 3, "ix": 3, "title": "Psychological Safety and Productive Dissent" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which move MOST reliably invites dissent?", "difficulty": "hard", "rationaleMd": "Structured invitation.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Round‑robin ‘What are we missing?’ with notes and owners", "isCorrect": true, "feedbackMd": "Equalizes airtime and records risks." },
+      { "ix": 2, "contentMd": "Ask ‘Any feedback?’ at the end", "isCorrect": false, "feedbackMd": "Too broad; late in the process." },
+      { "ix": 3, "contentMd": "React defensively to concerns", "isCorrect": false, "feedbackMd": "Shuts down safety." },
+      { "ix": 4, "contentMd": "Skip dissent to save time", "isCorrect": false, "feedbackMd": "Risks blind spots." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which follow‑through MOST strengthens safety?", "difficulty": "medium", "rationaleMd": "Risk logging.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Log concerns with owners and report back on outcomes", "isCorrect": true, "feedbackMd": "Shows dissent leads to action." },
+      { "ix": 2, "contentMd": "Thank people then delete notes", "isCorrect": false, "feedbackMd": "Signals performative interest." },
+      { "ix": 3, "contentMd": "Ignore low‑status contributors", "isCorrect": false, "feedbackMd": "Harms safety and quality." },
+      { "ix": 4, "contentMd": "Publish names with blame", "isCorrect": false, "feedbackMd": "Punitive; chills input." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Rewarding dissent that surfaces real risks increases future candor.", "difficulty": "easy", "rationaleMd": "Reinforcement.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Positive reinforcement matters." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Punishing dissent suppresses signal." }
+    ]}
+  ]
+}
+

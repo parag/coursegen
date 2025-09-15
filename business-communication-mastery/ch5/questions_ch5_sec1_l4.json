@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 5, "sectionIx": 1, "ix": 4, "title": "Signposting and Transitions" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which transition MOST cleanly guides the audience?", "difficulty": "medium", "rationaleMd": "Recap→preview discipline.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "‘We compared options; now the recommendation and risks’", "isCorrect": true, "feedbackMd": "Summarizes and previews the next section." },
+      { "ix": 2, "contentMd": "‘Anyway… next slide’", "isCorrect": false, "feedbackMd": "Uninformative." },
+      { "ix": 3, "contentMd": "Jump silently to a new topic", "isCorrect": false, "feedbackMd": "Audience loses the thread." },
+      { "ix": 4, "contentMd": "Repeat the last slide verbatim", "isCorrect": false, "feedbackMd": "Wastes time without preview." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which visual signpost BEST orients the room?", "difficulty": "hard", "rationaleMd": "Progress cues.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "A roadmap/progress marker showing current section vs. total", "isCorrect": true, "feedbackMd": "Reduces time anxiety and orients flow." },
+      { "ix": 2, "contentMd": "Decorative slide divider image", "isCorrect": false, "feedbackMd": "No semantic value." },
+      { "ix": 3, "contentMd": "Random emoji", "isCorrect": false, "feedbackMd": "Not informative." },
+      { "ix": 4, "contentMd": "A larger company logo", "isCorrect": false, "feedbackMd": "Branding doesn’t orient content." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Signposting should be both verbal and visual for best effect.", "difficulty": "easy", "rationaleMd": "Dual-channel cues.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Redundant cues aid comprehension." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "One channel alone is weaker." }
+    ]}
+  ]
+}
+

@@ -1,0 +1,26 @@
+{
+  "learning": { "chapterIx": 3, "sectionIx": 3, "ix": 2, "title": "Unexpectedness and Curiosity Gaps" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which opener BEST creates a legitimate curiosity gap for execs?", "difficulty": "hard", "rationaleMd": "Promise + payoff relevance.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "‘The costliest outages weren’t the longest—here’s why and how to prevent them’", "isCorrect": true, "feedbackMd": "Counter‑intuitive, decision‑relevant, sets up payoff." },
+      { "ix": 2, "contentMd": "‘You won’t BELIEVE what we found!!!’", "isCorrect": false, "feedbackMd": "Click‑bait tone undermines credibility." },
+      { "ix": 3, "contentMd": "‘Here are some numbers’", "isCorrect": false, "feedbackMd": "No curiosity gap or relevance." },
+      { "ix": 4, "contentMd": "‘We worked really hard’", "isCorrect": false, "feedbackMd": "Effort isn’t a hook." }
+    ]},
+    { "ix": 2, "type": "true_false", "promptMd": "True or False: A curiosity gap must be resolved quickly with substance to avoid frustration.", "difficulty": "medium", "rationaleMd": "Payoff discipline.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Hook then deliver; don’t tease endlessly." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Teasing without payoff erodes trust." }
+    ]},
+    { "ix": 3, "type": "mcq", "promptMd": "Which risk MOST commonly ruins an unexpected opener?", "difficulty": "medium", "rationaleMd": "Pitfall awareness.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Setup that isn’t relevant to the decision at hand", "isCorrect": true, "feedbackMd": "Surprise must tie to the decision; otherwise it’s a gimmick." },
+      { "ix": 2, "contentMd": "Concise headline", "isCorrect": false, "feedbackMd": "That helps, it doesn’t ruin it." },
+      { "ix": 3, "contentMd": "A simple chart", "isCorrect": false, "feedbackMd": "Fine if it supports the point." },
+      { "ix": 4, "contentMd": "Plain language", "isCorrect": false, "feedbackMd": "Clarity helps." }
+    ]},
+    { "ix": 4, "type": "true_false", "promptMd": "True or False: In executive settings, a brief, relevant hook is acceptable; extended theatrics are not.", "difficulty": "easy", "rationaleMd": "Fit‑for‑audience.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Respect time and context while using surprise judiciously." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Theatrics undermine credibility in most exec contexts." }
+    ]}
+  ]
+}
+

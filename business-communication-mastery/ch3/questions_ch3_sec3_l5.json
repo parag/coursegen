@@ -1,0 +1,26 @@
+{
+  "learning": { "chapterIx": 3, "sectionIx": 3, "ix": 5, "title": "Stories into Actions: Clear CTAs" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which CTA MOST cleanly converts the narrative into action?", "difficulty": "medium", "rationaleMd": "CTA specificity and friction.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Approve the 4‑week pilot by Friday; 1‑pager linked; owner: Dana", "isCorrect": true, "feedbackMd": "Specific ask, deadline, artifact, and ownership." },
+      { "ix": 2, "contentMd": "Thoughts?", "isCorrect": false, "feedbackMd": "Vague and low‑signal." },
+      { "ix": 3, "contentMd": "Multiple asks: review, comment, schedule, and budget", "isCorrect": false, "feedbackMd": "Competing CTAs dilute action." },
+      { "ix": 4, "contentMd": "Let’s take this offline sometime", "isCorrect": false, "feedbackMd": "Non‑committal and unclear." }
+    ]},
+    { "ix": 2, "type": "true_false", "promptMd": "True or False: A CTA aligned to the story’s stakes improves conversion versus a generic \"next steps\".", "difficulty": "easy", "rationaleMd": "CTA–story fit.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Alignment maintains motivation and relevance." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Generic asks underperform when stakes are clear." }
+    ]},
+    { "ix": 3, "type": "mcq", "promptMd": "Which friction removal MOST increases CTA follow‑through?", "difficulty": "hard", "rationaleMd": "Reduce effort, preserve autonomy.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Pre‑filled approval link + calendar poll with 2 slots + summary attached", "isCorrect": true, "feedbackMd": "Clear, low‑effort path to yes." },
+      { "ix": 2, "contentMd": "Ask to ‘reply all’ with any thoughts", "isCorrect": false, "feedbackMd": "High noise; low clarity." },
+      { "ix": 3, "contentMd": "Attach a 40‑slide deck without TL;DR", "isCorrect": false, "feedbackMd": "High friction." },
+      { "ix": 4, "contentMd": "Offer to schedule a brainstorm later", "isCorrect": false, "feedbackMd": "Ambiguous pathway." }
+    ]},
+    { "ix": 4, "type": "true_false", "promptMd": "True or False: Ownership (who does what by when) belongs in the closing slide/section.", "difficulty": "medium", "rationaleMd": "Ownership clarity.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Owners and dates lock accountability." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Without owners/dates, CTAs drift." }
+    ]}
+  ]
+}
+

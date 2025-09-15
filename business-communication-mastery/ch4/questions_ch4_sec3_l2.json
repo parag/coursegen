@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 4, "sectionIx": 3, "ix": 2, "title": "Reframing, Probing, and Neutral Language" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which question BEST probes interests without sounding adversarial?", "difficulty": "hard", "rationaleMd": "Calibrated questions.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "‘What outcome matters most here, so we can explore options?’", "isCorrect": true, "feedbackMd": "Opens interests and collaboration." },
+      { "ix": 2, "contentMd": "‘Why are you being so rigid?’", "isCorrect": false, "feedbackMd": "Accusatory and escalatory." },
+      { "ix": 3, "contentMd": "‘Is your budget fake?’", "isCorrect": false, "feedbackMd": "Inflammatory." },
+      { "ix": 4, "contentMd": "‘If you can’t move, neither can we’", "isCorrect": false, "feedbackMd": "Positional and unproductive." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which reframe is MOST effective?", "difficulty": "medium", "rationaleMd": "From positions to problems.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "From ‘must be 12‑month term’ → ‘need cost predictability and risk guardrails’", "isCorrect": true, "feedbackMd": "Identifies underlying interests enabling alternatives." },
+      { "ix": 2, "contentMd": "From ‘no’ → ‘still no’", "isCorrect": false, "feedbackMd": "No reframe at all." },
+      { "ix": 3, "contentMd": "From ‘you’re wrong’ → ‘you’re still wrong’", "isCorrect": false, "feedbackMd": "Escalates conflict." },
+      { "ix": 4, "contentMd": "From ‘let’s debate’ → ‘let’s debate louder’", "isCorrect": false, "feedbackMd": "Not a reframe." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Neutral language (seems, appears) reduces attribution and keeps dialogue open.", "difficulty": "easy", "rationaleMd": "Linguistic softeners.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Lower blame keeps channels open." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Hard labels close minds." }
+    ]}
+  ]
+}
+

@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 6, "sectionIx": 2, "ix": 4, "title": "Nonviolent Communication (NVC) in Practice" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which statement MOST closely follows NVC?", "difficulty": "hard", "rationaleMd": "Observe→Feel→Need→Request.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "‘When deadlines shift (O), I feel anxious (F) because predictability matters (N). Could we confirm changes 24h ahead? (R)’", "isCorrect": true, "feedbackMd": "Complete and respectful NVC pattern." },
+      { "ix": 2, "contentMd": "‘You’re careless; stop changing plans’", "isCorrect": false, "feedbackMd": "Blame and command; not NVC." },
+      { "ix": 3, "contentMd": "‘It’d be nice if things were better’", "isCorrect": false, "feedbackMd": "Vague and unactionable." },
+      { "ix": 4, "contentMd": "‘I feel you’re incompetent’", "isCorrect": false, "feedbackMd": "Judgment masquerading as feeling." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which pitfall MOST undermines NVC in practice?", "difficulty": "medium", "rationaleMd": "Mechanical tone vs. authenticity.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Reciting the formula mechanically without genuine curiosity", "isCorrect": true, "feedbackMd": "Sounds performative and can backfire." },
+      { "ix": 2, "contentMd": "Naming specific observations", "isCorrect": false, "feedbackMd": "That is correct usage." },
+      { "ix": 3, "contentMd": "Making a specific request", "isCorrect": false, "feedbackMd": "Also correct usage." },
+      { "ix": 4, "contentMd": "Acknowledging the other’s needs", "isCorrect": false, "feedbackMd": "Builds empathy." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Requests should be specific, doable, and framed as options rather than demands.", "difficulty": "easy", "rationaleMd": "Request hygiene.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Specific choices increase cooperation." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Vague or demanding requests breed resistance." }
+    ]}
+  ]
+}
+

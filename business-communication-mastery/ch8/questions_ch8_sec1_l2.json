@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 8, "sectionIx": 1, "ix": 2, "title": "Transparency and Informed Consent" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which disclosure set MOST supports informed consent?", "difficulty": "hard", "rationaleMd": "Terms, costs, data use, alternatives, opt‑out.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Plain‑language summary of terms/costs/data use + alternatives + easy opt‑out", "isCorrect": true, "feedbackMd": "Enables understanding and choice." },
+      { "ix": 2, "contentMd": "Fine print only", "isCorrect": false, "feedbackMd": "Obscures material terms." },
+      { "ix": 3, "contentMd": "Marketing video without details", "isCorrect": false, "feedbackMd": "Insufficient disclosure." },
+      { "ix": 4, "contentMd": "Hidden opt‑outs", "isCorrect": false, "feedbackMd": "Dark pattern; unethical." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which opt‑out design is MOST ethical?", "difficulty": "medium", "rationaleMd": "Reversibility and ease.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Clear, single‑click opt‑out visible alongside the choice", "isCorrect": true, "feedbackMd": "Respects autonomy and reversibility." },
+      { "ix": 2, "contentMd": "Multi‑page opt‑out maze", "isCorrect": false, "feedbackMd": "Coercive friction." },
+      { "ix": 3, "contentMd": "Email support to opt‑out only", "isCorrect": false, "feedbackMd": "Unnecessarily difficult." },
+      { "ix": 4, "contentMd": "No opt‑out", "isCorrect": false, "feedbackMd": "Coercive." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Disclosing credible alternatives—even competitors—can be ethical when user welfare is primary.", "difficulty": "easy", "rationaleMd": "Benevolence over capture.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Prioritize user welfare when appropriate." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Concealing alternatives undermines informed consent." }
+    ]}
+  ]
+}
+

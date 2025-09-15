@@ -1,0 +1,26 @@
+{
+  "learning": { "chapterIx": 3, "sectionIx": 2, "ix": 3, "title": "Weaving Evidence: Layering Claims, Context, and Caveats" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which slide note MOST appropriately communicates caveats without derailing the story?", "difficulty": "hard", "rationaleMd": "Balance transparency and focus.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Footnote: ‘Sample excludes <1% outliers; methods in appendix S1’", "isCorrect": true, "feedbackMd": "Concise caveat with pointer to detail." },
+      { "ix": 2, "contentMd": "Opening with three slides of methodology", "isCorrect": false, "feedbackMd": "Front‑loads detail and loses the room." },
+      { "ix": 3, "contentMd": "No caveats to keep it clean", "isCorrect": false, "feedbackMd": "Hiding limitations harms credibility." },
+      { "ix": 4, "contentMd": "A dense paragraph on every slide", "isCorrect": false, "feedbackMd": "Overloads attention and obscures insight." }
+    ]},
+    { "ix": 2, "type": "true_false", "promptMd": "True or False: Context (scope, baseline, time window) should precede the data to prevent misinterpretation.", "difficulty": "medium", "rationaleMd": "Context first avoids misreads.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Frame the lens before the picture." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Unframed data invites wrong inferences." }
+    ]},
+    { "ix": 3, "type": "mcq", "promptMd": "Where should alternative cuts live when likely to distract non‑expert executives?", "difficulty": "medium", "rationaleMd": "Placement of depth.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Appendix with clean links from core slides", "isCorrect": true, "feedbackMd": "Preserves focus while enabling deep dives." },
+      { "ix": 2, "contentMd": "Inline with the main claim slide", "isCorrect": false, "feedbackMd": "Splits attention and weakens the main point." },
+      { "ix": 3, "contentMd": "Separate deck never referenced", "isCorrect": false, "feedbackMd": "Hard to find when needed." },
+      { "ix": 4, "contentMd": "Remove entirely to stay simple", "isCorrect": false, "feedbackMd": "Transparency suffers." }
+    ]},
+    { "ix": 4, "type": "true_false", "promptMd": "True or False: Caveats should be as prominent as the main claim so they aren’t missed.", "difficulty": "hard", "rationaleMd": "Relative prominence: claim > caveat; caveat accessible.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": false, "feedbackMd": "Over‑prominence can drown the signal. Keep caveats visible yet subordinate." },
+      { "ix": 2, "contentMd": "False", "isCorrect": true, "feedbackMd": "Correct. Make caveats easy to find without overshadowing the claim." }
+    ]}
+  ]
+}
+

@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 5, "sectionIx": 1, "ix": 1, "title": "Executive Summaries and BLUF" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which opening BEST applies BLUF for an exec review?", "difficulty": "hard", "rationaleMd": "Answer-first discipline.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Approve Option B to cut onboarding time 35%; risks and plan below", "isCorrect": true, "feedbackMd": "Decision + outcome first; context follows." },
+      { "ix": 2, "contentMd": "Background on onboarding history; recommendation at the end", "isCorrect": false, "feedbackMd": "Buried answer delays decision." },
+      { "ix": 3, "contentMd": "We’ve been working very hard on onboarding", "isCorrect": false, "feedbackMd": "Effort ≠ BLUF or decision." },
+      { "ix": 4, "contentMd": "Agenda: intros, history, demo, open discussion", "isCorrect": false, "feedbackMd": "No answer or ask stated." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which summary format is MOST effective?", "difficulty": "medium", "rationaleMd": "4–6 bullets, decision-centric.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "4–6 bullets: recommendation, impact, risks, options, CTA/date/owner", "isCorrect": true, "feedbackMd": "Balanced clarity for execs." },
+      { "ix": 2, "contentMd": "A paragraph of prose with no labels", "isCorrect": false, "feedbackMd": "Hard to scan." },
+      { "ix": 3, "contentMd": "A page of background then the ask", "isCorrect": false, "feedbackMd": "Delays decision context." },
+      { "ix": 4, "contentMd": "Slide of quotes from users", "isCorrect": false, "feedbackMd": "Evidence without decision frame." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: A clear CTA with owner and date belongs in the BLUF block.", "difficulty": "easy", "rationaleMd": "Close the loop in the opener.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Execs need the ask upfront." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Delaying the CTA slows decisions." }
+    ]}
+  ]
+}
+

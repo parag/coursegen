@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 4, "sectionIx": 1, "ix": 4, "title": "Negotiation Plan and Role‑Play" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which rehearsal MOST improves readiness against likely counters?", "difficulty": "hard", "rationaleMd": "Role‑play quality over monologue practice.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Mock call with a partner using realistic objections and tactics", "isCorrect": true, "feedbackMd": "Pressure‑testing reveals gaps in answers and tone." },
+      { "ix": 2, "contentMd": "Reading your talking points aloud alone", "isCorrect": false, "feedbackMd": "Helps fluency but not counter‑handling." },
+      { "ix": 3, "contentMd": "Designing new slide themes", "isCorrect": false, "feedbackMd": "Cosmetic; low impact on outcome." },
+      { "ix": 4, "contentMd": "Extending the agenda by 10 minutes", "isCorrect": false, "feedbackMd": "Time helps less than rehearsal quality." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which item is LEAST essential in a negotiation plan?", "difficulty": "medium", "rationaleMd": "Plan contents.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Slide color palette", "isCorrect": true, "feedbackMd": "Aesthetic choices are not core strategy." },
+      { "ix": 2, "contentMd": "Goals, BATNAs, reservation, targets", "isCorrect": false, "feedbackMd": "These are critical elements." },
+      { "ix": 3, "contentMd": "Issue list and scoring", "isCorrect": false, "feedbackMd": "Core to multi‑issue talks." },
+      { "ix": 4, "contentMd": "Opening and concession strategy", "isCorrect": false, "feedbackMd": "Essential process design." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Debrief role‑plays to refine phrasing, evidence, and tone before the real call.", "difficulty": "easy", "rationaleMd": "Iterative preparation.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Feedback loops improve performance." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Skipping debrief wastes the practice." }
+    ]}
+  ]
+}
+

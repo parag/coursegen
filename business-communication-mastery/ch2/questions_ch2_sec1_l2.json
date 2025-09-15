@@ -1,0 +1,26 @@
+{
+  "learning": { "chapterIx": 2, "sectionIx": 1, "ix": 2, "title": "Reciprocity and Commitment in Practice" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which invitation MOST aligns with ethical commitment/consistency?", "difficulty": "hard", "rationaleMd": "Subtle difference between manipulative pretext vs. value‑aligned micro‑commitment.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Invite stakeholders to co‑edit a 1‑pager before requesting pilot sign‑up", "isCorrect": true, "feedbackMd": "Correct. Value first, then a small public commitment." },
+      { "ix": 2, "contentMd": "Ask for a public endorsement before they’ve reviewed details", "isCorrect": false, "feedbackMd": "Premature and coercive; lacks informed consent." },
+      { "ix": 3, "contentMd": "Send swag and ask for immediate purchase", "isCorrect": false, "feedbackMd": "Reciprocity appears transactional and misaligned with value." },
+      { "ix": 4, "contentMd": "Request a private verbal promise to roll out org‑wide", "isCorrect": false, "feedbackMd": "Over‑commitment without evaluation invites backlash." }
+    ]},
+    { "ix": 2, "type": "true_false", "promptMd": "True or False: Public commitments should always be avoided to reduce social pressure.", "difficulty": "medium", "rationaleMd": "Public commitments can be beneficial when informed and aligned.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": false, "feedbackMd": "Public commitments can strengthen follow‑through when voluntary and informed." },
+      { "ix": 2, "contentMd": "False", "isCorrect": true, "feedbackMd": "Correct. Use responsibly; ensure consent and clarity." }
+    ]},
+    { "ix": 3, "type": "mcq", "promptMd": "Which follow‑up BEST sustains consistency without seeming coercive?", "difficulty": "medium", "rationaleMd": "Reinforcing commitments ethically.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "A reminder referencing their stated goals and the agreed next micro‑step", "isCorrect": true, "feedbackMd": "Aligns with their goals, not just pressure." },
+      { "ix": 2, "contentMd": "Daily nudges tagging them in public channels", "isCorrect": false, "feedbackMd": "Shaming pressure harms trust." },
+      { "ix": 3, "contentMd": "Escalate to their manager after 24 hours", "isCorrect": false, "feedbackMd": "Premature escalation increases resistance." },
+      { "ix": 4, "contentMd": "Add them to a pilot without consent to show value", "isCorrect": false, "feedbackMd": "Violates autonomy and likely policy." }
+    ]},
+    { "ix": 4, "type": "true_false", "promptMd": "True or False: A \"give‑to‑ask\" must be relevant and genuinely useful to the recipient to trigger reciprocity.", "difficulty": "easy", "rationaleMd": "Relevance differentiates reciprocity from quid‑pro‑quo.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Irrelevance feels transactional, not helpful." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Random gifts rarely foster meaningful reciprocity." }
+    ]}
+  ]
+}
+

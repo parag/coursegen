@@ -1,0 +1,26 @@
+{
+  "learning": { "chapterIx": 2, "sectionIx": 2, "ix": 2, "title": "Proof Stack: Evidence Hierarchy" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Rank the following from strongest to weakest proof in most B2B cases: A) audited third‑party review, B) pilot results, C) internal opinion, D) peer reference call.", "difficulty": "hard", "rationaleMd": "Orders heterogeneous proofs by credibility.", "metadata": {"shuffle": false}, "answers": [
+      { "ix": 1, "contentMd": "A > D > B > C", "isCorrect": true, "feedbackMd": "Audit (independent) > peer reference (contextual) > pilot (situated) > opinion (weak)." },
+      { "ix": 2, "contentMd": "D > A > B > C", "isCorrect": false, "feedbackMd": "Peer references are strong but usually below independent audits." },
+      { "ix": 3, "contentMd": "B > A > D > C", "isCorrect": false, "feedbackMd": "Pilots are solid but typically below audits/references." },
+      { "ix": 4, "contentMd": "A > B > D > C", "isCorrect": false, "feedbackMd": "References are often stronger than a single pilot due to external credibility." }
+    ]},
+    { "ix": 2, "type": "true_false", "promptMd": "True or False: Relevance (same industry, role, and scale) can outweigh sheer quantity of weaker proofs.", "difficulty": "medium", "rationaleMd": "Quality vs. quantity of proof.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Highly relevant proofs transfer more belief." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Quantity of weak proof rarely beats a few strong, relevant proofs." }
+    ]},
+    { "ix": 3, "type": "mcq", "promptMd": "Which sequence BEST layers a proof stack?", "difficulty": "medium", "rationaleMd": "Lead strong, then corroborate.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Independent audit → peer reference → pilot results → internal data", "isCorrect": true, "feedbackMd": "Strongest first, then triangulate with context and internal metrics." },
+      { "ix": 2, "contentMd": "Internal opinion → pilot results → peer reference → audit", "isCorrect": false, "feedbackMd": "Leads weak, buries the strongest at the end." },
+      { "ix": 3, "contentMd": "Peer reference → internal opinion → pilot → audit", "isCorrect": false, "feedbackMd": "Opinion adds little; audit shouldn’t be last." },
+      { "ix": 4, "contentMd": "Pilot → pilot → pilot → pilot", "isCorrect": false, "feedbackMd": "Redundant; lacks external validation." }
+    ]},
+    { "ix": 4, "type": "true_false", "promptMd": "True or False: Logo walls are sufficient when the audience is technical and risk‑sensitive.", "difficulty": "easy", "rationaleMd": "Logo walls vs. outcome evidence.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": false, "feedbackMd": "Logos without outcomes rarely persuade technical, risk‑sensitive audiences." },
+      { "ix": 2, "contentMd": "False", "isCorrect": true, "feedbackMd": "Correct. Provide outcomes and references, not just logos." }
+    ]}
+  ]
+}
+

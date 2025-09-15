@@ -1,0 +1,26 @@
+{
+  "learning": { "chapterIx": 3, "sectionIx": 1, "ix": 1, "title": "SCQA and SCR: Executive Narrative Arcs" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which opening most closely follows SCQA with a decision focus?", "difficulty": "hard", "rationaleMd": "Tests ability to structure an executive opening with an explicit question/answer.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Situation: Q2 pipeline lags 18%. Complication: churn rose in SMB. Question: invest in self‑serve? Answer: fund self‑serve by reallocating $400k.", "isCorrect": true, "feedbackMd": "Situation→Complication→Question→Answer, tied to a decision and numbers." },
+      { "ix": 2, "contentMd": "Anecdote about a customer, then some history, then a hopeful conclusion.", "isCorrect": false, "feedbackMd": "Unstructured and lacks a decision‑oriented question/answer." },
+      { "ix": 3, "contentMd": "Problem statement and six pages of background; recommendation at the end.", "isCorrect": false, "feedbackMd": "Buries the answer; not BLUF/SCQA aligned." },
+      { "ix": 4, "contentMd": "We propose a change because it feels right.", "isCorrect": false, "feedbackMd": "No situation or complication; lacks decision framing." }
+    ]},
+    { "ix": 2, "type": "true_false", "promptMd": "True or False: In executive communications, the recommended answer should generally precede the full background.", "difficulty": "easy", "rationaleMd": "BLUF within SCQA/SCR.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Lead with the answer and decision ask, then support it." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Background first delays the decision focus." }
+    ]},
+    { "ix": 3, "type": "mcq", "promptMd": "Which error MOST weakens a SCQA?", "difficulty": "medium", "rationaleMd": "Quality of tension and decision link.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Complication lacks tension and no clear decision follows", "isCorrect": true, "feedbackMd": "Without tension and a question, SCQA collapses into background." },
+      { "ix": 2, "contentMd": "Using numbers in the situation", "isCorrect": false, "feedbackMd": "Numbers strengthen clarity." },
+      { "ix": 3, "contentMd": "Keeping the answer within one paragraph", "isCorrect": false, "feedbackMd": "Conciseness is helpful." },
+      { "ix": 4, "contentMd": "Including a risks section later", "isCorrect": false, "feedbackMd": "Risks support the answer." }
+    ]},
+    { "ix": 4, "type": "true_false", "promptMd": "True or False: SCR (Resolution) is interchangeable with listing the next five steps without a decision.", "difficulty": "medium", "rationaleMd": "Resolution vs. action list.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": false, "feedbackMd": "Resolution is the chosen path; steps follow from the decision." },
+      { "ix": 2, "contentMd": "False", "isCorrect": true, "feedbackMd": "Correct. Decide first; then outline actions." }
+    ]}
+  ]
+}
+

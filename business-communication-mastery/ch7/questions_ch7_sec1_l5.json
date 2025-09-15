@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 7, "sectionIx": 1, "ix": 5, "title": "Working Agreements for Global Teams" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which set MOST improves global team agreements?", "difficulty": "hard", "rationaleMd": "Core hours, SLAs, documentation, rotation.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Define core hours/response SLAs, rotate late meetings, document decisions centrally", "isCorrect": true, "feedbackMd": "Addresses time zones and traceability." },
+      { "ix": 2, "contentMd": "‘Be flexible’ only", "isCorrect": false, "feedbackMd": "Too vague to enforce." },
+      { "ix": 3, "contentMd": "Let one time zone dominate", "isCorrect": false, "feedbackMd": "Unfair and exclusionary." },
+      { "ix": 4, "contentMd": "Keep decisions in side chats", "isCorrect": false, "feedbackMd": "Unsearchable and inequitable." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which decision record is BEST for traceability?", "difficulty": "medium", "rationaleMd": "Decision log fields.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Decision ID, context, date, decider, links to RFC/ADR", "isCorrect": true, "feedbackMd": "Minimal, sufficient fields for recall." },
+      { "ix": 2, "contentMd": "A long email thread", "isCorrect": false, "feedbackMd": "Hard to search and parse." },
+      { "ix": 3, "contentMd": "Unlabeled Slack message", "isCorrect": false, "feedbackMd": "Ephemeral and unstructured." },
+      { "ix": 4, "contentMd": "Verbal only", "isCorrect": false, "feedbackMd": "Not traceable." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Rotate meeting times that fall outside working hours to share the burden.", "difficulty": "easy", "rationaleMd": "Fairness practice.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Distributes inconvenience fairly." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Unequal burden harms inclusion." }
+    ]}
+  ]
+}
+

@@ -1,0 +1,26 @@
+{
+  "learning": { "chapterIx": 2, "sectionIx": 2, "ix": 1, "title": "Building Ethos: Expertise, Reliability, Benevolence" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which evidence combo BEST signals ethos holistically?", "difficulty": "hard", "rationaleMd": "Weighs proof of expertise, reliability, and benevolence together.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Two case studies (metrics) + on‑time delivery record + option favorable to counterparty’s constraint", "isCorrect": true, "feedbackMd": "Covers expertise, reliability, and benevolence concretely." },
+      { "ix": 2, "contentMd": "Title/tenure + confident tone", "isCorrect": false, "feedbackMd": "Claims without proof; tone is not evidence." },
+      { "ix": 3, "contentMd": "Anecdote from a friend + urgent deadline", "isCorrect": false, "feedbackMd": "Weak proof and pressure reduce trust." },
+      { "ix": 4, "contentMd": "Generic logo slide + big future promises", "isCorrect": false, "feedbackMd": "Logos without outcomes and vague promises are weak." }
+    ]},
+    { "ix": 2, "type": "true_false", "promptMd": "True or False: Benevolence is better shown by trading value to the other side than by asserting \"we care\".", "difficulty": "medium", "rationaleMd": "Show, don’t tell.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Concrete trades and concessions signal aligned intent." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Assertions alone lack credibility." }
+    ]},
+    { "ix": 3, "type": "mcq", "promptMd": "Which behavior MOST undermines perceived reliability?", "difficulty": "medium", "rationaleMd": "Reliability signals.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Irregular updates that force stakeholders to chase for status", "isCorrect": true, "feedbackMd": "Inconsistent cadence increases perceived risk." },
+      { "ix": 2, "contentMd": "Citing two relevant references", "isCorrect": false, "feedbackMd": "Strengthens credibility." },
+      { "ix": 3, "contentMd": "Publishing a changelog of improvements", "isCorrect": false, "feedbackMd": "Signals reliability and transparency." },
+      { "ix": 4, "contentMd": "Acknowledging a miss with a remedy plan", "isCorrect": false, "feedbackMd": "Can strengthen trust if done well." }
+    ]},
+    { "ix": 4, "type": "true_false", "promptMd": "True or False: Stating credentials at length is superior to linking concise, verifiable outcomes.", "difficulty": "hard", "rationaleMd": "Outcome‑over‑pedigree mindset.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": false, "feedbackMd": "Outcome‑based proof is more persuasive and efficient." },
+      { "ix": 2, "contentMd": "False", "isCorrect": true, "feedbackMd": "Correct. Briefly state credentials; lead with outcomes and evidence." }
+    ]}
+  ]
+}
+

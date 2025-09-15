@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 7, "sectionIx": 1, "ix": 3, "title": "Feedback and Face‑Saving Across Cultures" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which feedback format MOST preserves face?", "difficulty": "hard", "rationaleMd": "Indirect phrasing + joint problem.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Private note: ‘Could we try X to address Y? I can help with Z’", "isCorrect": true, "feedbackMd": "Softens and shares ownership." },
+      { "ix": 2, "contentMd": "Public correction with detailed critique", "isCorrect": false, "feedbackMd": "High face threat." },
+      { "ix": 3, "contentMd": "Sarcastic joke in a group chat", "isCorrect": false, "feedbackMd": "Humor misfires cross‑culturally." },
+      { "ix": 4, "contentMd": "Vague hint with no action", "isCorrect": false, "feedbackMd": "Unclear and unhelpful." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which recognition MOST avoids status imbalances?", "difficulty": "medium", "rationaleMd": "Team vs. individual credit.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Recognize the team outcome and note contributions respectfully", "isCorrect": true, "feedbackMd": "Balances credit and face concerns." },
+      { "ix": 2, "contentMd": "Single out one person repeatedly", "isCorrect": false, "feedbackMd": "Can create friction." },
+      { "ix": 3, "contentMd": "Avoid recognition to be fair", "isCorrect": false, "feedbackMd": "Misses morale and norms." },
+      { "ix": 4, "contentMd": "Praise with humor about others", "isCorrect": false, "feedbackMd": "Risky tone." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Face‑saving is irrelevant in direct cultures.", "difficulty": "easy", "rationaleMd": "Universal dignity.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": false, "feedbackMd": "Dignity matters everywhere; expression differs." },
+      { "ix": 2, "contentMd": "False", "isCorrect": true, "feedbackMd": "Correct. Adapt style, keep respect." }
+    ]}
+  ]
+}
+

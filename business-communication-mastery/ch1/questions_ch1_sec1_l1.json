@@ -1,0 +1,56 @@
+{
+  "learning": { "chapterIx": 1, "sectionIx": 1, "ix": 1, "title": "Defining Clear Communication Objectives" },
+  "questions": [
+    {
+      "ix": 1,
+      "type": "mcq",
+      "promptMd": "Which is the best example of a SMART communication objective?",
+      "difficulty": "easy",
+      "rationaleMd": "Checks ability to distinguish vague goals from SMART, outcome-focused objectives.",
+      "metadata": { "shuffle": true },
+      "answers": [
+        { "ix": 1, "contentMd": "Drive 30% of inactive users to try Feature X within 14 days", "isCorrect": true, "feedbackMd": "Correct. It is specific, measurable, time‑bound, and action‑oriented." },
+        { "ix": 2, "contentMd": "Share updates about Feature X soon", "isCorrect": false, "feedbackMd": "Vague and not measurable or time‑bound." },
+        { "ix": 3, "contentMd": "Increase engagement for everyone", "isCorrect": false, "feedbackMd": "Too broad; lacks target, metric, and timeline." },
+        { "ix": 4, "contentMd": "Tell leadership our plan", "isCorrect": false, "feedbackMd": "That’s an activity, not an outcome objective." }
+      ]
+    },
+    {
+      "ix": 2,
+      "type": "true_false",
+      "promptMd": "True or False: A good objective focuses on what the sender will do rather than what the audience will do.",
+      "difficulty": "easy",
+      "rationaleMd": "Reinforces outcome vs. activity focus.",
+      "answers": [
+        { "ix": 1, "contentMd": "True", "isCorrect": false, "feedbackMd": "Objectives should target audience knowledge/attitude/behavior, not just sender actions." },
+        { "ix": 2, "contentMd": "False", "isCorrect": true, "feedbackMd": "Correct. Focus on the audience’s change (KAB), not just activities." }
+      ]
+    },
+    {
+      "ix": 3,
+      "type": "mcq",
+      "promptMd": "Which metric best aligns to the objective: ‘Secure approval to hire 2 FTEs by Friday’?",
+      "difficulty": "medium",
+      "rationaleMd": "Assesses alignment of metrics to decision objectives.",
+      "metadata": { "shuffle": true },
+      "answers": [
+        { "ix": 1, "contentMd": "Signed approval email/document by Friday EOD", "isCorrect": true, "feedbackMd": "Yes—direct evidence of the decision by the deadline." },
+        { "ix": 2, "contentMd": "Number of stakeholders who read the pre‑read", "isCorrect": false, "feedbackMd": "Reading is a leading indicator, not the decision outcome." },
+        { "ix": 3, "contentMd": "Total time spent preparing slides", "isCorrect": false, "feedbackMd": "An activity metric; not tied to the decision." },
+        { "ix": 4, "contentMd": "Meeting attendance count", "isCorrect": false, "feedbackMd": "Attendance doesn’t equal approval." }
+      ]
+    },
+    {
+      "ix": 4,
+      "type": "true_false",
+      "promptMd": "True or False: Mixing multiple primary CTAs in one message can dilute action and should be avoided.",
+      "difficulty": "medium",
+      "rationaleMd": "Connects objectives to CTA design.",
+      "answers": [
+        { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. One primary CTA focuses attention and improves follow‑through." },
+        { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Multiple CTAs split attention and reduce completion rates." }
+      ]
+    }
+  ]
+}
+

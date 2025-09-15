@@ -1,0 +1,56 @@
+{
+  "learning": { "chapterIx": 1, "sectionIx": 1, "ix": 3, "title": "Context Scanning: Stakeholders, Risks, and Timing" },
+  "questions": [
+    {
+      "ix": 1,
+      "type": "mcq",
+      "promptMd": "Which tool best helps prioritize stakeholders for pre‑briefs and tailored messaging?",
+      "difficulty": "easy",
+      "rationaleMd": "Assesses knowledge of influence‑interest mapping.",
+      "metadata": { "shuffle": true },
+      "answers": [
+        { "ix": 1, "contentMd": "Influence–Interest matrix", "isCorrect": true, "feedbackMd": "Correct. It highlights who has power and who cares, guiding outreach." },
+        { "ix": 2, "contentMd": "RACI chart", "isCorrect": false, "feedbackMd": "RACI clarifies roles for execution, not stakeholder prioritization for messaging." },
+        { "ix": 3, "contentMd": "SWOT analysis", "isCorrect": false, "feedbackMd": "SWOT is strategic; less direct for stakeholder prioritization." },
+        { "ix": 4, "contentMd": "PERT chart", "isCorrect": false, "feedbackMd": "PERT maps tasks/time, not stakeholder salience." }
+      ]
+    },
+    {
+      "ix": 2,
+      "type": "true_false",
+      "promptMd": "True or False: Major announcements should be made org‑wide first to ensure transparency, then discussed with high‑influence stakeholders.",
+      "difficulty": "medium",
+      "rationaleMd": "Tests understanding of sequencing and pre‑briefing.",
+      "answers": [
+        { "ix": 1, "contentMd": "True", "isCorrect": false, "feedbackMd": "Pre‑brief high‑influence stakeholders first to reduce surprises and resistance." },
+        { "ix": 2, "contentMd": "False", "isCorrect": true, "feedbackMd": "Correct. Socialize with key stakeholders before a broad announcement." }
+      ]
+    },
+    {
+      "ix": 3,
+      "type": "mcq",
+      "promptMd": "Timing a pricing change announcement just after quarter close is primarily about which factor?",
+      "difficulty": "medium",
+      "rationaleMd": "Applies timing windows to minimize disruption.",
+      "metadata": { "shuffle": true },
+      "answers": [
+        { "ix": 1, "contentMd": "Decision windows and operational load", "isCorrect": true, "feedbackMd": "Yes—reduces conflict with revenue targets and workload spikes." },
+        { "ix": 2, "contentMd": "Maximizing email open rates", "isCorrect": false, "feedbackMd": "Open rate is secondary to business rhythm." },
+        { "ix": 3, "contentMd": "Improving legal review time", "isCorrect": false, "feedbackMd": "Legal review may matter, but quarter close is about sales ops rhythm." },
+        { "ix": 4, "contentMd": "Avoiding IT maintenance windows", "isCorrect": false, "feedbackMd": "Less relevant than finance/sales timing here." }
+      ]
+    },
+    {
+      "ix": 4,
+      "type": "true_false",
+      "promptMd": "True or False: Risk assessment should consider reputational, legal, and operational factors before deciding the communication sequence.",
+      "difficulty": "easy",
+      "rationaleMd": "Checks holistic risk framing.",
+      "answers": [
+        { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. A holistic scan informs who to pre‑brief and how to frame." },
+        { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Ignoring categories of risk leads to avoidable backlash." }
+      ]
+    }
+  ]
+}
+

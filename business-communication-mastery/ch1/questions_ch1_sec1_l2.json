@@ -1,0 +1,56 @@
+{
+  "learning": { "chapterIx": 1, "sectionIx": 1, "ix": 2, "title": "Choosing the Right Channel and Medium" },
+  "questions": [
+    {
+      "ix": 1,
+      "type": "mcq",
+      "promptMd": "Which channel is most appropriate for delivering sensitive performance feedback?",
+      "difficulty": "easy",
+      "rationaleMd": "Tests mapping of message sensitivity to channel richness.",
+      "metadata": { "shuffle": true },
+      "answers": [
+        { "ix": 1, "contentMd": "Private video or voice call with a written summary afterward", "isCorrect": true, "feedbackMd": "Correct. Rich, synchronous communication allows nuance; a summary preserves clarity." },
+        { "ix": 2, "contentMd": "Public team channel message", "isCorrect": false, "feedbackMd": "Public channels risk embarrassment and defensiveness." },
+        { "ix": 3, "contentMd": "Company‑wide email", "isCorrect": false, "feedbackMd": "Overly broad and inappropriate for sensitive topics." },
+        { "ix": 4, "contentMd": "Async wiki page update", "isCorrect": false, "feedbackMd": "Too impersonal and permanent for sensitive feedback." }
+      ]
+    },
+    {
+      "ix": 2,
+      "type": "true_false",
+      "promptMd": "True or False: Synchronous meetings are always better than asynchronous updates for complex topics.",
+      "difficulty": "medium",
+      "rationaleMd": "Addresses nuance of sync vs. async tradeoffs.",
+      "answers": [
+        { "ix": 1, "contentMd": "True", "isCorrect": false, "feedbackMd": "Not always. Async pre‑reads + structured discussion often outperform pure sync." },
+        { "ix": 2, "contentMd": "False", "isCorrect": true, "feedbackMd": "Correct. Use async for info density and sync for alignment/decisions." }
+      ]
+    },
+    {
+      "ix": 3,
+      "type": "mcq",
+      "promptMd": "Which factor should NOT drive channel selection?",
+      "difficulty": "medium",
+      "rationaleMd": "Reinforces criteria for channel choice.",
+      "metadata": { "shuffle": true },
+      "answers": [
+        { "ix": 1, "contentMd": "Sender’s convenience alone", "isCorrect": true, "feedbackMd": "Correct. Optimize for audience needs, sensitivity, and objective—not just convenience." },
+        { "ix": 2, "contentMd": "Message complexity and sensitivity", "isCorrect": false, "feedbackMd": "These should shape richness and synchronicity." },
+        { "ix": 3, "contentMd": "Audience preferences and constraints", "isCorrect": false, "feedbackMd": "Crucial to maximize comprehension and response." },
+        { "ix": 4, "contentMd": "Need for auditability and permanence", "isCorrect": false, "feedbackMd": "Matters for traceability and risk." }
+      ]
+    },
+    {
+      "ix": 4,
+      "type": "true_false",
+      "promptMd": "True or False: For simple FYIs, async email/post with a clear headline and tags is often preferable to a meeting.",
+      "difficulty": "easy",
+      "rationaleMd": "Applies best practice for low‑stakes information sharing.",
+      "answers": [
+        { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Save meetings for alignment and decisions; keep FYIs async." },
+        { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Meetings for FYIs waste time and attention." }
+      ]
+    }
+  ]
+}
+

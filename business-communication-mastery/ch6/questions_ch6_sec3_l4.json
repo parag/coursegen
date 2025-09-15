@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 6, "sectionIx": 3, "ix": 4, "title": "Language for De‑escalation and Boundary Setting" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which phrase MOST effectively sets a respectful boundary?", "difficulty": "hard", "rationaleMd": "Neutral, firm boundary.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "‘If we can’t keep this respectful, we’ll pause and reschedule’", "isCorrect": true, "feedbackMd": "Clear condition and consequence without blame." },
+      { "ix": 2, "contentMd": "‘You’re being ridiculous’", "isCorrect": false, "feedbackMd": "Inflammatory judgment." },
+      { "ix": 3, "contentMd": "‘Stop it’", "isCorrect": false, "feedbackMd": "Vague and confrontational." },
+      { "ix": 4, "contentMd": "Silent treatment", "isCorrect": false, "feedbackMd": "Avoidant; escalates confusion." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which acknowledgment BEST lowers heat?", "difficulty": "medium", "rationaleMd": "Affect reflection.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "‘I hear you’re frustrated; let’s focus on options we can act on today’", "isCorrect": true, "feedbackMd": "Validates feeling and redirects to problem‑solving." },
+      { "ix": 2, "contentMd": "‘Calm down so we can talk’", "isCorrect": false, "feedbackMd": "Invalidating; increases heat." },
+      { "ix": 3, "contentMd": "‘That’s not how I feel’", "isCorrect": false, "feedbackMd": "Self‑referential; not calming." },
+      { "ix": 4, "contentMd": "‘This is unprofessional’", "isCorrect": false, "feedbackMd": "Shaming raises defensiveness." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Boundaries should state both the condition and the planned action if crossed.", "difficulty": "easy", "rationaleMd": "Boundary clarity.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Clear contingencies prevent confusion." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Vague boundaries won’t hold." }
+    ]}
+  ]
+}
+

@@ -1,0 +1,26 @@
+{
+  "learning": { "chapterIx": 3, "sectionIx": 2, "ix": 2, "title": "Choosing the Right Chart for the Story" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which chart best shows distribution differences across segments?", "difficulty": "medium", "rationaleMd": "Chart–task fit.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Small multiples of histograms (or box plots) by segment", "isCorrect": true, "feedbackMd": "Compares distributions effectively across groups." },
+      { "ix": 2, "contentMd": "Stacked area chart", "isCorrect": false, "feedbackMd": "Better for composition over time; not distribution." },
+      { "ix": 3, "contentMd": "3D pie chart", "isCorrect": false, "feedbackMd": "Misleading and poor for distribution." },
+      { "ix": 4, "contentMd": "Single bar chart", "isCorrect": false, "feedbackMd": "Shows one value, not distribution." }
+    ]},
+    { "ix": 2, "type": "true_false", "promptMd": "True or False: For comparisons, bars outperform pies because length is easier to compare than angles.", "difficulty": "easy", "rationaleMd": "Perceptual accuracy.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Bars are more accurate for comparing categories." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Pies are harder to compare precisely." }
+    ]},
+    { "ix": 3, "type": "mcq", "promptMd": "Which misuse MOST risks misleading the audience?", "difficulty": "hard", "rationaleMd": "Chart integrity pitfalls.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Truncated y‑axis that exaggerates small differences", "isCorrect": true, "feedbackMd": "Common distortion—avoid unless clearly justified and labeled." },
+      { "ix": 2, "contentMd": "Direct labels on bars", "isCorrect": false, "feedbackMd": "Improves clarity." },
+      { "ix": 3, "contentMd": "Muted gridlines", "isCorrect": false, "feedbackMd": "Neutral design choice." },
+      { "ix": 4, "contentMd": "Consistent color mapping", "isCorrect": false, "feedbackMd": "Good practice." }
+    ]},
+    { "ix": 4, "type": "true_false", "promptMd": "True or False: Small multiples can replace cluttered legends and support comparisons.", "difficulty": "medium", "rationaleMd": "Legend vs. faceting.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. They reduce eye travel and aid comparison." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Faceting often clarifies multi‑series comparisons." }
+    ]}
+  ]
+}
+

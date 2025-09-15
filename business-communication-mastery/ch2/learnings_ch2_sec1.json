@@ -1,0 +1,56 @@
+{
+  "section": { "chapterIx": 2, "sectionIx": 1, "title": "Persuasion Principles" },
+  "learnings": [
+    {
+      "ix": 1,
+      "title": "Core Levers of Ethical Persuasion",
+      "bodyMd": "# Core Levers of Ethical Persuasion\n\n## Overview\nPersuasion leverages predictable human tendencies. Use these levers to help audiences make better decisions—never to exploit.\n\n## Key Concepts\n- Reciprocity: people return favors and concessions.\n- Commitment/Consistency: public commitments guide future behavior.\n- Social proof: we follow credible peers, especially under uncertainty.\n- Liking: similarity and warmth increase receptivity.\n- Authority: credible expertise shortcuts evaluation.\n- Scarcity: perceived rarity raises perceived value.\n\n## Examples\n- Offer a helpful template before requesting feedback (reciprocity).\n- Ask teams to pre‑commit to a metric goal (consistency).\n\n## Common Pitfalls\n- Bundling many levers at once (looks manipulative).\n- Overstating scarcity or authority (erodes trust).\n\n## Summary\nSelect 1–2 levers aligned to audience needs and context. Pair with clear benefits and verifiable evidence.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give me examples", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 2,
+      "title": "Reciprocity and Commitment in Practice",
+      "bodyMd": "# Reciprocity and Commitment in Practice\n\n## Overview\nShape momentum by giving first and inviting small, public commitments that align with audience goals.\n\n## Key Concepts\n- Give‑to‑ask: share a relevant asset or insight before a request.\n- Foot‑in‑the‑door: small yes → bigger yes.\n- Public commitments: visible goals, OKRs, or sign‑offs.\n- Consistency cues: reminders of past commitments to sustain behavior.\n\n## Examples\n- Provide a 1‑pager draft the approver can edit.\n- Start with a pilot sign‑up before asking for full rollout.\n\n## Common Pitfalls\n- Irrelevant gifts that feel like quid‑pro‑quo.\n- Overbearing follow‑ups referencing commitments out of context.\n\n## Summary\nOffer genuine value first. Invite small, aligned commitments to build momentum ethically.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["More examples", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 3,
+      "title": "Social Proof and Consensus Design",
+      "bodyMd": "# Social Proof and Consensus Design\n\n## Overview\nUnder uncertainty, people look to credible peers. Curate authentic proof and make consensus visible.\n\n## Key Concepts\n- Peer similarity: industry, role, size increase relevance.\n- Salient numbers: adoption counts, NPS, case volumes.\n- Reference calls and pilots: peer‑to‑peer credibility transfer.\n- Visibility: dashboards, leaderboards, endorsements in context.\n\n## Examples\n- Include quotes from a respected peer team.\n- Show a usage map of departments that adopted the change.\n\n## Common Pitfalls\n- Generic testimonials without specifics.\n- Fake or cherry‑picked proof that backfires.\n\n## Summary\nUse relevant peer signals with concrete outcomes. Let the audience see people like them succeeding.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show an example", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 4,
+      "title": "Scarcity, Urgency, and Ethical Use",
+      "bodyMd": "# Scarcity, Urgency, and Ethical Use\n\n## Overview\nScarcity and deadlines focus attention but can harm trust if fabricated. Use only when genuine and relevant.\n\n## Key Concepts\n- Real constraints: budget cycles, inventory, calendar windows.\n- Opportunity cost: what is lost if delayed.\n- Bounded offers: pilots with limited seats to ensure quality.\n- Transparency: explain the why behind constraints.\n\n## Examples\n- Fiscal‑year budget window closing Friday.\n- Limiting a beta to 10 teams for support capacity.\n\n## Common Pitfalls\n- Fake countdowns or false scarcity.\n- Pressure without respect for due diligence.\n\n## Summary\nUse authentic urgency tied to value and constraints. Preserve trust by avoiding manufactured pressure.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give me examples", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 5,
+      "title": "Choice Architecture and Defaults",
+      "bodyMd": "# Choice Architecture and Defaults\n\n## Overview\nSmall design choices change behavior. Use defaults and decision flows that reduce friction and align with audience interests.\n\n## Key Concepts\n- Defaults: pre‑selected, reversible options.\n- Simplification: 2–3 well‑framed options, not 10.\n- Progressive disclosure: surface essentials first, details later.\n- Safeguards: clear undo, preview, and help paths.\n\n## Examples\n- Pre‑check opt‑in for a trial with easy opt‑out.\n- Present three vetted plans with a recommended option.\n\n## Common Pitfalls\n- Dark patterns that trap or confuse users.\n- Overchoice that stalls decisions.\n\n## Summary\nDesign benign defaults and simple paths that respect autonomy while easing good choices.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show a flow", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    }
+  ]
+}
+

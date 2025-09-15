@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 4, "sectionIx": 3, "ix": 5, "title": "No‑Authority, Nibbling, and After‑Agreement Drifts" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which question BEST verifies decision authority early?", "difficulty": "hard", "rationaleMd": "Approval path clarity.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "‘Can you walk me through the approval path and who needs to sign off?’", "isCorrect": true, "feedbackMd": "Clarifies deciders, order, and timeline." },
+      { "ix": 2, "contentMd": "‘Are you important enough to decide?’", "isCorrect": false, "feedbackMd": "Threatening and unhelpful." },
+      { "ix": 3, "contentMd": "‘Who else dislikes this?’", "isCorrect": false, "feedbackMd": "Not the right dimension." },
+      { "ix": 4, "contentMd": "‘Can we skip approvals?’", "isCorrect": false, "feedbackMd": "Ignores governance realities." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "After a handshake, the counterpart asks for \"one more small thing\". What’s the BEST response?", "difficulty": "medium", "rationaleMd": "Anti‑nibble enforcement.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Point to the change‑control clause and offer a trade if scope truly changes", "isCorrect": true, "feedbackMd": "Protects integrity while allowing structured changes." },
+      { "ix": 2, "contentMd": "Agree to keep goodwill", "isCorrect": false, "feedbackMd": "Invites further nibbling." },
+      { "ix": 3, "contentMd": "Scold them publicly", "isCorrect": false, "feedbackMd": "Damages relationship needlessly." },
+      { "ix": 4, "contentMd": "Cancel the deal immediately", "isCorrect": false, "feedbackMd": "Disproportionate—try process first." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: A summary email stating \"complete agreement\" with explicit next steps reduces after‑agreement drift.", "difficulty": "easy", "rationaleMd": "Closing hygiene.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Written recap anchors execution." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Without a recap, details get renegotiated informally." }
+    ]}
+  ]
+}
+

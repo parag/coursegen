@@ -1,0 +1,56 @@
+{
+  "section": { "chapterIx": 4, "sectionIx": 3, "title": "Tactics and Counter‑Tactics" },
+  "learnings": [
+    {
+      "ix": 1,
+      "title": "Spotting Hardball Tactics Early",
+      "bodyMd": "# Spotting Hardball Tactics Early\n\n## Overview\nIdentify common hardball tactics—stonewalling, good‑cop/bad‑cop, and nibbling—so you can respond calmly and reset the frame.\n\n## Key Concepts\n- Stonewalling: \"We can’t move.\"\n- Good‑cop/bad‑cop: alternating pressure and sympathy.\n- Nibbling: small last‑minute asks after agreement.\n- Threats and bluffing: signaling extreme alternatives.\n\n## Examples\n- Counter stonewall: ask interest‑based questions and propose trades.\n- Name the tactic: \"Let’s focus on issues, not pressure.\"\n\n## Common Pitfalls\n- Reacting emotionally to bluffs.\n- Conceding to end discomfort without value.\n\n## Summary\nLabel tactics neutrally, return to interests and options, and pace the process to reduce pressure.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give examples", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 2,
+      "title": "Reframing, Probing, and Neutral Language",
+      "bodyMd": "# Reframing, Probing, and Neutral Language\n\n## Overview\nUse neutral frames and probing questions to surface interests and reduce positional friction.\n\n## Key Concepts\n- Reframe: from positions to problems.\n- Calibrated questions: \"How would that work if…?\"\n- Labeling: \"It seems timing is the main concern.\"\n\n## Examples\n- \"Could we explore alternatives that reduce risk within your budget?\"\n- \"What flexibility do we have on term if we adjust scope?\"\n\n## Common Pitfalls\n- Leading questions that corner counterparts.\n- Adversarial language that triggers defensiveness.\n\n## Summary\nStay neutral, ask open questions, and reframe around shared constraints and outcomes to unlock movement.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give phrases", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 3,
+      "title": "Anchors, Extreme Offers, and Counter‑Anchoring",
+      "bodyMd": "# Anchors, Extreme Offers, and Counter‑Anchoring\n\n## Overview\nManage anchors deliberately. Counter extreme offers with justified data and multiple‑issue packages.\n\n## Key Concepts\n- First offers: set the frame but must be defensible.\n- Counter‑anchors: re‑center with objective criteria.\n- Bracketing: move toward your target in diminishing steps.\n\n## Examples\n- Respond to a lowball with a package anchored on value.\n- Reference market benchmarks and your BATNA credibly.\n\n## Common Pitfalls\n- Accepting the other side’s anchor unchallenged.\n- Countering emotionally without data.\n\n## Summary\nUse objective criteria and packages to neutralize extreme anchors and restore a collaborative zone.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show an example", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 4,
+      "title": "Time Pressure, Deadlines, and Process Control",
+      "bodyMd": "# Time Pressure, Deadlines, and Process Control\n\n## Overview\nDeadlines can force bad deals. Validate constraints, slow the tempo, and create options to reduce time pressure.\n\n## Key Concepts\n- Verify legitimacy: real vs. artificial deadlines.\n- Tempo control: pauses, caucuses, async follow‑ups.\n- Batching issues: resolve packages, not whack‑a‑mole.\n\n## Examples\n- Ask for the rationale behind timing; propose a short extension tied to a milestone.\n- Move discussions to email to reduce heat and improve clarity.\n\n## Common Pitfalls\n- Rushing into agreement to avoid missing a date.\n- Letting the other side dictate agenda/tempo entirely.\n\n## Summary\nRespect real constraints but protect decision quality. Control tempo and process to keep options open and thinking clear.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give tactics", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 5,
+      "title": "No‑Authority, Nibbling, and After‑Agreement Drifts",
+      "bodyMd": "# No‑Authority, Nibbling, and After‑Agreement Drifts\n\n## Overview\nPrevent post‑agreement erosion. Verify authority, guard against nibbling, and document terms with change controls.\n\n## Key Concepts\n- Authority checks: confirm decision‑makers and approvals.\n- Anti‑nibble clauses: \"All terms resolved unless scope changes.\"\n- Change control: formalize modifications and trade‑offs.\n\n## Examples\n- Ask for the approval path and timeline explicitly.\n- Add a summary email with \"complete agreement\" language and next steps.\n\n## Common Pitfalls\n- \"We’ll sign, but add X and Y too\" after handshake.\n- Verbal agreements without written confirmation.\n\n## Summary\nConfirm authority, close cleanly, and require formal change control to protect the deal from entropy.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show examples", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    }
+  ]
+}
+

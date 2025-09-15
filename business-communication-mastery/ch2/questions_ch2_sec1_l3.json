@@ -1,0 +1,26 @@
+{
+  "learning": { "chapterIx": 2, "sectionIx": 1, "ix": 3, "title": "Social Proof and Consensus Design" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which social proof is MOST diagnostic for a skeptical engineering org?", "difficulty": "hard", "rationaleMd": "Distinguishes vanity proof from relevant peer evidence.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Reference call with a similar‑size engineering org sharing before/after metrics", "isCorrect": true, "feedbackMd": "Highly relevant peer, concrete outcomes, and direct credibility transfer." },
+      { "ix": 2, "contentMd": "A generic testimonial from marketing", "isCorrect": false, "feedbackMd": "Low domain relevance and lacks metrics." },
+      { "ix": 3, "contentMd": "A large logo slide from a different industry", "isCorrect": false, "feedbackMd": "Logo walls without outcomes are weak proof." },
+      { "ix": 4, "contentMd": "A tweet from an influencer unrelated to the domain", "isCorrect": false, "feedbackMd": "Irrelevant authority; limited credibility." }
+    ]},
+    { "ix": 2, "type": "true_false", "promptMd": "True or False: Social proof works best when the peer context (role, scale, constraints) matches the audience’s situation.", "difficulty": "easy", "rationaleMd": "Checks nuance of relevance in social proof.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Similar peers transfer credibility more effectively." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Mismatched proof can trigger skepticism." }
+    ]},
+    { "ix": 3, "type": "mcq", "promptMd": "Which design MOST increases consensus visibility without coercion?", "difficulty": "medium", "rationaleMd": "Signals vs. pressure.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "A dashboard showing adoption rates by peer teams and links to their write‑ups", "isCorrect": true, "feedbackMd": "Transparent, informative, and allows self‑directed evaluation." },
+      { "ix": 2, "contentMd": "Public leaderboard ranking managers by compliance", "isCorrect": false, "feedbackMd": "Can be shaming and distort motivations." },
+      { "ix": 3, "contentMd": "Anonymous count of \"satisfied users\"", "isCorrect": false, "feedbackMd": "Lacks credibility without context and sources." },
+      { "ix": 4, "contentMd": "A CEO email demanding immediate adoption", "isCorrect": false, "feedbackMd": "Authority pressure; not social proof." }
+    ]},
+    { "ix": 4, "type": "true_false", "promptMd": "True or False: Aggregated adoption numbers alone are sufficient social proof to persuade experts.", "difficulty": "medium", "rationaleMd": "Quantity vs. quality of proof.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": false, "feedbackMd": "Experts prefer context, outcomes, and comparables—not bare counts." },
+      { "ix": 2, "contentMd": "False", "isCorrect": true, "feedbackMd": "Correct. Pair numbers with relevant outcomes and peer narratives." }
+    ]}
+  ]
+}
+

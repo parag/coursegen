@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 5, "sectionIx": 2, "ix": 5, "title": "Accessibility and Inclusive Design" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which change MOST improves accessibility?", "difficulty": "hard", "rationaleMd": "Contrast and color‑blind safety.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Increase contrast and add shape/labels in addition to color", "isCorrect": true, "feedbackMd": "Supports color‑blind users and readability." },
+      { "ix": 2, "contentMd": "Use red/green only to encode status", "isCorrect": false, "feedbackMd": "Common failure for color‑blind users." },
+      { "ix": 3, "contentMd": "Shrink fonts to fit more content", "isCorrect": false, "feedbackMd": "Hurts legibility." },
+      { "ix": 4, "contentMd": "Remove alt text to keep slides clean", "isCorrect": false, "feedbackMd": "Alt text aids screen readers." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which is the BEST alt text practice?", "difficulty": "medium", "rationaleMd": "Describe function, not decoration.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Describe the chart’s key insight and axes succinctly", "isCorrect": true, "feedbackMd": "Conveys meaning, not just appearance." },
+      { "ix": 2, "contentMd": "‘A nice chart’", "isCorrect": false, "feedbackMd": "Non‑informative." },
+      { "ix": 3, "contentMd": "Leave blank for all visuals", "isCorrect": false, "feedbackMd": "Misses accessibility need." },
+      { "ix": 4, "contentMd": "Include color names only", "isCorrect": false, "feedbackMd": "Not the key information." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Accessible slides tend to improve comprehension for everyone.", "difficulty": "easy", "rationaleMd": "Curb‑cut effect.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Inclusive design benefits all users." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Better clarity helps everyone." }
+    ]}
+  ]
+}
+

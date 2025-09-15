@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 7, "sectionIx": 1, "ix": 4, "title": "Building Cross‑Cultural Empathy" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which practice MOST quickly builds cross‑cultural empathy on a new team?", "difficulty": "hard", "rationaleMd": "Briefings + buddy + glossary.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Pair newcomers with local buddies and share a team glossary of idioms", "isCorrect": true, "feedbackMd": "Accelerates learning and reduces misreads." },
+      { "ix": 2, "contentMd": "Assume English solves nuance", "isCorrect": false, "feedbackMd": "Language ≠ culture." },
+      { "ix": 3, "contentMd": "Rely on trial and error", "isCorrect": false, "feedbackMd": "Slow and risky." },
+      { "ix": 4, "contentMd": "Ban idioms without explanation", "isCorrect": false, "feedbackMd": "Overly rigid; education works better." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Best question to learn a local norm fast?", "difficulty": "medium", "rationaleMd": "Curious, respectful inquiry.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "‘What would be the usual way to handle X here?’", "isCorrect": true, "feedbackMd": "Invites guidance without judgment." },
+      { "ix": 2, "contentMd": "‘Why do you do it that way?’", "isCorrect": false, "feedbackMd": "Can sound accusatory." },
+      { "ix": 3, "contentMd": "‘Who decided this?’", "isCorrect": false, "feedbackMd": "Status challenge." },
+      { "ix": 4, "contentMd": "‘Isn’t our way better?’", "isCorrect": false, "feedbackMd": "Imposes one’s norm." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Curiosity and humility signal intent and reduce defensive reactions.", "difficulty": "easy", "rationaleMd": "Social signaling.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Intent matters in cross‑cultural work." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Closed posture increases friction." }
+    ]}
+  ]
+}
+

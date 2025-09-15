@@ -1,0 +1,56 @@
+{
+  "section": { "chapterIx": 8, "sectionIx": 3, "title": "Relationship Building" },
+  "learnings": [
+    {
+      "ix": 1,
+      "title": "Strategic Networking and Mapping",
+      "bodyMd": "# Strategic Networking and Mapping\n\n## Overview\nMap your relationship capital: who you know, strength of ties, and gaps aligned to goals.\n\n## Key Concepts\n- Map: mentors, peers, partners, communities.\n- Tie strength: frequency, reciprocity, trust.\n- Portfolio: diversify roles and domains.\n\n## Examples\n- Network map by role and geography.\n- Quarterly outreach plan to rebalance ties.\n\n## Common Pitfalls\n- Only networking when you need something.\n- Homogeneous networks that limit perspective.\n\n## Summary\nTreat relationships as long‑term assets. Map intentionally and invest consistently across diverse ties.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show a template", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 2,
+      "title": "Reciprocity and Being Useful",
+      "bodyMd": "# Reciprocity and Being Useful\n\n## Overview\nOffer value first: introductions, insights, and small favors that compound goodwill.\n\n## Key Concepts\n- Give‑to‑give, not quid‑pro‑quo.\n- Specific, timely, and relevant help.\n- Memory of favors builds trust.\n\n## Examples\n- Share a concise resource tailored to their goal.\n- Introduce peers with a clear double‑opt intro.\n\n## Common Pitfalls\n- Generic mass outreach.\n- Favors with strings attached.\n\n## Summary\nBe helpful without expectation. Small, targeted acts build strong, resilient ties over time.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give examples", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 3,
+      "title": "Mentorship, Sponsorship, and Communities",
+      "bodyMd": "# Mentorship, Sponsorship, and Communities\n\n## Overview\nMix mentorship (guidance), sponsorship (advocacy), and community engagement to multiply opportunities.\n\n## Key Concepts\n- Mentors: skill growth and perspective.\n- Sponsors: put their reputation on the line for you.\n- Communities: learning, visibility, serendipity.\n\n## Examples\n- Quarterly mentor/sponsor check‑ins with goals.\n- Contribute talks or posts to relevant communities.\n\n## Common Pitfalls\n- Expecting mentorship to be therapy.\n- Neglecting to give back to communities.\n\n## Summary\nCultivate mentors and sponsors intentionally and contribute to communities to expand your surface area of luck.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give a plan", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 4,
+      "title": "Cadence, Check‑Ins, and Serendipity",
+      "bodyMd": "# Cadence, Check‑Ins, and Serendipity\n\n## Overview\nLightweight, periodic touchpoints keep relationships warm and open space for serendipity.\n\n## Key Concepts\n- Touchpoint cadence: monthly/quarterly depending on tie strength.\n- Lightweight updates and asks.\n- Randomized outreach to avoid clusters.\n\n## Examples\n- Monthly list to ping with a note or share.\n- Rotate through contacts using reminders.\n\n## Common Pitfalls\n- Only reaching out with asks.\n- Overloading contacts with long updates.\n\n## Summary\nKeep it brief and regular. Share value or check in with no ask to maintain goodwill and awareness.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give a cadence", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 5,
+      "title": "Measuring and Nurturing Relationship Capital",
+      "bodyMd": "# Measuring and Nurturing Relationship Capital\n\n## Overview\nTrack the health of key relationships and invest where it matters most.\n\n## Key Concepts\n- Simple health scores: frequency × usefulness × trust.\n- Pipeline view: new, active, dormant.\n- Small bets: coffees, intros, shared projects.\n\n## Examples\n- Quarterly review of top 20 relationships.\n- Revive dormant ties with tailored notes.\n\n## Common Pitfalls\n- Letting strong ties decay unnoticed.\n- Over‑engineering metrics vs. human connection.\n\n## Summary\nUse lightweight tracking to focus attention. Take small, consistent actions to keep relationships healthy and mutual.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show template", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    }
+  ]
+}
+

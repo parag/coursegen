@@ -1,0 +1,101 @@
+{
+  "course": {
+    "proposedTitle": "Business Communication Mastery: Persuasion, Negotiation, and Storytelling",
+    "proposedSlug": "business-communication-mastery",
+    "summary": "Master persuasion, negotiation, and storytelling to influence decisions, resolve conflicts, and drive results across modern business contexts.",
+    "language": "en",
+    "tags": [
+      "communication",
+      "persuasion",
+      "negotiation",
+      "storytelling",
+      "influence",
+      "leadership",
+      "presentations"
+    ],
+    "estMinutes": 360
+  },
+  "chapters": [
+    {
+      "ix": 1,
+      "title": "Foundations of Business Communication",
+      "summary": "Core principles of effective communication: goals, contexts, and audience alignment.",
+      "sections": [
+        { "ix": 1, "title": "Communication Goals & Contexts", "summary": "Define outcomes and adapt to channels and settings." },
+        { "ix": 2, "title": "Audience Analysis", "summary": "Map stakeholders, needs, and decision criteria." },
+        { "ix": 3, "title": "Clarity, Brevity, and Tone", "summary": "Write and speak with precision and purpose." }
+      ]
+    },
+    {
+      "ix": 2,
+      "title": "Psychology of Persuasion",
+      "summary": "Evidence‑based levers of influence and how to apply them ethically.",
+      "sections": [
+        { "ix": 1, "title": "Persuasion Principles", "summary": "Core drivers like reciprocity, social proof, and authority." },
+        { "ix": 2, "title": "Credibility and Trust", "summary": "Signal expertise, reliability, and alignment of interests." },
+        { "ix": 3, "title": "Framing & Cognitive Biases", "summary": "Use framing, anchoring, and loss aversion responsibly." }
+      ]
+    },
+    {
+      "ix": 3,
+      "title": "Storytelling for Influence",
+      "summary": "Craft compelling narratives that make messages memorable and actionable.",
+      "sections": [
+        { "ix": 1, "title": "Narrative Structures", "summary": "Use problem‑solution arcs and journeys to drive engagement." },
+        { "ix": 2, "title": "Stories with Data", "summary": "Blend evidence with narrative for credibility and clarity." },
+        { "ix": 3, "title": "Messages that Stick", "summary": "Make ideas simple, unexpected, concrete, credible, and emotional." }
+      ]
+    },
+    {
+      "ix": 4,
+      "title": "Negotiation Essentials",
+      "summary": "Prepare, create value, and close durable agreements in diverse scenarios.",
+      "sections": [
+        { "ix": 1, "title": "Preparation & BATNA", "summary": "Clarify interests, options, and alternatives before the table." },
+        { "ix": 2, "title": "Value Creation & Concessions", "summary": "Trade across issues, package offers, and pace concessions." },
+        { "ix": 3, "title": "Tactics and Counter‑Tactics", "summary": "Spot hardball moves and respond with principled strategies." }
+      ]
+    },
+    {
+      "ix": 5,
+      "title": "Executive Presence & Presentations",
+      "summary": "Design sharp narratives, visuals, and delivery for high‑stakes moments.",
+      "sections": [
+        { "ix": 1, "title": "Structuring Presentations", "summary": "Top‑down logic, signposting, and time‑boxing for impact." },
+        { "ix": 2, "title": "Visuals & Slide Design", "summary": "Use clean layouts, charts, and cues to guide attention." },
+        { "ix": 3, "title": "Delivery & Q&A", "summary": "Voice, posture, pacing, and handling tough questions." }
+      ]
+    },
+    {
+      "ix": 6,
+      "title": "Difficult Conversations & Conflict",
+      "summary": "Navigate feedback, misalignment, and high emotion while preserving relationships.",
+      "sections": [
+        { "ix": 1, "title": "Feedback That Lands", "summary": "Plan, deliver, and follow up on performance feedback." },
+        { "ix": 2, "title": "Conflict Resolution Frameworks", "summary": "Interests vs. positions, mediation steps, and agreements." },
+        { "ix": 3, "title": "Emotions & Power Dynamics", "summary": "Acknowledge feelings, use neutrality, and manage status." }
+      ]
+    },
+    {
+      "ix": 7,
+      "title": "Cross‑Cultural & Remote Communication",
+      "summary": "Adapt to cultural norms and async channels in global teams.",
+      "sections": [
+        { "ix": 1, "title": "Cultural Dimensions", "summary": "Directness, power distance, and time orientation in practice." },
+        { "ix": 2, "title": "Writing for Async", "summary": "Structure emails, docs, and updates for clarity and speed." },
+        { "ix": 3, "title": "Meetings & Collaboration", "summary": "Rituals, facilitation, and decisions across time zones." }
+      ]
+    },
+    {
+      "ix": 8,
+      "title": "Ethics, Influence, and Trust",
+      "summary": "Use influence responsibly to build reputation and long‑term partnerships.",
+      "sections": [
+        { "ix": 1, "title": "Ethical Persuasion", "summary": "Boundaries, transparency, and informed consent in influence." },
+        { "ix": 2, "title": "Reputation Management", "summary": "Consistency, follow‑through, and repairing mistakes." },
+        { "ix": 3, "title": "Relationship Building", "summary": "Nurture networks and alliances beyond single deals." }
+      ]
+    }
+  ]
+}
+

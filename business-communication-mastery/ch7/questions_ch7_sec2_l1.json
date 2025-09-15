@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 7, "sectionIx": 2, "ix": 1, "title": "Async Update Structure (RFCs, ADRs, Status)" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which RFC format MOST speeds async decision‑making?", "difficulty": "hard", "rationaleMd": "TL;DR, proposal, alternatives, impact, decision date.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "TL;DR + context + proposal + alternatives + impact + decision date/reviewers", "isCorrect": true, "feedbackMd": "Contains all decision‑critical elements." },
+      { "ix": 2, "contentMd": "Narrative essay without headings", "isCorrect": false, "feedbackMd": "Hard to scan." },
+      { "ix": 3, "contentMd": "Only a problem statement", "isCorrect": false, "feedbackMd": "Insufficient to decide." },
+      { "ix": 4, "contentMd": "A slide deck without dates", "isCorrect": false, "feedbackMd": "Missing decision metadata." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "For architecture choices, which ADR entry is MOST essential?", "difficulty": "medium", "rationaleMd": "Decision rationale.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Decision, context, consequences, and links to discussions", "isCorrect": true, "feedbackMd": "Makes intent and trade‑offs explicit." },
+      { "ix": 2, "contentMd": "A catchy title only", "isCorrect": false, "feedbackMd": "Insufficient for traceability." },
+      { "ix": 3, "contentMd": "Owner name only", "isCorrect": false, "feedbackMd": "Lacks rationale." },
+      { "ix": 4, "contentMd": "Emoji reactions", "isCorrect": false, "feedbackMd": "Not documentation." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Status updates should include TL;DR, progress, risks, and asks.", "difficulty": "easy", "rationaleMd": "Status hygiene.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Ensures the right action quickly." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Without asks, updates are passive." }
+    ]}
+  ]
+}
+

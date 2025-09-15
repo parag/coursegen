@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 4, "sectionIx": 3, "ix": 1, "title": "Spotting Hardball Tactics Early" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which response BEST neutralizes a \"good‑cop/bad‑cop\" pattern?", "difficulty": "hard", "rationaleMd": "Name tactic and return to interests.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Label the dynamic neutrally and propose focusing on issues and options", "isCorrect": true, "feedbackMd": "Calling out dynamics reduces their power; refocus on interests." },
+      { "ix": 2, "contentMd": "Match tone with a counter‑threat", "isCorrect": false, "feedbackMd": "Escalation worsens outcomes." },
+      { "ix": 3, "contentMd": "Ignore and keep conceding to move forward", "isCorrect": false, "feedbackMd": "Reinforces manipulation." },
+      { "ix": 4, "contentMd": "End the meeting immediately", "isCorrect": false, "feedbackMd": "Sometimes needed, but premature here." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "‘Nibbling’ is BEST described as:", "difficulty": "medium", "rationaleMd": "Post‑agreement erosion.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Small last‑minute asks added after agreement is reached", "isCorrect": true, "feedbackMd": "Correct. Guard with anti‑nibble clauses and firm boundaries." },
+      { "ix": 2, "contentMd": "Silence during a meeting", "isCorrect": false, "feedbackMd": "Different tactic (stonewalling)." },
+      { "ix": 3, "contentMd": "An early extreme anchor", "isCorrect": false, "feedbackMd": "Anchoring, not nibbling." },
+      { "ix": 4, "contentMd": "Excessive friendliness", "isCorrect": false, "feedbackMd": "Not a hardball tactic per se." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Calmly labeling a tactic can reduce its effectiveness without inflaming the situation.", "difficulty": "easy", "rationaleMd": "Tactical labeling.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Neutral language helps de‑power games." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Naming dynamics is a standard de‑escalation move." }
+    ]}
+  ]
+}
+

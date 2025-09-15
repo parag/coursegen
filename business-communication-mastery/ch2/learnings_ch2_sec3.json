@@ -1,0 +1,56 @@
+{
+  "section": { "chapterIx": 2, "sectionIx": 3, "title": "Framing & Cognitive Biases" },
+  "learnings": [
+    {
+      "ix": 1,
+      "title": "Framing Effects and Loss Aversion",
+      "bodyMd": "# Framing Effects and Loss Aversion\n\n## Overview\nHow you frame outcomes shifts choices. People weigh losses roughly twice as much as gains. Frame responsibly.\n\n## Key Concepts\n- Gain vs. loss frames: prevention vs. promotion focus.\n- Certainty effect: preference for sure gains over probabilistic ones.\n- Reference points: current state defines perceived gains/losses.\n\n## Examples\n- Adoption frame: avoid rework and incidents (loss frame) plus efficiency gains (gain frame).\n- Security: emphasize risk reduction with clear baselines.\n\n## Common Pitfalls\n- Alarmist loss framing that triggers reactance.\n- Ignoring the audience’s true reference point.\n\n## Summary\nUse balanced frames. Connect to the audience’s current baseline and highlight both avoided losses and concrete gains.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show examples", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 2,
+      "title": "Anchoring and Contrast Effects",
+      "bodyMd": "# Anchoring and Contrast Effects\n\n## Overview\nInitial numbers or ideas anchor perceptions. Manage anchors and provide meaningful contrasts to guide evaluation.\n\n## Key Concepts\n- Anchors: first numbers bias later judgments.\n- Contrast: side‑by‑side examples reveal trade‑offs.\n- Order effects: what appears first can dominate.\n\n## Examples\n- Start with total cost of ownership vs. sticker price.\n- Provide a baseline option before a premium one to shape contrast.\n\n## Common Pitfalls\n- Unintentionally adopting the other side’s anchor.\n- Anchors without credible rationale.\n\n## Summary\nSet justified anchors and compare alternatives explicitly. Use contrasts to clarify value, not to mislead.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give me an example", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 3,
+      "title": "Simplification and Information Architecture",
+      "bodyMd": "# Simplification and Information Architecture\n\n## Overview\nReduce cognitive load through structure. Present the minimum effective information in digestible chunks.\n\n## Key Concepts\n- Chunking: 3–5 items per group.\n- Progressive disclosure: reveal detail as needed.\n- Visual hierarchy: headings, bullets, white space.\n\n## Examples\n- Executive summary → options table → appendix.\n- Two‑tier FAQs: top questions then deep dives.\n\n## Common Pitfalls\n- Overloading slides/emails with dense text.\n- Burying the CTA under details.\n\n## Summary\nStructure messages so the core logic is obvious at a glance. Put details where motivated readers can find them.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show a template", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 4,
+      "title": "Defaults, Choice Overload, and Nudge Ethics",
+      "bodyMd": "# Defaults, Choice Overload, and Nudge Ethics\n\n## Overview\nDefaults and option sets influence choices. Offer simple, reversible defaults and respect autonomy.\n\n## Key Concepts\n- Good defaults: reversible, transparent, and beneficial.\n- Option set design: 2–3 strong choices, clear recommendation.\n- Nudge ethics: disclose design intent; avoid coercion.\n\n## Examples\n- Default to safer security settings with clear opt‑out.\n- Curate three pricing tiers with named use cases.\n\n## Common Pitfalls\n- Hidden defaults that are hard to change.\n- Ten near‑identical options causing paralysis.\n\n## Summary\nMake good behavior easy and reversible. Keep option sets tight and transparent to uphold trust.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give me examples", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 5,
+      "title": "Debiasing and Precommitment Techniques",
+      "bodyMd": "# Debiasing and Precommitment Techniques\n\n## Overview\nMitigate common biases by changing processes and committing in advance to sound choices.\n\n## Key Concepts\n- Checklists: criteria before discussion reduces halo effects.\n- Pre‑mortems: imagine failure to surface risks.\n- External review: neutral third‑party to counter groupthink.\n\n## Examples\n- Score options against criteria before debate.\n- Pre‑commit to decision rules to avoid recency bias.\n\n## Common Pitfalls\n- Relying on willpower alone to overcome bias.\n- Skipping documentation of criteria and outcomes.\n\n## Summary\nEmbed debiasing in workflows—criteria, pre‑mortems, and reviews—so better choices happen by default.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show a checklist", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    }
+  ]
+}
+

@@ -1,0 +1,56 @@
+{
+  "section": { "chapterIx": 4, "sectionIx": 1, "title": "Preparation & BATNA" },
+  "learnings": [
+    {
+      "ix": 1,
+      "title": "Interests, Positions, and BATNA/WATNA",
+      "bodyMd": "# Interests, Positions, and BATNA/WATNA\n\n## Overview\nSeparate interests (why) from positions (what). Define your Best and Worst Alternatives to a Negotiated Agreement.\n\n## Key Concepts\n- Interests vs. positions: needs vs. proposals.\n- BATNA/WATNA: fallback and worst‑case plans.\n- ZOPA: zone of possible agreement where deals can land.\n\n## Examples\n- Position: 12‑month contract. Interest: predictable costs and support.\n- BATNA: month‑to‑month with fewer features.\n\n## Common Pitfalls\n- Entering talks without a credible BATNA.\n- Arguing positions instead of exploring interests.\n\n## Summary\nList interests on both sides. Strengthen your BATNA and estimate theirs to find leverage and realistic targets.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give me examples", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 2,
+      "title": "Issue Mapping and Scoring",
+      "bodyMd": "# Issue Mapping and Scoring\n\n## Overview\nMap all negotiable issues and assign scores to evaluate packages across multiple dimensions.\n\n## Key Concepts\n- Issue list: price, term, scope, risk, timeline, service levels.\n- Scoring: weight issues; convert into comparable points.\n- Trade‑offs: give on low‑value to gain on high‑value issues.\n\n## Examples\n- 100‑point model: price 40, term 20, scope 20, support 20.\n- Compare packages by total score, not just price.\n\n## Common Pitfalls\n- Negotiating one issue at a time.\n- Vague terms that resist scoring.\n\n## Summary\nScore multi‑issue packages to evaluate value holistically. Use the model to guide trades and proposals.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show a template", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 3,
+      "title": "Reservation Price and Targets",
+      "bodyMd": "# Reservation Price and Targets\n\n## Overview\nDefine your reservation point (walk‑away) and your aspirational target before talks begin.\n\n## Key Concepts\n- Reservation price: point at which you prefer your BATNA.\n- Target: ambitious but realistic outcome.\n- Bracketing: set asks to anchor above target while credible.\n\n## Examples\n- Price band: reserve at $X, target at $Y, open at $Y+Δ.\n- Non‑price terms: reserve on liability caps or response times.\n\n## Common Pitfalls\n- No pre‑defined walk‑away.\n- Targets set by wish, not market and BATNA.\n\n## Summary\nWrite down your reservation and target points. Use them to resist pressure and structure proposals.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give me examples", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 4,
+      "title": "Negotiation Plan and Role‑Play",
+      "bodyMd": "# Negotiation Plan and Role‑Play\n\n## Overview\nPrepare a written plan and rehearse with a partner to test assumptions and responses.\n\n## Key Concepts\n- Plan: goals, issues, scores, BATNAs, opening, concessions.\n- Role‑play: simulate counterpart tactics and objections.\n- Debrief: refine answers, evidence, and tone.\n\n## Examples\n- Mock call with a teammate acting as a tough counterpart.\n- Checklist: open, probe, package offer, summarize, next steps.\n\n## Common Pitfalls\n- Treating negotiation as improv.\n- Rehearsing only your talking points, not likely counters.\n\n## Summary\nDocument your strategy and practice it under mild pressure. Iterate based on gaps exposed in role‑plays.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show a plan", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 5,
+      "title": "Opening Strategy and Agenda Control",
+      "bodyMd": "# Opening Strategy and Agenda Control\n\n## Overview\nSet tone and structure early: summarize goals, propose an agenda, and anchor with a credible opening.\n\n## Key Concepts\n- First offers: anchor but remain defensible.\n- Agenda: order topics to build momentum.\n- Process agreements: how decisions will be made and by whom.\n\n## Examples\n- Open with joint goals and a 3‑part agenda.\n- Provide a package offer to explore trades across issues.\n\n## Common Pitfalls\n- Letting the other side set an unfavorable frame.\n- Opening with a single‑issue number.\n\n## Summary\nShape the frame early. Use a credible opening and agreed agenda to guide a collaborative process.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give an example", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    }
+  ]
+}
+

@@ -1,0 +1,26 @@
+{
+  "learning": { "chapterIx": 2, "sectionIx": 3, "ix": 4, "title": "Defaults, Choice Overload, and Nudge Ethics" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which pattern BEST aligns with nudge ethics?", "difficulty": "hard", "rationaleMd": "Ethical nudge criteria.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Transparent default with clear rationale, easy opt‑out, and documentation of intent", "isCorrect": true, "feedbackMd": "Meets transparency, reversibility, and autonomy criteria." },
+      { "ix": 2, "contentMd": "Hidden default that requires support to change", "isCorrect": false, "feedbackMd": "Coercive and opaque." },
+      { "ix": 3, "contentMd": "Irreversible default justified by \"industry practice\"", "isCorrect": false, "feedbackMd": "Violates reversibility." },
+      { "ix": 4, "contentMd": "Ten similar options to avoid bias", "isCorrect": false, "feedbackMd": "Overload harms decision quality." }
+    ]},
+    { "ix": 2, "type": "true_false", "promptMd": "True or False: Disclosing nudge intent reduces its effectiveness.", "difficulty": "medium", "rationaleMd": "Transparency can coexist with effectiveness.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": false, "feedbackMd": "Transparent nudges can remain effective and build trust." },
+      { "ix": 2, "contentMd": "False", "isCorrect": true, "feedbackMd": "Correct. Clarity increases legitimacy and often adoption." }
+    ]},
+    { "ix": 3, "type": "mcq", "promptMd": "Which intervention MOST reduces choice overload?", "difficulty": "medium", "rationaleMd": "Practical overload mitigation.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Curate 2–3 options mapped to distinct needs with a recommended option", "isCorrect": true, "feedbackMd": "Reduces complexity while supporting autonomy." },
+      { "ix": 2, "contentMd": "Show all 20 options with equal prominence", "isCorrect": false, "feedbackMd": "Paralysis likely." },
+      { "ix": 3, "contentMd": "Remove comparisons to expedite decisions", "isCorrect": false, "feedbackMd": "Comparisons aid informed choice." },
+      { "ix": 4, "contentMd": "Randomize options on each load", "isCorrect": false, "feedbackMd": "Harms consistency and learning." }
+    ]},
+    { "ix": 4, "type": "true_false", "promptMd": "True or False: It’s ethical to design defaults that are opt‑out but extremely inconvenient to reverse if the outcome is beneficial.", "difficulty": "hard", "rationaleMd": "Ethics over paternalism.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": false, "feedbackMd": "Inconvenient opt‑outs violate autonomy and can erode trust." },
+      { "ix": 2, "contentMd": "False", "isCorrect": true, "feedbackMd": "Correct. Reversibility and convenience are ethical requirements." }
+    ]}
+  ]
+}
+

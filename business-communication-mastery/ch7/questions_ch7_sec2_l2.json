@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 7, "sectionIx": 2, "ix": 2, "title": "Threading, Tagging, and Findability" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which subject/tag convention MOST improves retrieval?", "difficulty": "hard", "rationaleMd": "Action tags + specificity + canonical links.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "[Decision]/[Action]/[FYI] + concise subject + link to canonical doc", "isCorrect": true, "feedbackMd": "Standardized and traceable." },
+      { "ix": 2, "contentMd": "No tags; conversational subject lines", "isCorrect": false, "feedbackMd": "Hard to search and triage." },
+      { "ix": 3, "contentMd": "All caps urgent subjects", "isCorrect": false, "feedbackMd": "No structure for search." },
+      { "ix": 4, "contentMd": "Random emojis", "isCorrect": false, "feedbackMd": "Cute, not searchable." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which threading practice is BEST?", "difficulty": "medium", "rationaleMd": "Keep context intact.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Reply in thread and summarize key decisions at the top", "isCorrect": true, "feedbackMd": "Maintains coherence and summary." },
+      { "ix": 2, "contentMd": "Start a new thread for every reply", "isCorrect": false, "feedbackMd": "Fragments context." },
+      { "ix": 3, "contentMd": "Move channels mid‑discussion without links", "isCorrect": false, "feedbackMd": "Breaks traceability." },
+      { "ix": 4, "contentMd": "Delete older messages", "isCorrect": false, "feedbackMd": "Loses history." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Point to a single source of truth rather than duplicating content.", "difficulty": "easy", "rationaleMd": "Canonicalization.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Avoid divergent copies." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Duplication breeds inconsistency." }
+    ]}
+  ]
+}
+

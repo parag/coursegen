@@ -1,0 +1,56 @@
+{
+  "learning": { "chapterIx": 2, "sectionIx": 1, "ix": 1, "title": "Core Levers of Ethical Persuasion" },
+  "questions": [
+    {
+      "ix": 1,
+      "type": "mcq",
+      "promptMd": "You’re proposing a process change to a skeptical team. Which combination of levers is MOST appropriate to start momentum without harming trust?",
+      "difficulty": "hard",
+      "rationaleMd": "Tests ability to select levers aligned to ethics and context rather than stacking manipulative cues.",
+      "metadata": { "shuffle": true },
+      "answers": [
+        { "ix": 1, "contentMd": "Reciprocity (share a time‑saving template) + Commitment (pilot sign‑up)", "isCorrect": true, "feedbackMd": "Correct. Give value first and invite a small, aligned commitment." },
+        { "ix": 2, "contentMd": "Authority (exec name‑drop) + Scarcity (\"last chance\")", "isCorrect": false, "feedbackMd": "Looks manipulative and may backfire with skeptics." },
+        { "ix": 3, "contentMd": "Liking (casual humor) + Social proof (anonymous quote)", "isCorrect": false, "feedbackMd": "Weak signals; anonymous quotes lack credibility; humor can misfire." },
+        { "ix": 4, "contentMd": "Scarcity (deadline) alone to accelerate action", "isCorrect": false, "feedbackMd": "Unfounded urgency erodes trust without substantive value." }
+      ]
+    },
+    {
+      "ix": 2,
+      "type": "true_false",
+      "promptMd": "True or False: Combining three or more persuasion levers in one message generally increases effectiveness.",
+      "difficulty": "medium",
+      "rationaleMd": "Encourages disciplined, ethical design instead of shotgun tactics.",
+      "answers": [
+        { "ix": 1, "contentMd": "True", "isCorrect": false, "feedbackMd": "Over‑stacking looks coercive; select 1–2 levers matched to the audience and context." },
+        { "ix": 2, "contentMd": "False", "isCorrect": true, "feedbackMd": "Correct. Focus improves authenticity and clarity." }
+      ]
+    },
+    {
+      "ix": 3,
+      "type": "mcq",
+      "promptMd": "Which scenario BEST fits ethical use of authority as a lever?",
+      "difficulty": "medium",
+      "rationaleMd": "Differentiates credential signaling from appeal to irrelevant authority.",
+      "metadata": { "shuffle": true },
+      "answers": [
+        { "ix": 1, "contentMd": "Citing a recognized auditor’s certification relevant to the decision", "isCorrect": true, "feedbackMd": "Relevant, independent authority strengthens credibility." },
+        { "ix": 2, "contentMd": "Quoting a famous CEO unrelated to the domain", "isCorrect": false, "feedbackMd": "Irrelevant authority doesn’t add diagnostic value." },
+        { "ix": 3, "contentMd": "Referencing your own seniority without evidence", "isCorrect": false, "feedbackMd": "Self‑authority claims lack external validation." },
+        { "ix": 4, "contentMd": "Saying \"trust me\" and asking to skip due diligence", "isCorrect": false, "feedbackMd": "Undermines trust and process." }
+      ]
+    },
+    {
+      "ix": 4,
+      "type": "true_false",
+      "promptMd": "True or False: Scarcity should be used only when constraints are real, explained, and beneficial to disclose.",
+      "difficulty": "easy",
+      "rationaleMd": "Checks ethical boundary around scarcity/urgency.",
+      "answers": [
+        { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Fabricated scarcity damages credibility long‑term." },
+        { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Artificial scarcity is manipulative and risky." }
+      ]
+    }
+  ]
+}
+

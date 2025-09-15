@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 6, "sectionIx": 3, "ix": 5, "title": "Escalation Protocols and When to Use Them" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "When is escalation MOST appropriate?", "difficulty": "hard", "rationaleMd": "Criteria: impact, risk, deadline proximity; prior attempts.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "High impact risk, deadline near, attempts made; brief prepared with clear ask", "isCorrect": true, "feedbackMd": "Meets criteria and uses a professional brief." },
+      { "ix": 2, "contentMd": "First disagreement on a minor issue", "isCorrect": false, "feedbackMd": "Premature escalation harms relationships." },
+      { "ix": 3, "contentMd": "To punish noncompliance publicly", "isCorrect": false, "feedbackMd": "Unprofessional and counterproductive." },
+      { "ix": 4, "contentMd": "Whenever you want faster attention", "isCorrect": false, "feedbackMd": "Abusive escalation erodes trust." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "What belongs in an escalation brief?", "difficulty": "medium", "rationaleMd": "Escalation content.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Context, issue, impact, attempts, desired decision/ask", "isCorrect": true, "feedbackMd": "Enables quick triage and fair judgment." },
+      { "ix": 2, "contentMd": "Venting and blame", "isCorrect": false, "feedbackMd": "Heat without signal." },
+      { "ix": 3, "contentMd": "Ambiguous request", "isCorrect": false, "feedbackMd": "Slows resolution." },
+      { "ix": 4, "contentMd": "Private DMs pasted raw", "isCorrect": false, "feedbackMd": "Uncurated noise." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Escalations should copy only those needed to decide.", "difficulty": "easy", "rationaleMd": "Minimize blast radius.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Broad CCs inflame dynamics." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Limit recipients to deciders/stakeholders." }
+    ]}
+  ]
+}
+

@@ -1,0 +1,26 @@
+{
+  "learning": { "chapterIx": 3, "sectionIx": 1, "ix": 4, "title": "Storyboarding and Outlining" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "What is the PRIMARY benefit of storyboarding a deck with slide headlines before drafting content?", "difficulty": "medium", "rationaleMd": "Structure before polish.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Forces a coherent narrative and prioritization under constraints", "isCorrect": true, "feedbackMd": "Validates flow and trade‑offs early." },
+      { "ix": 2, "contentMd": "Improves font and color choices", "isCorrect": false, "feedbackMd": "Styling is secondary." },
+      { "ix": 3, "contentMd": "Guarantees no edits later", "isCorrect": false, "feedbackMd": "Iteration remains necessary." },
+      { "ix": 4, "contentMd": "Replaces the need for stakeholder review", "isCorrect": false, "feedbackMd": "Storyboards invite early review, not replace it." }
+    ]},
+    { "ix": 2, "type": "true_false", "promptMd": "True or False: Stakeholder feedback on the storyboard is more efficient than comments on a polished draft.", "difficulty": "easy", "rationaleMd": "Fast iteration at the right fidelity.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Low‑fidelity review reduces sunk costs and churn." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Polished drafts slow structural changes." }
+    ]},
+    { "ix": 3, "type": "mcq", "promptMd": "Which constraint MOST improves storyboarding quality?", "difficulty": "hard", "rationaleMd": "Constraints drive focus.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "A hard slide/time limit that forces prioritization", "isCorrect": true, "feedbackMd": "Constraints surface what matters." },
+      { "ix": 2, "contentMd": "Unlimited slides to cover every angle", "isCorrect": false, "feedbackMd": "Encourages bloat and dilution." },
+      { "ix": 3, "contentMd": "Starting from fully designed slides", "isCorrect": false, "feedbackMd": "Design distracts from structure." },
+      { "ix": 4, "contentMd": "Collecting every stakeholder’s wishlist first", "isCorrect": false, "feedbackMd": "Leads to grab‑bag narratives." }
+    ]},
+    { "ix": 4, "type": "true_false", "promptMd": "True or False: An outline for a memo should list section headings and bullet claims before prose.", "difficulty": "medium", "rationaleMd": "Outline discipline.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Claims first; prose later." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Prose first wastes cycles when structure changes." }
+    ]}
+  ]
+}
+

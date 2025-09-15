@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 5, "sectionIx": 1, "ix": 5, "title": "Speaker Notes and Rehearsal Plans" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which rehearsal plan MOST improves delivery?", "difficulty": "hard", "rationaleMd": "Timing + notes + dry run.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Bullet notes, timed run hitting 60–70% content, record and review", "isCorrect": true, "feedbackMd": "Locks pacing and transitions; feedback loop included." },
+      { "ix": 2, "contentMd": "Full script reading during the talk", "isCorrect": false, "feedbackMd": "Leads to monotone and lost eye contact." },
+      { "ix": 3, "contentMd": "No rehearsal to keep it spontaneous", "isCorrect": false, "feedbackMd": "Risky for high‑stakes settings." },
+      { "ix": 4, "contentMd": "Rehearse only the first slide", "isCorrect": false, "feedbackMd": "Transitions and Q&A remain weak." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which note style is MOST effective?", "difficulty": "medium", "rationaleMd": "Prompts vs. scripts.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Short bullet prompts with data points and transitions", "isCorrect": true, "feedbackMd": "Guides delivery while allowing eye contact." },
+      { "ix": 2, "contentMd": "Paragraphs of full prose", "isCorrect": false, "feedbackMd": "Hard to scan live." },
+      { "ix": 3, "contentMd": "No notes at all", "isCorrect": false, "feedbackMd": "Increases error risk." },
+      { "ix": 4, "contentMd": "Only slide thumbnails", "isCorrect": false, "feedbackMd": "Misses key facts and transitions." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Leave 30–40% of scheduled time for questions and discussion.", "difficulty": "easy", "rationaleMd": "Q&A buffer norm.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Ensures interaction and decision clarity." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Overstuffed content reduces engagement." }
+    ]}
+  ]
+}
+

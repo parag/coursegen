@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 5, "sectionIx": 2, "ix": 1, "title": "Visual Hierarchy and Typography" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which typography system MOST improves scanability?", "difficulty": "hard", "rationaleMd": "Consistent hierarchy and spacing.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "1–2 fonts, 3 sizes (title/subtitle/body), consistent spacing", "isCorrect": true, "feedbackMd": "Simple, predictable hierarchy aids reading." },
+      { "ix": 2, "contentMd": "Five fonts and many sizes for variety", "isCorrect": false, "feedbackMd": "Inconsistent rhythm increases load." },
+      { "ix": 3, "contentMd": "All caps body text for emphasis", "isCorrect": false, "feedbackMd": "Hurts readability." },
+      { "ix": 4, "contentMd": "Center‑aligned long paragraphs", "isCorrect": false, "feedbackMd": "Hard to track lines." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which spacing practice is BEST?", "difficulty": "medium", "rationaleMd": "Whitespace as design.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Generous margins and consistent line spacing", "isCorrect": true, "feedbackMd": "Improves rhythm and attention." },
+      { "ix": 2, "contentMd": "Cram as much text as possible", "isCorrect": false, "feedbackMd": "Reduces comprehension." },
+      { "ix": 3, "contentMd": "Random spacing to create excitement", "isCorrect": false, "feedbackMd": "Unpredictable cadence." },
+      { "ix": 4, "contentMd": "Large gaps between every word", "isCorrect": false, "feedbackMd": "Impedes reading." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Left alignment is generally more readable for body text than center alignment.", "difficulty": "easy", "rationaleMd": "Alignment norms.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. It keeps a consistent start point for each line." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Center alignment is harder to track for long text." }
+    ]}
+  ]
+}
+

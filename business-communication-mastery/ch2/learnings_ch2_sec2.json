@@ -1,0 +1,56 @@
+{
+  "section": { "chapterIx": 2, "sectionIx": 2, "title": "Credibility and Trust" },
+  "learnings": [
+    {
+      "ix": 1,
+      "title": "Building Ethos: Expertise, Reliability, Benevolence",
+      "bodyMd": "# Building Ethos: Expertise, Reliability, Benevolence\n\n## Overview\nTrust rests on three pillars: demonstrated expertise, consistent reliability, and benevolent intent. Signal each explicitly.\n\n## Key Concepts\n- Expertise: relevant experience, credentials, results.\n- Reliability: follow‑through, responsiveness, accuracy.\n- Benevolence: alignment with others’ interests, not just your own.\n- Proof over claims: show, don’t tell.\n\n## Examples\n- Expertise: link to 2 case studies with metrics.\n- Reliability: clear SLAs and on‑time updates.\n- Benevolence: propose options that trade off in their favor.\n\n## Common Pitfalls\n- Over‑claiming without evidence.\n- Promising beyond capacity, then missing commitments.\n\n## Summary\nState qualifications briefly, prove reliability with behaviors, and prioritize the audience’s goals to earn durable trust.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show examples", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 2,
+      "title": "Proof Stack: Evidence Hierarchy",
+      "bodyMd": "# Proof Stack: Evidence Hierarchy\n\n## Overview\nSequence the strongest forms of proof first to accelerate belief and reduce perceived risk.\n\n## Key Concepts\n- Hierarchy: third‑party validation > customer references > controlled pilots > internal data > opinion.\n- Relevance: same industry, role, and scale beats generic logos.\n- Triangulation: combine 2–3 proofs for robustness.\n\n## Examples\n- Open with a credentialed audit, then peer reference quotes, then your pilot metrics.\n- For a policy, cite legal guidance, benchmark peers, and internal risk analyses.\n\n## Common Pitfalls\n- Logo dumping without outcomes.\n- Leading with weak, anecdotal proof.\n\n## Summary\nLead with your strongest independent proof, then layer complementary evidence that matches the audience’s risk model.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["More examples", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 3,
+      "title": "Transparent Risk and Uncertainty Communication",
+      "bodyMd": "# Transparent Risk and Uncertainty Communication\n\n## Overview\nTransparent communication about risks and unknowns increases credibility and supports joint problem solving.\n\n## Key Concepts\n- Risk framing: likelihood × impact, with mitigations.\n- Unknowns: what’s uncertain, what we’re doing to learn.\n- Range estimates: best/base/worst case with triggers.\n- Shared ownership: co‑created mitigation plans.\n\n## Examples\n- Roadmap changes: list risks, signals, and contingency steps.\n- Pilot plans: define success thresholds and kill criteria.\n\n## Common Pitfalls\n- Hand‑waving uncertainties to look confident.\n- Over‑indexing on optimism with no contingencies.\n\n## Summary\nName real risks and unknowns. Propose concrete mitigations and decision triggers to build confidence and autonomy.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show a template", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 4,
+      "title": "Consistency, Follow‑Through, and Reputation Signals",
+      "bodyMd": "# Consistency, Follow‑Through, and Reputation Signals\n\n## Overview\nReputation compounds from consistent, visible behaviors. Make reliability legible and easy to verify.\n\n## Key Concepts\n- Operating cadence: predictable updates and checkpoints.\n- Decisions log: record agreements and outcomes.\n- External signals: certifications, reviews, community contributions.\n- Responsiveness: SLAs for replies and actions.\n\n## Examples\n- Weekly progress notes with risks and next steps.\n- Public changelog and status page for services.\n\n## Common Pitfalls\n- Sporadic updates that force stakeholders to chase.\n- Hiding issues until they explode.\n\n## Summary\nMake reliability observable: set cadences, keep promises, and surface evidence of consistency.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show a cadence", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 5,
+      "title": "Repairing Trust After Mistakes",
+      "bodyMd": "# Repairing Trust After Mistakes\n\n## Overview\nWhen things go wrong, swift ownership and concrete repair plans can strengthen trust.\n\n## Key Concepts\n- Acknowledgment: name the impact without defensiveness.\n- Apology: concise, specific, no excuses.\n- Remedy: immediate actions, longer‑term fixes, verification.\n- Follow‑up: confirm outcomes and invite feedback.\n\n## Examples\n- Incident post‑mortem with clear owners and timelines.\n- Customer‑facing apology with make‑good options.\n\n## Common Pitfalls\n- Vague apologies that dodge responsibility.\n- Promising fixes without capacity or dates.\n\n## Summary\nOwn the issue, fix it, and close the loop. Trust often rebounds higher with transparent, competent recovery.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show an example", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    }
+  ]
+}
+

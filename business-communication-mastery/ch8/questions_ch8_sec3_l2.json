@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 8, "sectionIx": 3, "ix": 2, "title": "Reciprocity and Being Useful" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which act MOST builds goodwill without strings?", "difficulty": "hard", "rationaleMd": "Relevant, timely help.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Send a concise, tailored resource that advances their goal", "isCorrect": true, "feedbackMd": "Usefulness first; no quid‑pro‑quo." },
+      { "ix": 2, "contentMd": "Ask for an intro immediately", "isCorrect": false, "feedbackMd": "Starts with an ask, not value." },
+      { "ix": 3, "contentMd": "Broadcast a generic newsletter", "isCorrect": false, "feedbackMd": "Low relevance." },
+      { "ix": 4, "contentMd": "Offer swag", "isCorrect": false, "feedbackMd": "Transactional; low substance." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which intro style is BEST?", "difficulty": "medium", "rationaleMd": "Double‑opt clarity.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Double‑opt intro with context and explicit opt‑out", "isCorrect": true, "feedbackMd": "Respects autonomy of both parties." },
+      { "ix": 2, "contentMd": "Cold connect without consent", "isCorrect": false, "feedbackMd": "Violates norms." },
+      { "ix": 3, "contentMd": "Vague intro with no purpose", "isCorrect": false, "feedbackMd": "Low clarity and value." },
+      { "ix": 4, "contentMd": "CC both and ask them to figure it out", "isCorrect": false, "feedbackMd": "Creates work without context." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Reciprocity builds strongest when there’s no immediate expectation of return.", "difficulty": "easy", "rationaleMd": "Goodwill dynamics.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Genuine help composes goodwill." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Transactional framing weakens ties." }
+    ]}
+  ]
+}
+

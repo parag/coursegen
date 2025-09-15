@@ -1,0 +1,56 @@
+{
+  "learning": { "chapterIx": 1, "sectionIx": 1, "ix": 4, "title": "Designing Calls‑to‑Action and Decision Pathways" },
+  "questions": [
+    {
+      "ix": 1,
+      "type": "mcq",
+      "promptMd": "Which CTA best reduces friction for an approval request?",
+      "difficulty": "easy",
+      "rationaleMd": "Evaluates CTA clarity and friction reduction.",
+      "metadata": { "shuffle": true },
+      "answers": [
+        { "ix": 1, "contentMd": "Click ‘Approve’ by Friday 5pm; 1‑page brief linked", "isCorrect": true, "feedbackMd": "Correct. Singular ask, deadline, and pre‑read reduce friction." },
+        { "ix": 2, "contentMd": "Let me know your thoughts when you have time", "isCorrect": false, "feedbackMd": "Vague timing and no specific action." },
+        { "ix": 3, "contentMd": "We have a few CTAs: review, comment, and schedule a call", "isCorrect": false, "feedbackMd": "Multiple primary CTAs dilute action." },
+        { "ix": 4, "contentMd": "See attached 20‑page deck", "isCorrect": false, "feedbackMd": "High friction; missing explicit ask and deadline." }
+      ]
+    },
+    {
+      "ix": 2,
+      "type": "true_false",
+      "promptMd": "True or False: Defaults (e.g., pre‑filled forms) should be reversible and transparent to remain ethical.",
+      "difficulty": "medium",
+      "rationaleMd": "Checks ethics of choice architecture.",
+      "answers": [
+        { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Good defaults are reversible, transparent, and beneficial." },
+        { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Irreversible or hidden defaults erode trust." }
+      ]
+    },
+    {
+      "ix": 3,
+      "type": "mcq",
+      "promptMd": "What is a micro‑commitment in CTA design?",
+      "difficulty": "medium",
+      "rationaleMd": "Assesses knowledge of progressive engagement.",
+      "metadata": { "shuffle": true },
+      "answers": [
+        { "ix": 1, "contentMd": "A small, low‑effort step that builds toward the main commitment", "isCorrect": true, "feedbackMd": "Correct. Micro‑steps increase follow‑through and reduce friction." },
+        { "ix": 2, "contentMd": "A legal clause added post‑agreement", "isCorrect": false, "feedbackMd": "That’s unrelated to CTA design." },
+        { "ix": 3, "contentMd": "A secondary CTA that competes with the primary", "isCorrect": false, "feedbackMd": "Competing CTAs are counterproductive." },
+        { "ix": 4, "contentMd": "A meeting calendar invite for any topic", "isCorrect": false, "feedbackMd": "Not specific to micro‑commitments." }
+      ]
+    },
+    {
+      "ix": 4,
+      "type": "true_false",
+      "promptMd": "True or False: Presenting 2–3 vetted options with a recommendation can speed decisions compared to presenting a single take‑it‑or‑leave‑it offer.",
+      "difficulty": "easy",
+      "rationaleMd": "Connects option framing to decision velocity.",
+      "answers": [
+        { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Curated options with a clear recommendation streamline choices." },
+        { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Single offers often stall if not well‑framed against alternatives." }
+      ]
+    }
+  ]
+}
+

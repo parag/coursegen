@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 7, "sectionIx": 2, "ix": 3, "title": "Clear Writing for Global, Async Audiences" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which rewrite is MOST globally clear?", "difficulty": "hard", "rationaleMd": "Plain language; remove idioms; explicit CTAs.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "‘Increase by 10% by Fri; Ana owns; link to steps’", "isCorrect": true, "feedbackMd": "Concrete, time‑bound, owner named." },
+      { "ix": 2, "contentMd": "‘Move the needle soon’", "isCorrect": false, "feedbackMd": "Idiomatic and vague." },
+      { "ix": 3, "contentMd": "‘Crank this out ASAP’", "isCorrect": false, "feedbackMd": "Idiomatic and ambiguous." },
+      { "ix": 4, "contentMd": "‘Make it world‑class’", "isCorrect": false, "feedbackMd": "Non‑specific." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which structure MOST aids skimming?", "difficulty": "medium", "rationaleMd": "Labeled bullets, one idea per paragraph.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Headings + labeled bullets + short paragraphs", "isCorrect": true, "feedbackMd": "Improves navigation for non‑native readers." },
+      { "ix": 2, "contentMd": "Dense paragraphs with multiple topics", "isCorrect": false, "feedbackMd": "Hard to parse." },
+      { "ix": 3, "contentMd": "All caps and bold everywhere", "isCorrect": false, "feedbackMd": "Visual noise." },
+      { "ix": 4, "contentMd": "No headings", "isCorrect": false, "feedbackMd": "No structure cues." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Avoid culture‑bound metaphors and idioms in async writing.", "difficulty": "easy", "rationaleMd": "Clarity across cultures.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Use plain, literal language." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Idioms don’t translate reliably." }
+    ]}
+  ]
+}
+

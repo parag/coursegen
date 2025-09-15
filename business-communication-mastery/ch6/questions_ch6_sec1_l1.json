@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 6, "sectionIx": 1, "ix": 1, "title": "SBI and CLEAR Feedback Models" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which feedback is MOST aligned with SBI?", "difficulty": "hard", "rationaleMd": "Situation–Behavior–Impact specificity.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "‘In Monday’s review (S), you interrupted twice (B), which derailed the agenda (I).’", "isCorrect": true, "feedbackMd": "Specific, observable, and impact‑focused." },
+      { "ix": 2, "contentMd": "‘You were unprofessional.’", "isCorrect": false, "feedbackMd": "Vague label without observation or context." },
+      { "ix": 3, "contentMd": "‘People felt bad.’", "isCorrect": false, "feedbackMd": "No behavior or situation stated." },
+      { "ix": 4, "contentMd": "‘Try harder next time.’", "isCorrect": false, "feedbackMd": "Not actionable; no SBI elements." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which CLEAR step is MOST often skipped?", "difficulty": "medium", "rationaleMd": "Contract→Listen→Explore→Action→Review.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Review: schedule a checkpoint to verify change", "isCorrect": true, "feedbackMd": "Follow‑through closes the loop and drives change." },
+      { "ix": 2, "contentMd": "Contract: agree on purpose and outcome", "isCorrect": false, "feedbackMd": "Often done implicitly, but still important." },
+      { "ix": 3, "contentMd": "Listen: hear their view", "isCorrect": false, "feedbackMd": "Also skipped, but Review is most neglected." },
+      { "ix": 4, "contentMd": "Action: define next steps", "isCorrect": false, "feedbackMd": "Usually present, though sometimes vague." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Feedback should describe observable behavior, not inferred intent.", "difficulty": "easy", "rationaleMd": "Behavior vs. attribution.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Inferences trigger defensiveness." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Stick to what you saw/heard." }
+    ]}
+  ]
+}
+

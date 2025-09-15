@@ -1,0 +1,26 @@
+{
+  "learning": { "chapterIx": 2, "sectionIx": 3, "ix": 5, "title": "Debiasing and Precommitment Techniques" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which process change MOST reduces halo and recency effects in option selection?", "difficulty": "hard", "rationaleMd": "Pre‑criteria scoring vs. discussion first.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Score options against agreed criteria individually before group discussion", "isCorrect": true, "feedbackMd": "Prevents early anchors and dominance." },
+      { "ix": 2, "contentMd": "Debate options openly, then pick the loudest consensus", "isCorrect": false, "feedbackMd": "Enables bias and groupthink." },
+      { "ix": 3, "contentMd": "Choose based on latest data point only", "isCorrect": false, "feedbackMd": "Recency bias." },
+      { "ix": 4, "contentMd": "Let the highest‑ranked person decide without scoring", "isCorrect": false, "feedbackMd": "Authority bias." }
+    ]},
+    { "ix": 2, "type": "true_false", "promptMd": "True or False: A pre‑mortem (imagining failure) can surface risks that standard planning overlooks.", "difficulty": "medium", "rationaleMd": "Value of negative visualization.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Pre‑mortems elicit hidden failure modes." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Pre‑mortems are a proven debiasing tool." }
+    ]},
+    { "ix": 3, "type": "mcq", "promptMd": "Which precommitment is MOST effective to prevent scope creep during review?", "difficulty": "medium", "rationaleMd": "Decision hygiene.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Agree on evaluation criteria and \"out of scope\" items before seeing proposals", "isCorrect": true, "feedbackMd": "Reduces motivated reasoning and drift." },
+      { "ix": 2, "contentMd": "Decide to \"be pragmatic\" later", "isCorrect": false, "feedbackMd": "Vague and unenforceable." },
+      { "ix": 3, "contentMd": "Let criteria emerge organically in debate", "isCorrect": false, "feedbackMd": "Invites bias and anchoring." },
+      { "ix": 4, "contentMd": "Use last year’s criteria regardless of change", "isCorrect": false, "feedbackMd": "Can misfit the current context." }
+    ]},
+    { "ix": 4, "type": "true_false", "promptMd": "True or False: External review from a neutral party primarily adds delay without quality benefits.", "difficulty": "hard", "rationaleMd": "Third‑party checks reduce groupthink.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": false, "feedbackMd": "Neutral reviews can reveal blind spots and improve rigor." },
+      { "ix": 2, "contentMd": "False", "isCorrect": true, "feedbackMd": "Correct. Use judiciously to raise decision quality." }
+    ]}
+  ]
+}
+

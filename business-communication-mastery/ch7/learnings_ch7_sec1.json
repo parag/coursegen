@@ -1,0 +1,56 @@
+{
+  "section": { "chapterIx": 7, "sectionIx": 1, "title": "Cultural Dimensions" },
+  "learnings": [
+    {
+      "ix": 1,
+      "title": "Directness, Power Distance, and Context",
+      "bodyMd": "# Directness, Power Distance, and Context\n\n## Overview\nCultural norms vary in directness, hierarchy, and reliance on shared context. Adapt your style to reduce friction.\n\n## Key Concepts\n- Low vs. high context communication.\n- Power distance: deference and decision patterns.\n- Direct vs. indirect feedback norms.\n\n## Examples\n- In high‑context settings, provide more backstory and read implicit cues.\n- In low‑context, get to the point and request explicit decisions.\n\n## Common Pitfalls\n- Reading indirectness as evasiveness.\n- Mistaking deference for agreement.\n\n## Summary\nObserve and adapt to context and hierarchy norms. Make your intent explicit and verify understanding across styles.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give examples", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 2,
+      "title": "Time Orientation and Scheduling Norms",
+      "bodyMd": "# Time Orientation and Scheduling Norms\n\n## Overview\nPerceptions of time vary: punctuality, deadlines, and long‑ vs short‑term focus differ across cultures.\n\n## Key Concepts\n- Monochronic vs. polychronic time.\n- Deadline rigidity vs. flexibility.\n- Planning horizons and holiday calendars.\n\n## Examples\n- Buffer schedules for polychronic cultures.\n- Clarify what \"deadline\" means explicitly.\n\n## Common Pitfalls\n- Assigning moral weight to time styles.\n- Hidden holiday conflicts.\n\n## Summary\nNegotiate timing norms openly. Add buffers and explicit definitions to reduce missed expectations.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give tips", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 3,
+      "title": "Feedback and Face‑Saving Across Cultures",
+      "bodyMd": "# Feedback and Face‑Saving Across Cultures\n\n## Overview\nDeliver feedback in ways that preserve dignity and encourage improvement across different norms.\n\n## Key Concepts\n- Indirect feedback: soften with context and suggestions.\n- Private vs. public recognition.\n- Face‑saving mechanisms and shared blame language.\n\n## Examples\n- Use \"could we try\" phrasing and joint problem statements.\n- Recognize teams rather than individuals where appropriate.\n\n## Common Pitfalls\n- Public critique causing shame.\n- Sarcasm or humor that doesn’t translate.\n\n## Summary\nTailor feedback tone and setting to local norms. Protect face and emphasize joint improvement.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show phrases", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 4,
+      "title": "Building Cross‑Cultural Empathy",
+      "bodyMd": "# Building Cross‑Cultural Empathy\n\n## Overview\nCuriosity and humility accelerate cross‑cultural collaboration. Learn local norms and language cues.\n\n## Key Concepts\n- Cultural briefings and buddy systems.\n- Language accommodations and plain English.\n- Ask‑observe‑adapt loop.\n\n## Examples\n- Pair newcomers with local mentors.\n- Maintain a team glossary of idioms and acronyms.\n\n## Common Pitfalls\n- Assuming \"global English\" solves nuance.\n- Token gestures without real learning.\n\n## Summary\nInvest in learning norms and language. Ask thoughtful questions and adapt quickly based on feedback and observation.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give practices", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 5,
+      "title": "Working Agreements for Global Teams",
+      "bodyMd": "# Working Agreements for Global Teams\n\n## Overview\nExplicit working agreements reduce friction across cultures and time zones.\n\n## Key Concepts\n- Core hours and response SLAs.\n- Decision and documentation norms.\n- Meeting rotation and inclusivity practices.\n\n## Examples\n- Rotate inconvenient meeting times.\n- Document decisions in a shared, searchable place.\n\n## Common Pitfalls\n- Unwritten rules that exclude remote members.\n- One‑time zones dominating.\n\n## Summary\nCodify inclusive norms so collaboration doesn’t depend on guessing local expectations.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show template", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    }
+  ]
+}
+

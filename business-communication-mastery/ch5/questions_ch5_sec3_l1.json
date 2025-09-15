@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 5, "sectionIx": 3, "ix": 1, "title": "Voice, Pacing, and Pauses" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which pacing choice MOST improves comprehension?", "difficulty": "medium", "rationaleMd": "Tempo control.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "140–160 wpm with intentional pauses after headlines", "isCorrect": true, "feedbackMd": "Gives room for processing and emphasis." },
+      { "ix": 2, "contentMd": "Rapid delivery to cover more slides", "isCorrect": false, "feedbackMd": "Overloads listeners." },
+      { "ix": 3, "contentMd": "Monotone at constant speed", "isCorrect": false, "feedbackMd": "Reduces engagement." },
+      { "ix": 4, "contentMd": "Pause only at the end", "isCorrect": false, "feedbackMd": "Misses key emphasis points." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which vocal technique MOST helps highlight key figures?", "difficulty": "hard", "rationaleMd": "Prosody control.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Lower pace and add a slight downward inflection around the number", "isCorrect": true, "feedbackMd": "Signals importance and aids recall." },
+      { "ix": 2, "contentMd": "Speak louder across the entire slide", "isCorrect": false, "feedbackMd": "Non‑selective emphasis blurs signal." },
+      { "ix": 3, "contentMd": "Whisper to seem mysterious", "isCorrect": false, "feedbackMd": "Reduces audibility and confidence." },
+      { "ix": 4, "contentMd": "Avoid mentioning numbers verbally", "isCorrect": false, "feedbackMd": "Verbal repetition aids memory." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: A short pause after the BLUF increases retention and invites questions.", "difficulty": "easy", "rationaleMd": "Pause utility.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Silence can underline importance." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Running on reduces impact." }
+    ]}
+  ]
+}
+

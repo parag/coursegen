@@ -1,0 +1,56 @@
+{
+  "section": { "chapterIx": 5, "sectionIx": 2, "title": "Visuals & Slide Design" },
+  "learnings": [
+    {
+      "ix": 1,
+      "title": "Visual Hierarchy and Typography",
+      "bodyMd": "# Visual Hierarchy and Typography\n\n## Overview\nEstablish a clean hierarchy with consistent typography to improve scanability and focus.\n\n## Key Concepts\n- Hierarchy: title, subtitle, body, annotations.\n- Fonts: 1–2 families; 3 sizes max.\n- Alignment and whitespace for rhythm.\n\n## Examples\n- Left‑aligned text blocks, consistent margins.\n- Larger slide titles with concise headlines.\n\n## Common Pitfalls\n- Too many fonts and sizes.\n- Dense blocks without breathing room.\n\n## Summary\nKeep type simple and consistent. Use whitespace as a design element to guide the eye.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show examples", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 2,
+      "title": "Chart Integrity and Minimalism",
+      "bodyMd": "# Chart Integrity and Minimalism\n\n## Overview\nRemove chartjunk, keep scales honest, and let the data tell the story.\n\n## Key Concepts\n- Honest axes and baselines.\n- Minimalism: gridlines, labels, legend placement.\n- Color usage: few hues; consistent mapping.\n\n## Examples\n- Direct labeling instead of legends.\n- Avoid 3D and decorative effects.\n\n## Common Pitfalls\n- Truncated axes that mislead.\n- Over‑coloring many series.\n\n## Summary\nUse clean, truthful charts with minimal decoration and clear labels to emphasize signal over noise.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give me examples", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 3,
+      "title": "Templates, Grids, and Consistency",
+      "bodyMd": "# Templates, Grids, and Consistency\n\n## Overview\nLock in a slide grid and template to maintain visual consistency and speed.\n\n## Key Concepts\n- Grid systems: column guides for alignment.\n- Master slides: title, content, comparison, appendix.\n- Tokens: colors, spacing, icon styles.\n\n## Examples\n- Reuse master layouts and spacing variables.\n- Global color mapping for categories.\n\n## Common Pitfalls\n- Ad‑hoc layouts that shift between slides.\n- Inconsistent color meanings.\n\n## Summary\nAdopt a grid and template to reduce variance and keep attention on content, not formatting.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show a template", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 4,
+      "title": "Highlighting Data and Annotations",
+      "bodyMd": "# Highlighting Data and Annotations\n\n## Overview\nGuide attention with minimal color, clear callouts, and direct labels on key points.\n\n## Key Concepts\n- Color as emphasis, not decoration.\n- Callouts: arrows, notes, and highlight bands.\n- Pre‑attentive attributes: color, size, position.\n\n## Examples\n- Highlight just one series and mute the rest.\n- Annotate deltas on bars/lines directly.\n\n## Common Pitfalls\n- Rainbow palettes that distract.\n- Legends that force constant eye travel.\n\n## Summary\nUse a restrained palette and direct annotations to make the insight pop instantly.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give examples", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 5,
+      "title": "Accessibility and Inclusive Design",
+      "bodyMd": "# Accessibility and Inclusive Design\n\n## Overview\nDesign slides that work for color blindness, small screens, and screen readers.\n\n## Key Concepts\n- Contrast ratios and color‑blind safe palettes.\n- Alt text for images; descriptive titles.\n- Font sizes and touch‑target spacing.\n\n## Examples\n- Use color plus shape/label for encodings.\n- Provide alt text and descriptive captions.\n\n## Common Pitfalls\n- Relying on color alone.\n- Tiny text that fails at distance.\n\n## Summary\nInclusive design broadens comprehension and participation. Build accessibility into your slide system from the start.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show guidelines", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    }
+  ]
+}
+

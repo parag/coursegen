@@ -1,0 +1,71 @@
+{
+  "section": { "chapterIx": 1, "sectionIx": 3, "title": "Clarity, Brevity, and Tone" },
+  "learnings": [
+    {
+      "ix": 1,
+      "title": "Writing with Clarity and Brevity",
+      "bodyMd": "# Writing with Clarity and Brevity\n\n## Overview\nConcise writing improves comprehension and response rates. Use plain language, strong verbs, and front‑load the ask.\n\n## Key Concepts\n- BLUF (Bottom Line Up Front): lead with the key take.\n- Plain language: avoid jargon; use familiar words.\n- Active voice: clear ownership and action.\n- Sentence economy: delete filler, stack related ideas.\n\n## Examples\n- Before: *We are reaching out to inform you that it has come to our attention…* → After: *We found an issue and fixed it.*\n- Before: *It would be great if you could…* → After: *Please approve by Friday.*\n\n## Common Pitfalls\n- Hedging that obscures responsibility.\n- Burying the CTA at the end.\n- Overlong paragraphs without signposts.\n\n## Summary\nState the conclusion first, then supporting details. Keep sentences short, verbs strong, and requests explicit.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": [
+        "Rewrite an example",
+        "Explain differently"
+      ],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 2,
+      "title": "Structuring Messages for Readability",
+      "bodyMd": "# Structuring Messages for Readability\n\n## Overview\nStructure guides attention and reduces cognitive load. Use headings, bullets, and visual hierarchy to make scanning easy.\n\n## Key Concepts\n- Inverted pyramid: most important → details → background.\n- Chunking: short paragraphs, white space, lists.\n- Signposting: labels, sections, and explicit next steps.\n- Formatting: bold for labels, monospace for commands/paths when relevant.\n\n## Examples\n- Update email: headline + TL;DR + 3 bullets + CTA + appendix links.\n- Decision doc: summary, options with criteria, recommendation, risks, appendix.\n\n## Common Pitfalls\n- Walls of text without whitespace.\n- Mixing multiple topics in one paragraph.\n- Styling without semantic structure.\n\n## Summary\nDesign for scanners. Clear sections, labeled bullets, and concise CTAs improve comprehension and response time.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": [
+        "Show a template",
+        "I understand",
+        "Explain differently"
+      ],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 3,
+      "title": "Tone, Professionalism, and Rapport",
+      "bodyMd": "# Tone, Professionalism, and Rapport\n\n## Overview\nTone shapes trust and collaboration. Aim for confident, respectful, and warm. Adjust formality by audience and context.\n\n## Key Concepts\n- Confidence without arrogance: state facts and ownership.\n- Warmth cues: gratitude, acknowledgment, inclusive pronouns.\n- Formality spectrum: legal/compliance vs. friendly internal updates.\n- Cultural sensitivity: idioms and humor do not always translate.\n\n## Examples\n- Hard news: be direct, own the issue, outline remedy and support.\n- Positive update: celebrate contributions, highlight impact, invite feedback.\n\n## Common Pitfalls\n- Over‑casual tone in sensitive topics.\n- Passive‑aggressive phrases ("as previously mentioned").\n- Emojis or slang misread across cultures.\n\n## Summary\nChoose a tone that signals competence and care. Mirror audience formality and avoid ambiguous or culturally loaded phrasing.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": [
+        "Give me an example",
+        "Explain differently"
+      ],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 4,
+      "title": "Reusable Templates and Communication Checklists",
+      "bodyMd": "# Reusable Templates and Communication Checklists\n\n## Overview\nTemplates and checklists improve speed and consistency. Standardize common formats for updates, decisions, and requests.\n\n## Key Concepts\n- Email template: subject with [Tag] + BLUF, bullets, CTA, deadline.\n- Decision doc: summary, options vs. criteria, recommendation, risks, next steps.\n- Meeting agenda: goal, topics with timeboxes, roles, pre‑reads, decisions log.\n- Checklist: purpose, audience, CTA, owner, due date, attachments/links.\n\n## Examples\n- Update: [Decision Needed] Q3 staffing — BLUF, 3 bullets, CTA by Fri.\n- Request: [Action] Approve vendor SOW — link to 1‑pager, deadline, owner.\n\n## Common Pitfalls\n- Cargo‑culting templates without tailoring content.\n- Over‑templating that buries the unique insight.\n\n## Summary\nAdopt lightweight templates and checklists to reduce variance. Always customize BLUF, CTA, and evidence for the audience.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": [
+        "Show a template",
+        "I understand"
+      ],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 5,
+      "title": "Editing, Proofing, and Signal Boosting",
+      "bodyMd": "# Editing, Proofing, and Signal Boosting\n\n## Overview\nStrong editing clarifies meaning and increases response rates. Use layered passes and tactics that boost visibility.\n\n## Key Concepts\n- Layered editing: structure → clarity → tone → brevity.\n- 30% rule: cut words by ~30% without losing meaning.\n- Read‑aloud and peer review to catch ambiguity.\n- Signal boosters: precise subject lines, TL;DR, callouts, and links.\n\n## Examples\n- Subject lines: [Decision Needed], [FYI], [Action], [Heads‑Up].\n- Visual cues: bold labels, bullets, and short sections to guide scanning.\n\n## Common Pitfalls\n- Sending without a second pass or preview on mobile.\n- Burying links and attachments; unclear filenames.\n- Over‑formatting that looks performative.\n\n## Summary\nEdit in deliberate passes and boost key points with crisp subjects and callouts. Shorten ruthlessly; clarity beats flourish.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": [
+        "Rewrite an example",
+        "Explain differently"
+      ],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    }
+  ]
+}

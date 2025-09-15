@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 7, "sectionIx": 3, "ix": 1, "title": "Meeting Types, Goals, and Alternatives" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which alternative MOST effectively replaces a status meeting?", "difficulty": "hard", "rationaleMd": "Async update with clear structure.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Async update with TL;DR, progress, risks, and asks", "isCorrect": true, "feedbackMd": "Saves time and focuses action." },
+      { "ix": 2, "contentMd": "Longer meeting with more people", "isCorrect": false, "feedbackMd": "Worse overhead." },
+      { "ix": 3, "contentMd": "Meeting with no agenda", "isCorrect": false, "feedbackMd": "Inefficient." },
+      { "ix": 4, "contentMd": "Random stand‑ups", "isCorrect": false, "feedbackMd": "Still synchronous by default." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which step BEST prepares a decision meeting?", "difficulty": "medium", "rationaleMd": "Pre‑reads and small attendee list.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Send a pre‑read and invite only deciders/contributors", "isCorrect": true, "feedbackMd": "Increases throughput." },
+      { "ix": 2, "contentMd": "Invite the entire org", "isCorrect": false, "feedbackMd": "Dilutes focus." },
+      { "ix": 3, "contentMd": "Wait to prepare until the call", "isCorrect": false, "feedbackMd": "Wastes time live." },
+      { "ix": 4, "contentMd": "Ask for ideas in real time only", "isCorrect": false, "feedbackMd": "Brainstorm asynchronously first when possible." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: If there is no clear meeting goal, cancel or replace it.", "difficulty": "easy", "rationaleMd": "Meeting hygiene.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Meetings need explicit outcomes." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Empty meetings waste time." }
+    ]}
+  ]
+}
+

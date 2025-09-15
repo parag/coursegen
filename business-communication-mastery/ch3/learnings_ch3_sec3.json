@@ -1,0 +1,56 @@
+{
+  "section": { "chapterIx": 3, "sectionIx": 3, "title": "Messages that Stick" },
+  "learnings": [
+    {
+      "ix": 1,
+      "title": "Simplicity: Find the Core Message",
+      "bodyMd": "# Simplicity: Find the Core Message\n\n## Overview\nSticky messages have a sharp core. Strip away everything that isn’t essential to the decision.\n\n## Key Concepts\n- Commander’s intent: if nothing else, remember this.\n- Compact language: short, concrete words.\n- One idea per sentence/slide.\n\n## Examples\n- Core: \"Cut incident MTTR by 30% this quarter.\"\n- Remove modifiers and hedges that blur meaning.\n\n## Common Pitfalls\n- Two ideas fighting for primacy.\n- Jargon that hides the core.\n\n## Summary\nName the one thing that matters. Let the rest serve it.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give me examples", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 2,
+      "title": "Unexpectedness and Curiosity Gaps",
+      "bodyMd": "# Unexpectedness and Curiosity Gaps\n\n## Overview\nSurprise draws attention. Use contrast, questions, or counterintuitive facts to spark curiosity.\n\n## Key Concepts\n- Pattern break: lead with a contrast or tension.\n- Curiosity gap: pose a question the audience wants answered.\n- Reveal pacing: promise, then deliver quickly.\n\n## Examples\n- \"The most expensive outages aren’t the longest—here’s why.\"\n- Start with a striking before/after visual.\n\n## Common Pitfalls\n- Click‑bait that doesn’t pay off.\n- Over‑teasing in executive settings.\n\n## Summary\nUse genuine, relevant surprises to hook attention, then satisfy quickly with substance.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show an example", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 3,
+      "title": "Concreteness and Memorable Details",
+      "bodyMd": "# Concreteness and Memorable Details\n\n## Overview\nConcrete examples, numbers, and sensory details make ideas stick and aid recall.\n\n## Key Concepts\n- Specifics: names, numbers, timeframes.\n- Verbs over adjectives; examples over abstractions.\n- Vivid but truthful details.\n\n## Examples\n- \"2 a.m. pager alerts dropped from 12 to 3 per week.\"\n- Quote a customer’s exact words.\n\n## Common Pitfalls\n- Vague claims without specifics.\n- Overly colorful details that feel contrived.\n\n## Summary\nReplace abstractions with concrete, verifiable details to make messages memorable.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give me examples", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 4,
+      "title": "Credibility and Emotional Resonance",
+      "bodyMd": "# Credibility and Emotional Resonance\n\n## Overview\nCombine proof with human stakes. Data convinces; emotion motivates action.\n\n## Key Concepts\n- Dual appeal: logic + pathos.\n- Credibility boosters: references, audits, demos.\n- Emotional cues: impact on people, time, and dignity.\n\n## Examples\n- Pair a chart with a short customer vignette.\n- Show the team hours saved as a human outcome.\n\n## Common Pitfalls\n- Over‑indexing on data or emotion alone.\n- Manipulative pathos without substance.\n\n## Summary\nAnchor in truth, then connect to what people care about. Balance proof with concise human context.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show an example", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 5,
+      "title": "Stories into Actions: Clear CTAs",
+      "bodyMd": "# Stories into Actions: Clear CTAs\n\n## Overview\nEnd sticky messages with a concrete, easy next step tied to the story’s stakes.\n\n## Key Concepts\n- CTA alignment: match ask to the story’s resolution.\n- Friction removal: links, templates, and deadlines.\n- Ownership: who does what by when.\n\n## Examples\n- \"Approve the pilot by Friday; see the one‑pager attached.\"\n- \"Join the beta (10 seats). Reply YES.\"\n\n## Common Pitfalls\n- Great story, vague ask.\n- Multiple CTAs competing for attention.\n\n## Summary\nClose the loop: from narrative to a single, specific action that moves the decision forward.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give me examples", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    }
+  ]
+}
+

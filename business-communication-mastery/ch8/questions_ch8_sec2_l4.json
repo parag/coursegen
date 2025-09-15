@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 8, "sectionIx": 2, "ix": 4, "title": "Consistency Across Channels" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which toolset MOST sustains message consistency?", "difficulty": "hard", "rationaleMd": "Message house + tone guide + approvals.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Shared message house, tone guide per channel, short approval workflow for sensitive posts", "isCorrect": true, "feedbackMd": "Aligns content and tone; reduces errors." },
+      { "ix": 2, "contentMd": "Let each team improvise", "isCorrect": false, "feedbackMd": "Leads to contradictions." },
+      { "ix": 3, "contentMd": "Ban all social replies", "isCorrect": false, "feedbackMd": "Overly restrictive." },
+      { "ix": 4, "contentMd": "Only use slogans", "isCorrect": false, "feedbackMd": "Shallow and inflexible." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which inconsistency is MOST harmful?", "difficulty": "medium", "rationaleMd": "Contradictory claims across channels.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Conflicting product claims on website vs. sales deck", "isCorrect": true, "feedbackMd": "Directly erodes trust." },
+      { "ix": 2, "contentMd": "Slightly different illustration styles", "isCorrect": false, "feedbackMd": "Aesthetic, not substantive." },
+      { "ix": 3, "contentMd": "Different authors’ voices within bounds", "isCorrect": false, "feedbackMd": "Acceptable variance." },
+      { "ix": 4, "contentMd": "Occasional typo", "isCorrect": false, "feedbackMd": "Minor compared to contradictions." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Sensitive external comms should be reviewed quickly but centrally.", "difficulty": "easy", "rationaleMd": "Gatekeeping for risk.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Minimizes risk and drift." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Ad‑hoc posting invites inconsistency." }
+    ]}
+  ]
+}
+

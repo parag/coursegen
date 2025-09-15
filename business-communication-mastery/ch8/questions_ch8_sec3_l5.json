@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 8, "sectionIx": 3, "ix": 5, "title": "Measuring and Nurturing Relationship Capital" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which lightweight metric set MOST helps track relationship health?", "difficulty": "hard", "rationaleMd": "Frequency × usefulness × trust.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Frequency of contact × perceived usefulness × mutual trust score", "isCorrect": true, "feedbackMd": "Simple composite to prioritize attention." },
+      { "ix": 2, "contentMd": "Total followers only", "isCorrect": false, "feedbackMd": "Popularity ≠ relationship health." },
+      { "ix": 3, "contentMd": "Number of posts per week", "isCorrect": false, "feedbackMd": "Activity ≠ quality." },
+      { "ix": 4, "contentMd": "Amount of swag sent", "isCorrect": false, "feedbackMd": "Not a meaningful metric." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which action MOST effectively revives a dormant tie?", "difficulty": "medium", "rationaleMd": "Tailored, low‑ask touch.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Send a tailored note referencing a shared context and a helpful resource", "isCorrect": true, "feedbackMd": "Relevance and value reopen doors." },
+      { "ix": 2, "contentMd": "Ask for a big favor immediately", "isCorrect": false, "feedbackMd": "High friction; low goodwill." },
+      { "ix": 3, "contentMd": "Broadcast a newsletter", "isCorrect": false, "feedbackMd": "Low salience." },
+      { "ix": 4, "contentMd": "Apologize for not writing and stop", "isCorrect": false, "feedbackMd": "No forward movement." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Small, consistent actions compound relationship capital more than rare, grand gestures.", "difficulty": "easy", "rationaleMd": "Compounding effect.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Consistency builds trust." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Grand gestures without consistency ring hollow." }
+    ]}
+  ]
+}
+

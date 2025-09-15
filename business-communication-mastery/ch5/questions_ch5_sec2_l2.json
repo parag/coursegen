@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 5, "sectionIx": 2, "ix": 2, "title": "Chart Integrity and Minimalism" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which change MOST increases chart integrity?", "difficulty": "hard", "rationaleMd": "Baseline honesty.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Restore a zero baseline for bars unless justified and labeled", "isCorrect": true, "feedbackMd": "Prevents exaggeration of differences." },
+      { "ix": 2, "contentMd": "Add 3D effects to highlight bars", "isCorrect": false, "feedbackMd": "Distorts perception." },
+      { "ix": 3, "contentMd": "Use many colors to attract attention", "isCorrect": false, "feedbackMd": "Increases noise." },
+      { "ix": 4, "contentMd": "Hide axes and labels for cleanliness", "isCorrect": false, "feedbackMd": "Removes context needed to read values." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which minimalist tweak MOST improves readability?", "difficulty": "medium", "rationaleMd": "Direct labeling.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Direct labels on series with muted gridlines", "isCorrect": true, "feedbackMd": "Reduces legend hopping and visual clutter." },
+      { "ix": 2, "contentMd": "Remove all labels and rely on legend only", "isCorrect": false, "feedbackMd": "Harder to read." },
+      { "ix": 3, "contentMd": "Use heavy gridlines and borders", "isCorrect": false, "feedbackMd": "Adds unnecessary weight." },
+      { "ix": 4, "contentMd": "Add gradients for depth", "isCorrect": false, "feedbackMd": "Decorative, not informative." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Truncated axes can be used if clearly justified, labeled, and not misleading.", "difficulty": "easy", "rationaleMd": "Nuanced guideline.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Use sparingly and transparently." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Blanket bans ignore legitimate cases (e.g., temperature)." }
+    ]}
+  ]
+}
+

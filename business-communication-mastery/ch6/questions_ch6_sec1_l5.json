@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 6, "sectionIx": 1, "ix": 5, "title": "Asynchronous and Written Feedback" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which async feedback snippet is BEST?", "difficulty": "hard", "rationaleMd": "Structure: context→observation→impact→request.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "‘Context: PR #42. Observation: missing tests. Impact: risk of regressions. Request: add cases A/B by Fri.’", "isCorrect": true, "feedbackMd": "Clear, respectful, and actionable." },
+      { "ix": 2, "contentMd": "‘This is bad’", "isCorrect": false, "feedbackMd": "Unhelpful and vague." },
+      { "ix": 3, "contentMd": "‘Fix ASAP!!!’", "isCorrect": false, "feedbackMd": "Harsh tone; lacks specifics." },
+      { "ix": 4, "contentMd": "Long essay about quality in general", "isCorrect": false, "feedbackMd": "Noise over signal." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which practice reduces tone misread in async feedback?", "difficulty": "medium", "rationaleMd": "Tone mitigation.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Use neutral wording and offer a quick call if needed", "isCorrect": true, "feedbackMd": "Provides a safety valve for alignment." },
+      { "ix": 2, "contentMd": "ALL CAPS for emphasis", "isCorrect": false, "feedbackMd": "Reads as shouting." },
+      { "ix": 3, "contentMd": "Sarcasm to soften critique", "isCorrect": false, "feedbackMd": "Fails cross‑culturally." },
+      { "ix": 4, "contentMd": "No examples to keep it short", "isCorrect": false, "feedbackMd": "Examples aid clarity." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Written feedback should link evidence (e.g., code lines, clips) when possible.", "difficulty": "easy", "rationaleMd": "Evidence linkage.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Increases clarity and actionability." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Evidence reduces ambiguity." }
+    ]}
+  ]
+}
+

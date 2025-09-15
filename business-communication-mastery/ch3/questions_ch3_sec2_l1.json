@@ -1,0 +1,26 @@
+{
+  "learning": { "chapterIx": 3, "sectionIx": 2, "ix": 1, "title": "From Analysis to Narrative" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which framing turns analysis into a decision narrative MOST directly?", "difficulty": "hard", "rationaleMd": "Claim→Evidence→Impact discipline.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Claim (reduce churn) → Evidence (cohort delta) → Impact (+$2M ARR)", "isCorrect": true, "feedbackMd": "Explicit decision value from evidence." },
+      { "ix": 2, "contentMd": "Methodology details → raw tables → appendices only", "isCorrect": false, "feedbackMd": "Analysis dump without a through‑line." },
+      { "ix": 3, "contentMd": "Charts first, then a broad conclusion", "isCorrect": false, "feedbackMd": "Missing explicit claim and impact statement." },
+      { "ix": 4, "contentMd": "Anecdote → inspirational quote → vision", "isCorrect": false, "feedbackMd": "Not analysis‑driven." }
+    ]},
+    { "ix": 2, "type": "true_false", "promptMd": "True or False: Every section should answer a decision‑relevant question explicitly.", "difficulty": "medium", "rationaleMd": "Decision‑centric structuring.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Keeps analysis aligned to choices and actions." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Sections without a decision link are noise." }
+    ]},
+    { "ix": 3, "type": "mcq", "promptMd": "Which flaw MOST weakens an analysis narrative?", "difficulty": "medium", "rationaleMd": "Common failure modes.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "No explicit implication for the business decision", "isCorrect": true, "feedbackMd": "Evidence without implications doesn’t drive decisions." },
+      { "ix": 2, "contentMd": "One clear insight per slide", "isCorrect": false, "feedbackMd": "That’s a strength, not a flaw." },
+      { "ix": 3, "contentMd": "Appendix with sensitivity analysis", "isCorrect": false, "feedbackMd": "Supports credibility and planning." },
+      { "ix": 4, "contentMd": "Assumption list stated up front", "isCorrect": false, "feedbackMd": "Improves clarity." }
+    ]},
+    { "ix": 4, "type": "true_false", "promptMd": "True or False: A narrative can omit methods completely if insights seem obvious.", "difficulty": "easy", "rationaleMd": "Need for minimal methods transparency.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": false, "feedbackMd": "Provide minimal methods and caveats, even if in appendix." },
+      { "ix": 2, "contentMd": "False", "isCorrect": true, "feedbackMd": "Correct. Transparency underpins trust." }
+    ]}
+  ]
+}
+

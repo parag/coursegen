@@ -1,0 +1,56 @@
+{
+  "section": { "chapterIx": 6, "sectionIx": 1, "title": "Feedback That Lands" },
+  "learnings": [
+    {
+      "ix": 1,
+      "title": "SBI and CLEAR Feedback Models",
+      "bodyMd": "# SBI and CLEAR Feedback Models\n\n## Overview\nUse structured models like SBI (Situation‑Behavior‑Impact) and CLEAR to deliver precise, actionable feedback.\n\n## Key Concepts\n- SBI: describe context, behavior, and impact.\n- CLEAR: Contract, Listen, Explore, Action, Review.\n- Specificity: observable facts, not inferences.\n\n## Examples\n- SBI: \"In Monday’s review (S), you interrupted twice (B), which derailed the agenda (I).\"\n- CLEAR: agree the goal, explore perspectives, set actions, review.\n\n## Common Pitfalls\n- Vague labels (\"unprofessional\").\n- Mixing multiple issues at once.\n\n## Summary\nPick a model and stick to it. Keep feedback specific, behavior‑focused, and tied to impact and actions.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show examples", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 2,
+      "title": "Timing, Setting, and Psychological Safety",
+      "bodyMd": "# Timing, Setting, and Psychological Safety\n\n## Overview\nChoose the right time and setting to maximize receptivity and minimize defensiveness.\n\n## Key Concepts\n- Privately for sensitive feedback; publicly for praise.\n- Timely but not in‑the‑moment heat.\n- Safety signals: curiosity, empathy, partnership.\n\n## Examples\n- Schedule a 1:1 soon after the event.\n- Preface with intent: \"I want us both to succeed.\"\n\n## Common Pitfalls\n- Ambushing someone in public.\n- Stacking feedback after long delays.\n\n## Summary\nCreate conditions for learning: private, timely, and framed with positive intent and partnership.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give tips", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 3,
+      "title": "Feedforward and Coaching Questions",
+      "bodyMd": "# Feedforward and Coaching Questions\n\n## Overview\nSupplement feedback with forward‑looking guidance and questions that unlock ownership and solutions.\n\n## Key Concepts\n- Feedforward: focus on next time.\n- Coaching: open questions that prompt reflection.\n- Collaboration: co‑design next steps.\n\n## Examples\n- \"What’s one change you’ll try in the next review?\"\n- \"How can I support you to land the message?\"\n\n## Common Pitfalls\n- Advice‑dumping without buy‑in.\n- Framing feedforward as criticism redux.\n\n## Summary\nShift from past blame to future improvement. Ask questions that elicit strategies and commitments from the receiver.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show questions", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 4,
+      "title": "Agreement, Actions, and Follow‑Up",
+      "bodyMd": "# Agreement, Actions, and Follow‑Up\n\n## Overview\nEnd feedback conversations with clear agreements, actions, and checkpoints to ensure progress.\n\n## Key Concepts\n- SMART action: owner, behavior, timeline.\n- Checkpoints: date to review progress.\n- Support: resources and commitments.\n\n## Examples\n- \"By next demo, pause after each slide for questions.\"\n- \"Let’s review in two weeks after you try X and Y.\"\n\n## Common Pitfalls\n- No concrete next steps.\n- No revisit plan to reinforce change.\n\n## Summary\nTranslate insights into commitments and schedule follow‑ups. Behavior change needs repetition and reinforcement.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give an example", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 5,
+      "title": "Asynchronous and Written Feedback",
+      "bodyMd": "# Asynchronous and Written Feedback\n\n## Overview\nWrite feedback clearly when async is necessary. Structure for tone and clarity to avoid misread intent.\n\n## Key Concepts\n- Structure: context, observation, impact, request.\n- Tone: respectful, specific, collaborative.\n- Proof: link to examples or recordings.\n\n## Examples\n- Comment template with SBI and request.\n- PR review with examples and suggested diffs.\n\n## Common Pitfalls\n- Blunt phrasing that reads harshly.\n- Walls of text without structure.\n\n## Summary\nUse clear, structured writing for async feedback. When in doubt, follow up with a short call to align tone and next steps.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show template", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    }
+  ]
+}
+

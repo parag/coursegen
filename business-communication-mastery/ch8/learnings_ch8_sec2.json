@@ -1,0 +1,56 @@
+{
+  "section": { "chapterIx": 8, "sectionIx": 2, "title": "Reputation Management" },
+  "learnings": [
+    {
+      "ix": 1,
+      "title": "Personal Brand and Credibility Signals",
+      "bodyMd": "# Personal Brand and Credibility Signals\n\n## Overview\nConsistent signals—expertise, reliability, benevolence—shape your reputation over time.\n\n## Key Concepts\n- Content: case studies, talks, and open work.\n- Reliability: response SLAs and follow‑through.\n- Benevolence: help first, fair dealing.\n\n## Examples\n- Publish short, specific wins with metrics.\n- Maintain a public changelog for commitments.\n\n## Common Pitfalls\n- Overclaiming or vague self‑promotion.\n- Inconsistent responsiveness.\n\n## Summary\nShow, don’t tell. Make credibility observable through artifacts and consistent behaviors.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give examples", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 2,
+      "title": "Monitoring and Listening Systems",
+      "bodyMd": "# Monitoring and Listening Systems\n\n## Overview\nSet up lightweight monitoring to catch issues and opportunities to engage early.\n\n## Key Concepts\n- Alerts: mentions, reviews, community forums.\n- Feedback loops: surveys, NPS, support tags.\n- Response playbooks: triage and ownership.\n\n## Examples\n- Weekly scan of mentions and reviews with a response log.\n- Tag themes in support tickets to spot patterns.\n\n## Common Pitfalls\n- Reactive, ad‑hoc responses.\n- Ignoring low‑signal feedback that aggregates.\n\n## Summary\nProactively listen and categorize signals. Respond consistently with an owner and a standard playbook.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show a playbook", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 3,
+      "title": "Crisis Response and Narrative Control",
+      "bodyMd": "# Crisis Response and Narrative Control\n\n## Overview\nIn crises, respond fast with facts, ownership, and a clear remedy plan to contain reputation damage.\n\n## Key Concepts\n- Golden hour: respond within the first cycle.\n- Facts, not spin: verified information only.\n- Remedy: mitigation, compensation, prevention.\n\n## Examples\n- Incident post with timeline, impact, fixes, and next steps.\n- Single spokesperson and Q&A doc.\n\n## Common Pitfalls\n- Silence that invites speculation.\n- Overpromising fixes.\n\n## Summary\nAct quickly and transparently. Share verified facts, own responsibility, and outline concrete remedies and follow‑ups.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show template", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 4,
+      "title": "Consistency Across Channels",
+      "bodyMd": "# Consistency Across Channels\n\n## Overview\nMaintain coherent messages and tone across email, chat, social, and press to avoid confusion and erosion of trust.\n\n## Key Concepts\n- Message house: core narrative and proof points.\n- Tone guidelines per channel.\n- Approval workflows for public posts.\n\n## Examples\n- Message house doc shared with the team.\n- Short approvals for sensitive external comms.\n\n## Common Pitfalls\n- Contradictory claims across teams.\n- Off‑brand tone in public replies.\n\n## Summary\nAlign on a message house and tone guide. Review sensitive comms to keep signals consistent everywhere.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give examples", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 5,
+      "title": "Repair and Apology Patterns",
+      "bodyMd": "# Repair and Apology Patterns\n\n## Overview\nWhen you err, a good apology and concrete repair plan can strengthen trust.\n\n## Key Concepts\n- Acknowledge impact; no defensiveness.\n- Specific apology; no hedging.\n- Remedy and verification plan.\n\n## Examples\n- Public post acknowledging issue with steps and dates.\n- Direct outreach to affected stakeholders with make‑goods.\n\n## Common Pitfalls\n- \"We’re sorry if you felt…\" non‑apologies.\n- Vague promises without dates.\n\n## Summary\nOwn the mistake, specify remedies, and verify outcomes. Close the loop with stakeholders to rebuild confidence.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show examples", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    }
+  ]
+}
+

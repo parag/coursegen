@@ -1,0 +1,26 @@
+{
+  "learning": { "chapterIx": 2, "sectionIx": 2, "ix": 3, "title": "Transparent Risk and Uncertainty Communication" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which risk framing BEST balances candor with actionable mitigation?", "difficulty": "hard", "rationaleMd": "Evaluates structured risk disclosure.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "List likelihood×impact with mitigations, range estimates, and decision triggers", "isCorrect": true, "feedbackMd": "Complete framing supports informed judgment." },
+      { "ix": 2, "contentMd": "State \"low risk\" without ranges to avoid worrying stakeholders", "isCorrect": false, "feedbackMd": "Vague comfort undermines credibility." },
+      { "ix": 3, "contentMd": "Present worst‑case only to force approval of mitigations", "isCorrect": false, "feedbackMd": "Alarmism harms trust." },
+      { "ix": 4, "contentMd": "Hide unknowns until after the decision", "isCorrect": false, "feedbackMd": "Concealment backfires when discovered." }
+    ]},
+    { "ix": 2, "type": "true_false", "promptMd": "True or False: A clear kill criterion in a pilot plan increases confidence even if the pilot might fail.", "difficulty": "medium", "rationaleMd": "Demonstrates process control.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Boundaries and triggers show rigor and protect resources." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Unbounded pilots look risky and unprofessional." }
+    ]},
+    { "ix": 3, "type": "mcq", "promptMd": "Range estimation is MOST appropriate when:", "difficulty": "medium", "rationaleMd": "Use of ranges vs. point estimates.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Key variables are uncertain but bounded and decisions need sensitivity insight", "isCorrect": true, "feedbackMd": "Ranges communicate uncertainty and guide contingency planning." },
+      { "ix": 2, "contentMd": "You want to avoid accountability for deadlines", "isCorrect": false, "feedbackMd": "Ranges are not for evading accountability." },
+      { "ix": 3, "contentMd": "You have precise historical data with identical conditions", "isCorrect": false, "feedbackMd": "Point estimates may suffice when variance is minimal." },
+      { "ix": 4, "contentMd": "Stakeholders prefer single numbers regardless", "isCorrect": false, "feedbackMd": "Preference shouldn’t trump informative uncertainty representation." }
+    ]},
+    { "ix": 4, "type": "true_false", "promptMd": "True or False: Sharing unknowns without an explicit learning plan decreases credibility.", "difficulty": "hard", "rationaleMd": "Unknowns must be paired with learning steps.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Name how you’ll reduce uncertainty and by when." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Unknowns alone look like unmanaged risk." }
+    ]}
+  ]
+}
+

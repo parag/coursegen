@@ -1,0 +1,26 @@
+{
+  "learning": { "chapterIx": 3, "sectionIx": 3, "ix": 1, "title": "Simplicity: Find the Core Message" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which statement is MOST core and decision‑useful?", "difficulty": "hard", "rationaleMd": "Commander’s intent filter.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Cut incident MTTR by 30% this quarter", "isCorrect": true, "feedbackMd": "Clear, measurable, time‑bound core." },
+      { "ix": 2, "contentMd": "Improve reliability and collaboration across the org", "isCorrect": false, "feedbackMd": "Too broad and multi‑idea." },
+      { "ix": 3, "contentMd": "We propose a thoughtful approach to excellence", "isCorrect": false, "feedbackMd": "Vague and ornamental." },
+      { "ix": 4, "contentMd": "We should consider possibilities and explore options", "isCorrect": false, "feedbackMd": "Non‑committal; no decision anchor." }
+    ]},
+    { "ix": 2, "type": "true_false", "promptMd": "True or False: Short sentences almost always outperform long ones for core messages.", "difficulty": "medium", "rationaleMd": "Concision for core.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Short sentences reduce parsing load and ambiguity." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Length seldom adds clarity to the core." }
+    ]},
+    { "ix": 3, "type": "mcq", "promptMd": "Which edit most effectively removes a second competing idea?", "difficulty": "medium", "rationaleMd": "One idea rule.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Split into two sentences: one on MTTR, one on morale", "isCorrect": true, "feedbackMd": "Separate ideas to preserve focus." },
+      { "ix": 2, "contentMd": "Add more adjectives to make it inspiring", "isCorrect": false, "feedbackMd": "Fluff hides the core." },
+      { "ix": 3, "contentMd": "Add a subordinate clause with background", "isCorrect": false, "feedbackMd": "Adds complexity." },
+      { "ix": 4, "contentMd": "Use a semicolon to connect both ideas", "isCorrect": false, "feedbackMd": "Still two ideas in one sentence." }
+    ]},
+    { "ix": 4, "type": "true_false", "promptMd": "True or False: A core message should be memorable even without the supporting data immediately visible.", "difficulty": "easy", "rationaleMd": "Memorability criterion.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Data supports recall, but the core should stand alone." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "If it’s forgettable, it’s not the core." }
+    ]}
+  ]
+}
+

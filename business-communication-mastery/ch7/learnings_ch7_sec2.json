@@ -1,0 +1,56 @@
+{
+  "section": { "chapterIx": 7, "sectionIx": 2, "title": "Writing for Async" },
+  "learnings": [
+    {
+      "ix": 1,
+      "title": "Async Update Structure (RFCs, ADRs, Status)",
+      "bodyMd": "# Async Update Structure (RFCs, ADRs, Status)\n\n## Overview\nStructure async docs for fast scanning and durable decisions: concise summary, options, decision, and rationale.\n\n## Key Concepts\n- RFC: context, proposal, alternatives, impact.\n- ADR: decision, context, consequences.\n- Status updates: TL;DR, progress, risks, asks.\n\n## Examples\n- 1‑page RFC with clear decision date and reviewers.\n- ADR template in repo for architecture choices.\n\n## Common Pitfalls\n- Wandering narratives in async docs.\n- Missing explicit decision/ask.\n\n## Summary\nUse lightweight, consistent templates so readers can decide quickly and trace decisions later.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show a template", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 2,
+      "title": "Threading, Tagging, and Findability",
+      "bodyMd": "# Threading, Tagging, and Findability\n\n## Overview\nMake async conversations searchable and coherent with clear subject tags, threading, and consistent locations.\n\n## Key Concepts\n- Subject tags: [Decision], [Action], [FYI].\n- Single source of truth: link to canonical docs.\n- Threading: reply‑in‑thread for continuity.\n\n## Examples\n- Email subject: [Decision] Vendor selection by Fri.\n- Slack: keep discussions in the original thread with doc links.\n\n## Common Pitfalls\n- Fragmented discussions across channels.\n- Vague subjects that hinder search.\n\n## Summary\nStandardize tags and threads, and point to canonical sources so information stays organized and retrievable.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give examples", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 3,
+      "title": "Clear Writing for Global, Async Audiences",
+      "bodyMd": "# Clear Writing for Global, Async Audiences\n\n## Overview\nWrite for non‑native speakers and skim reading: short sentences, concrete language, and unambiguous CTAs.\n\n## Key Concepts\n- Plain language; avoid idioms.\n- One idea per paragraph; labeled bullets.\n- Explicit asks with owners and dates.\n\n## Examples\n- Replace idioms (\"move the needle\") with clear terms (\"increase by 10%\").\n- Action lists with owners and due dates.\n\n## Common Pitfalls\n- Culture‑bound metaphors.\n- Dense paragraphs and mixed topics.\n\n## Summary\nFavor clarity over flourish. Make actions explicit and language simple for global comprehension.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Rewrite an example", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 4,
+      "title": "Decision Logs and Traceability",
+      "bodyMd": "# Decision Logs and Traceability\n\n## Overview\nMaintain a lightweight decision log so teams can trace why and how choices were made.\n\n## Key Concepts\n- Decision ID, context, date, decider.\n- Links to RFC/ADR and related threads.\n- Review windows and change history.\n\n## Examples\n- Shared decision log in the wiki with filters.\n- ADRs linked from PRs/issues.\n\n## Common Pitfalls\n- Decisions lost in chat history.\n- Logs without owners or updates.\n\n## Summary\nCentralize decisions with minimal fields and links. Keep it current so new teammates can onboard quickly.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show example", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 5,
+      "title": "Documentation Hygiene and Review Cadence",
+      "bodyMd": "# Documentation Hygiene and Review Cadence\n\n## Overview\nKeep docs fresh and trustworthy with simple ownership and periodic reviews.\n\n## Key Concepts\n- Page ownership and last‑review dates.\n- Archiving stale content.\n- Review cadence by criticality.\n\n## Examples\n- Ownership footer and \"review by\" banners.\n- Quarterly reviews for core processes.\n\n## Common Pitfalls\n- Dead wikis with outdated guidance.\n- No owner to maintain pages.\n\n## Summary\nAssign owners, set review cycles, and prune aggressively to keep async knowledge bases reliable.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give a checklist", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    }
+  ]
+}
+

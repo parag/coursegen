@@ -1,0 +1,56 @@
+{
+  "section": { "chapterIx": 5, "sectionIx": 3, "title": "Delivery & Q&A" },
+  "learnings": [
+    {
+      "ix": 1,
+      "title": "Voice, Pacing, and Pauses",
+      "bodyMd": "# Voice, Pacing, and Pauses\n\n## Overview\nDelivery lands when pacing is measured, articulation is crisp, and pauses give ideas time to sink.\n\n## Key Concepts\n- Pace: ~140–160 wpm for comprehension.\n- Emphasis: vary tone/volume on key points.\n- Pauses: after headlines and before transitions.\n\n## Examples\n- Pause 1–2 seconds after BLUF.\n- Slow down for numbers and decisions.\n\n## Common Pitfalls\n- Monotone delivery.\n- Rushing through dense slides.\n\n## Summary\nControl tempo, articulate clearly, and use intentional pauses to underscore meaning and invite questions.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give tips", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 2,
+      "title": "Body Language and Executive Presence",
+      "bodyMd": "# Body Language and Executive Presence\n\n## Overview\nConfident posture, open gestures, and steady eye contact convey credibility and warmth.\n\n## Key Concepts\n- Posture: tall, grounded stance.\n- Gestures: purposeful, not fidgeting.\n- Eye contact: scan, don’t stare.\n\n## Examples\n- Hands shoulder‑width apart, minimal sway.\n- Gesture to visuals; reset to neutral.\n\n## Common Pitfalls\n- Pacing aimlessly.\n- Reading from screens.\n\n## Summary\nAdopt a calm, open presence. Use deliberate gestures and eye contact to signal confidence and connection.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give tips", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 3,
+      "title": "Handling Tough Questions: Bridging and Flagging",
+      "bodyMd": "# Handling Tough Questions: Bridging and Flagging\n\n## Overview\nUse concise answers, bridging to key messages, and flagging to highlight takeaways while staying responsive.\n\n## Key Concepts\n- Bridging: answer briefly → key point.\n- Flagging: \"The key point is…\"\n- Clarifying: repeat/reframe to ensure understanding.\n\n## Examples\n- \"Yes, and the important implication is…\"\n- \"Two parts: first…, second…\"\n\n## Common Pitfalls\n- Dodging questions.\n- Over‑answering into tangents.\n\n## Summary\nAddress the question, then bridge to the core message. Flag what matters and be concise.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show phrases", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 4,
+      "title": "Managing Time, Interruptions, and Tech",
+      "bodyMd": "# Managing Time, Interruptions, and Tech\n\n## Overview\nProtect the arc under real‑world conditions: time checks, interruptions, and tool glitches.\n\n## Key Concepts\n- Time cues: checkpoints and cut content.\n- Interruptions: parking lot and agenda guardrails.\n- Tech: backups for slides and demo.\n\n## Examples\n- Pre‑plan what to skip if behind time.\n- Local copy of slides and offline demo video.\n\n## Common Pitfalls\n- Losing control to derailers.\n- Tech reliance without backups.\n\n## Summary\nPlan contingencies for time and tech. Maintain facilitation control with respectful boundaries and backups ready.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give a checklist", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 5,
+      "title": "Post‑Presentation Follow‑Up",
+      "bodyMd": "# Post‑Presentation Follow‑Up\n\n## Overview\nReinforce outcomes and capture momentum with prompt, precise follow‑ups.\n\n## Key Concepts\n- Recap email: decisions, open items, owners, dates.\n- Materials: deck, appendix, links, and recording.\n- Feedback: quick pulse for improvements.\n\n## Examples\n- Send recap within 24 hours with attachments and next steps.\n- 2‑question survey on clarity and pacing.\n\n## Common Pitfalls\n- No written record, leading to drift.\n- Delayed follow‑ups that kill momentum.\n\n## Summary\nClose the loop quickly with a crisp recap and resources. Ask for quick feedback to refine future sessions.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show a recap", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    }
+  ]
+}
+

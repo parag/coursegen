@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 5, "sectionIx": 3, "ix": 4, "title": "Managing Time, Interruptions, and Tech" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Mid‑talk, a sidebar derails timing. What’s the BEST move?", "difficulty": "hard", "rationaleMd": "Facilitation under pressure.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Acknowledge, park it, and note a time to return; refocus on agenda", "isCorrect": true, "feedbackMd": "Respects input while protecting flow." },
+      { "ix": 2, "contentMd": "Debate the tangent fully", "isCorrect": false, "feedbackMd": "Time sink; harms outcomes." },
+      { "ix": 3, "contentMd": "Ignore the interrupter entirely", "isCorrect": false, "feedbackMd": "Breeds frustration." },
+      { "ix": 4, "contentMd": "Apologize and rush the rest", "isCorrect": false, "feedbackMd": "Reduces quality." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which tech fallback is MOST prudent for a live demo?", "difficulty": "medium", "rationaleMd": "Redundancy planning.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Local slides + offline demo video ready", "isCorrect": true, "feedbackMd": "Covers connectivity and app issues." },
+      { "ix": 2, "contentMd": "Rely on cloud only", "isCorrect": false, "feedbackMd": "Single point of failure." },
+      { "ix": 3, "contentMd": "No backup; confidence will suffice", "isCorrect": false, "feedbackMd": "Risky for high‑stakes." },
+      { "ix": 4, "contentMd": "More animations in slides", "isCorrect": false, "feedbackMd": "Doesn’t address failure modes." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Pre‑plan what to skip if you’re behind time.", "difficulty": "easy", "rationaleMd": "Time triage.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Protects decision sections under time pressure." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Without a skip list, you’ll improvise poorly." }
+    ]}
+  ]
+}
+

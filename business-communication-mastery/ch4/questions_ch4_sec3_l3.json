@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 4, "sectionIx": 3, "ix": 3, "title": "Anchors, Extreme Offers, and Counter‑Anchoring" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Countering an extreme anchor, which move resets the frame MOST credibly?", "difficulty": "hard", "rationaleMd": "Objective criteria + package counter.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Present a data‑backed package anchored on benchmarks and TCO", "isCorrect": true, "feedbackMd": "Re‑anchors with facts and multi‑issue value." },
+      { "ix": 2, "contentMd": "Call the offer ‘ridiculous’ and threaten to walk", "isCorrect": false, "feedbackMd": "Emotion escalates and narrows options." },
+      { "ix": 3, "contentMd": "Repeat your original price louder", "isCorrect": false, "feedbackMd": "Doesn’t reset the anchor or add rationale." },
+      { "ix": 4, "contentMd": "Ignore and discuss unrelated topics", "isCorrect": false, "feedbackMd": "The anchor still frames the zone unless addressed." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which signal MOST indicates you are nearing your limit?", "difficulty": "medium", "rationaleMd": "Diminishing steps bracketing.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Concession sizes decrease and are well‑justified", "isCorrect": true, "feedbackMd": "Signals constraint and protects value." },
+      { "ix": 2, "contentMd": "Concessions increase as time pressure rises", "isCorrect": false, "feedbackMd": "Invites exploitation under deadlines." },
+      { "ix": 3, "contentMd": "Alternating large/small random moves", "isCorrect": false, "feedbackMd": "Unclear signaling encourages fishing." },
+      { "ix": 4, "contentMd": "No movement while refusing to explain", "isCorrect": false, "feedbackMd": "Stonewalling harms collaboration." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Counter‑anchors should be justified with external standards whenever possible.", "difficulty": "easy", "rationaleMd": "Standards strengthen counters.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. External data lends credibility and reduces ego clashes." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Unjustified counters look arbitrary." }
+    ]}
+  ]
+}
+

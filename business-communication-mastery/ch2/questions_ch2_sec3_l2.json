@@ -1,0 +1,26 @@
+{
+  "learning": { "chapterIx": 2, "sectionIx": 3, "ix": 2, "title": "Anchoring and Contrast Effects" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which counter‑anchor is MOST effective against an extreme lowball offer?", "difficulty": "hard", "rationaleMd": "Objective criteria + packages vs. emotional rebuttal.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Present a package anchored on objective benchmarks and TCO, with trade‑offs", "isCorrect": true, "feedbackMd": "Resets frame with data and multi‑issue value." },
+      { "ix": 2, "contentMd": "Reject angrily and restate your original number", "isCorrect": false, "feedbackMd": "Emotion reinforces positional bargaining." },
+      { "ix": 3, "contentMd": "Ignore and proceed as if no offer was made", "isCorrect": false, "feedbackMd": "Anchor persists unless actively reframed." },
+      { "ix": 4, "contentMd": "Provide a list of adjectives about your quality", "isCorrect": false, "feedbackMd": "Lacks quantitative or structured counter." }
+    ]},
+    { "ix": 2, "type": "true_false", "promptMd": "True or False: Showing a baseline option before a premium one can change perceived value via contrast.", "difficulty": "medium", "rationaleMd": "Harnessing contrast ethically.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Order effects shape evaluation; be transparent." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Contrast effects are well‑documented; use responsibly." }
+    ]},
+    { "ix": 3, "type": "mcq", "promptMd": "Which presentation order is LEAST likely to bias evaluation unfairly?", "difficulty": "medium", "rationaleMd": "Mitigating order effects.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Present options in randomized order and score against criteria first", "isCorrect": true, "feedbackMd": "Reduces anchor and halo effects." },
+      { "ix": 2, "contentMd": "Start with your preferred option and argue strongly", "isCorrect": false, "feedbackMd": "Maximizes presenter's anchor." },
+      { "ix": 3, "contentMd": "Show cheapest last to make it seem more attractive", "isCorrect": false, "feedbackMd": "Manipulative ordering." },
+      { "ix": 4, "contentMd": "Show highest‑priced first to make others look cheap", "isCorrect": false, "feedbackMd": "Anchoring via contrast; not neutral." }
+    ]},
+    { "ix": 4, "type": "true_false", "promptMd": "True or False: Anchors only affect price negotiations, not non‑price terms like timeline or risk.", "difficulty": "easy", "rationaleMd": "Anchors affect multiple dimensions.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": false, "feedbackMd": "Anchors influence expectations on any quantitative dimension." },
+      { "ix": 2, "contentMd": "False", "isCorrect": true, "feedbackMd": "Correct. Timeline, scope, and SLAs can be anchored too." }
+    ]}
+  ]
+}
+

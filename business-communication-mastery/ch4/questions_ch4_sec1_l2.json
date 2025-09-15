@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 4, "sectionIx": 1, "ix": 2, "title": "Issue Mapping and Scoring" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "What is the PRIMARY benefit of a weighted scoring model in multi‑issue negotiations?", "difficulty": "hard", "rationaleMd": "Holistic value comparison vs. single‑issue haggling.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "It enables comparing packages across issues on a common scale", "isCorrect": true, "feedbackMd": "Correct. Scoring reveals high‑value trades and Pareto improvements." },
+      { "ix": 2, "contentMd": "It guarantees optimal fairness", "isCorrect": false, "feedbackMd": "Aids clarity; not a fairness guarantee." },
+      { "ix": 3, "contentMd": "It eliminates the need for negotiation", "isCorrect": false, "feedbackMd": "It informs negotiation; doesn’t replace it." },
+      { "ix": 4, "contentMd": "It prevents any concessions", "isCorrect": false, "feedbackMd": "Concessions still occur, now more informed." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which pitfall MOST undermines scoring validity?", "difficulty": "medium", "rationaleMd": "Model robustness.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Vague issue definitions that resist measurement", "isCorrect": true, "feedbackMd": "If you can’t measure consistently, scores won’t be comparable." },
+      { "ix": 2, "contentMd": "Using round numbers for weights", "isCorrect": false, "feedbackMd": "Rounding is fine if rationale is sound." },
+      { "ix": 3, "contentMd": "Normalizing scores", "isCorrect": false, "feedbackMd": "Often necessary for comparability." },
+      { "ix": 4, "contentMd": "Documenting assumptions", "isCorrect": false, "feedbackMd": "Transparency helps validity." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Negotiating issues one‑by‑one maximizes value creation.", "difficulty": "easy", "rationaleMd": "Package vs. single‑issue.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": false, "feedbackMd": "Packaging issues exposes trades that single‑issue bargaining misses." },
+      { "ix": 2, "contentMd": "False", "isCorrect": true, "feedbackMd": "Correct. Consider issues together to find logrolls." }
+    ]}
+  ]
+}
+

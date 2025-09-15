@@ -1,0 +1,26 @@
+{
+  "learning": { "chapterIx": 2, "sectionIx": 1, "ix": 4, "title": "Scarcity, Urgency, and Ethical Use" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which message uses urgency appropriately?", "difficulty": "medium", "rationaleMd": "Distinguishes real constraints from manufactured pressure.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Budget requests close this Friday due to fiscal cut‑off; if you want in, reply by EOD with your use case", "isCorrect": true, "feedbackMd": "Real constraint, clear rationale and action." },
+      { "ix": 2, "contentMd": "Offer expires in 60 minutes!!!", "isCorrect": false, "feedbackMd": "Artificial countdown without reason = manipulative." },
+      { "ix": 3, "contentMd": "Decision must be made now because I’m busy tomorrow", "isCorrect": false, "feedbackMd": "Sender convenience ≠ valid urgency." },
+      { "ix": 4, "contentMd": "If you don’t sign today, you’ll regret it", "isCorrect": false, "feedbackMd": "Threatening tone undermines trust." }
+    ]},
+    { "ix": 2, "type": "true_false", "promptMd": "True or False: Limiting a beta to 10 teams for support capacity is a legitimate form of scarcity if explained.", "difficulty": "easy", "rationaleMd": "Legitimate capacity constraints.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Capacity constraints protect quality and are ethical to state." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Transparent capacity constraints are acceptable." }
+    ]},
+    { "ix": 3, "type": "mcq", "promptMd": "What’s the BEST antidote to perceived pressure from urgency framing?", "difficulty": "hard", "rationaleMd": "Ethical counterweights to urgency.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Offer a brief extension tied to a concrete milestone when feasible", "isCorrect": true, "feedbackMd": "Balances decision quality with time constraints." },
+      { "ix": 2, "contentMd": "Increase exclamation marks for clarity", "isCorrect": false, "feedbackMd": "Style doesn’t reduce pressure." },
+      { "ix": 3, "contentMd": "Hide the deadline to avoid alarming people", "isCorrect": false, "feedbackMd": "Lack of clarity harms planning." },
+      { "ix": 4, "contentMd": "Shorten the proposal to one sentence", "isCorrect": false, "feedbackMd": "Brevity ≠ reduced pressure." }
+    ]},
+    { "ix": 4, "type": "true_false", "promptMd": "True or False: If a deadline is real, explaining the \"why\" behind it can increase trust even when it creates pressure.", "difficulty": "medium", "rationaleMd": "Transparency builds credibility.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Context allows informed choices and reduces reactance." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Opaque deadlines create suspicion." }
+    ]}
+  ]
+}
+

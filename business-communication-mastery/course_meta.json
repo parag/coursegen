@@ -1,0 +1,26 @@
+{
+  "title": "Business Communication Mastery: Persuasion, Negotiation, and Storytelling",
+  "slug": "business-communication-mastery-pns1",
+  "summary": "A practical, evidence‑based course to master persuasion, negotiation, and storytelling—communicate with clarity, influence ethically, and achieve durable agreements.",
+  "language": "en",
+  "tags": [
+    "communication",
+    "persuasion",
+    "negotiation",
+    "storytelling",
+    "influence",
+    "leadership",
+    "presentations"
+  ],
+  "estMinutes": 360,
+  "banner": {
+    "url": "https://placehold.co/1200x630",
+    "alt": "Modern collage: handshake, speech bubbles, and narrative arc",
+    "prompt": "Clean, modern vector illustration symbolizing business communication mastery: a confident presenter, a handshake for negotiation, and a stylized narrative arc; minimal palette, high contrast, professional tech aesthetic."
+  },
+  "icon": {
+    "url": "https://placehold.co/512x512",
+    "alt": "Icon with chat bubble and handshake",
+    "prompt": "Flat icon: overlapping chat bubble and handshake forming a subtle checkmark; bold lines, friendly yet professional."
+  }
+}

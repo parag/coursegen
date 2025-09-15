@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 5, "sectionIx": 2, "ix": 4, "title": "Highlighting Data and Annotations" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which annotation choice MOST improves signal?", "difficulty": "hard", "rationaleMd": "Minimal emphasis on key data.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Highlight one series and directly label key deltas", "isCorrect": true, "feedbackMd": "Focuses attention where it matters." },
+      { "ix": 2, "contentMd": "Use a rainbow palette for all series", "isCorrect": false, "feedbackMd": "Distracting; reduces emphasis." },
+      { "ix": 3, "contentMd": "Add arrows to every point", "isCorrect": false, "feedbackMd": "Clutter hides insight." },
+      { "ix": 4, "contentMd": "Put insights in a dense paragraph below", "isCorrect": false, "feedbackMd": "Forces extra reading and eye travel." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which legend alternative is BEST?", "difficulty": "medium", "rationaleMd": "Direct labeling reduces lookup.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Direct labels on each series with muted non‑focus lines", "isCorrect": true, "feedbackMd": "Improves scanability and focus." },
+      { "ix": 2, "contentMd": "A large legend with 12 colors", "isCorrect": false, "feedbackMd": "Hard to match colors and lines." },
+      { "ix": 3, "contentMd": "No labels, rely on tooltips only", "isCorrect": false, "feedbackMd": "Bad for static decks." },
+      { "ix": 4, "contentMd": "Label only the first datapoint", "isCorrect": false, "feedbackMd": "Insufficient guidance." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Use color as emphasis sparingly; rely on position/labels primarily.", "difficulty": "easy", "rationaleMd": "Pre‑attentive attributes.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Color is a highlight, not a crutch." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Overuse of color creates noise." }
+    ]}
+  ]
+}
+

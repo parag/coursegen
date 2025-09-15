@@ -1,0 +1,26 @@
+{
+  "learning": { "chapterIx": 3, "sectionIx": 3, "ix": 3, "title": "Concreteness and Memorable Details" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which rewrite MOST increases concreteness and recall?", "difficulty": "hard", "rationaleMd": "Specifics over abstractions.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "‘2 a.m. pager alerts dropped from 12 to 3 per week after automation’", "isCorrect": true, "feedbackMd": "Names time, numbers, and outcome—memorable and verifiable." },
+      { "ix": 2, "contentMd": "‘Reliability improved a lot’", "isCorrect": false, "feedbackMd": "Vague and unmemorable." },
+      { "ix": 3, "contentMd": "‘We achieved excellence with rigor’", "isCorrect": false, "feedbackMd": "Abstract language." },
+      { "ix": 4, "contentMd": "‘There were many benefits overall’", "isCorrect": false, "feedbackMd": "Non‑specific." }
+    ]},
+    { "ix": 2, "type": "true_false", "promptMd": "True or False: Verbatim quotes can strengthen concreteness when attributed appropriately.", "difficulty": "medium", "rationaleMd": "Quotes as vivid details.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Credible quotes add flavor and proof." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Quotes often help when sourced responsibly." }
+    ]},
+    { "ix": 3, "type": "mcq", "promptMd": "Which detail is MOST likely to feel contrived (and reduce credibility)?", "difficulty": "medium", "rationaleMd": "Avoiding over‑coloring.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Overly cinematic sensory details unrelated to the decision", "isCorrect": true, "feedbackMd": "Irrelevant flourish backfires." },
+      { "ix": 2, "contentMd": "Exact timestamps of key events", "isCorrect": false, "feedbackMd": "Usually helpful." },
+      { "ix": 3, "contentMd": "Specific metric deltas", "isCorrect": false, "feedbackMd": "Adds substance." },
+      { "ix": 4, "contentMd": "Named teams and systems", "isCorrect": false, "feedbackMd": "Grounds the story." }
+    ]},
+    { "ix": 4, "type": "true_false", "promptMd": "True or False: Concreteness should be balanced with brevity; keep details that serve the decision.", "difficulty": "easy", "rationaleMd": "Signal over noise.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Include only decision‑relevant specifics." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Excess details reduce clarity." }
+    ]}
+  ]
+}
+

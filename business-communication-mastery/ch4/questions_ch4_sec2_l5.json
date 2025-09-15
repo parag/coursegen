@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 4, "sectionIx": 2, "ix": 5, "title": "Closing and Documentation" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which recap email MOST effectively locks agreement?", "difficulty": "hard", "rationaleMd": "Who/what/when + change control.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Bullets: final terms, owners, deadlines, and change‑control process attached", "isCorrect": true, "feedbackMd": "Captures essentials and guards against drift." },
+      { "ix": 2, "contentMd": "‘Great chat!’", "isCorrect": false, "feedbackMd": "No specifics; agreement will drift." },
+      { "ix": 3, "contentMd": "Forward the calendar invite only", "isCorrect": false, "feedbackMd": "Invites ambiguity." },
+      { "ix": 4, "contentMd": "Attach a marketing deck", "isCorrect": false, "feedbackMd": "Not a record of terms." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which clause BEST prevents \"nibbling\" after agreement?", "difficulty": "medium", "rationaleMd": "Anti‑nibble language.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "‘All material terms are resolved; changes require written change control’", "isCorrect": true, "feedbackMd": "Sets a process for any additions." },
+      { "ix": 2, "contentMd": "‘We will be flexible later’", "isCorrect": false, "feedbackMd": "Invites scope creep." },
+      { "ix": 3, "contentMd": "‘Subject to further discussion’", "isCorrect": false, "feedbackMd": "Non‑committal." },
+      { "ix": 4, "contentMd": "No clause needed", "isCorrect": false, "feedbackMd": "Leaves you exposed to drifts." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Agreements should be documented the same day to preserve momentum and memory.", "difficulty": "easy", "rationaleMd": "Recency and clarity.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Delay increases ambiguity risk." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Late recaps invite re‑litigation." }
+    ]}
+  ]
+}
+

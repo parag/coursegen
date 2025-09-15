@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 4, "sectionIx": 1, "ix": 3, "title": "Reservation Price and Targets" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Your reservation price is $80k; target is $100k. Which opening anchor is MOST defensible?", "difficulty": "hard", "rationaleMd": "Anchoring above target while credible.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "$110k justified by benchmarks and added scope", "isCorrect": true, "feedbackMd": "Credible stretch above target leaves room to move toward $100k." },
+      { "ix": 2, "contentMd": "$150k with no rationale", "isCorrect": false, "feedbackMd": "Extreme without data invites backlash." },
+      { "ix": 3, "contentMd": "$95k to seem reasonable", "isCorrect": false, "feedbackMd": "Anchors below target, reducing outcome." },
+      { "ix": 4, "contentMd": "$80k to be transparent", "isCorrect": false, "feedbackMd": "Reveals reservation; removes bargaining space." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which mistake MOST often leads to accepting a sub‑optimal deal?", "difficulty": "medium", "rationaleMd": "Walk‑away discipline.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Not defining a walk‑away (reservation point) in advance", "isCorrect": true, "feedbackMd": "Without a floor, pressure can push below BATNA." },
+      { "ix": 2, "contentMd": "Preparing a written plan", "isCorrect": false, "feedbackMd": "Planning reduces errors." },
+      { "ix": 3, "contentMd": "Estimating the other side’s BATNA", "isCorrect": false, "feedbackMd": "That improves strategy." },
+      { "ix": 4, "contentMd": "Scoring packages", "isCorrect": false, "feedbackMd": "Also helpful for quality decisions." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Targets should be aspirational but grounded in market data and BATNAs.", "difficulty": "easy", "rationaleMd": "Target setting discipline.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Ambition needs support to be credible." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Targets by wishful thinking backfire." }
+    ]}
+  ]
+}
+

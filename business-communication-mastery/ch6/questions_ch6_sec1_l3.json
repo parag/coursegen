@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 6, "sectionIx": 1, "ix": 3, "title": "Feedforward and Coaching Questions" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which prompt MOST effectively elicits ownership?", "difficulty": "hard", "rationaleMd": "Coaching vs. advice dumping.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "‘What’s one change you’ll try next time, and how will you measure it?’", "isCorrect": true, "feedbackMd": "Future‑focused and specific." },
+      { "ix": 2, "contentMd": "‘Here’s what you should do’", "isCorrect": false, "feedbackMd": "Directive; low ownership." },
+      { "ix": 3, "contentMd": "‘Why did you do that?’", "isCorrect": false, "feedbackMd": "Blame‑oriented; reduces safety." },
+      { "ix": 4, "contentMd": "‘Please try to be better’", "isCorrect": false, "feedbackMd": "Vague and unactionable." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which is a good feedforward frame?", "difficulty": "medium", "rationaleMd": "Next‑time focus.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "‘Next review, pause after each slide and check for questions’", "isCorrect": true, "feedbackMd": "Concrete and time‑bound." },
+      { "ix": 2, "contentMd": "‘Don’t do that again’", "isCorrect": false, "feedbackMd": "Negative but not instructive." },
+      { "ix": 3, "contentMd": "‘You need to improve presence’", "isCorrect": false, "feedbackMd": "Abstract; lacks behavior." },
+      { "ix": 4, "contentMd": "‘It would be nice if…’", "isCorrect": false, "feedbackMd": "Hedged and weak." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Coaching questions should be open‑ended and specific, not leading.", "difficulty": "easy", "rationaleMd": "Good coaching hygiene.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Opens thinking without prescribing." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Leading questions constrain learning." }
+    ]}
+  ]
+}
+

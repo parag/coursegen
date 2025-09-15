@@ -1,0 +1,26 @@
+{
+  "learning": { "chapterIx": 3, "sectionIx": 2, "ix": 5, "title": "Slide‑Level Narratives and Annotations" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which slide composition MOST supports at‑a‑glance comprehension?", "difficulty": "medium", "rationaleMd": "Headline + clean visual + annotation.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Takeaway headline + single clean chart with highlighted delta + direct labels", "isCorrect": true, "feedbackMd": "Optimized for quick understanding." },
+      { "ix": 2, "contentMd": "Descriptive title + cluttered dashboard screenshot", "isCorrect": false, "feedbackMd": "No clear takeaway; visual noise." },
+      { "ix": 3, "contentMd": "Two unrelated charts with a paragraph of text", "isCorrect": false, "feedbackMd": "Split attention and heavy reading." },
+      { "ix": 4, "contentMd": "Legend‑heavy chart requiring cross‑reference", "isCorrect": false, "feedbackMd": "Increases cognitive load." }
+    ]},
+    { "ix": 2, "type": "true_false", "promptMd": "True or False: Slide titles should state the conclusion (\"Churn fell 28%\") rather than the topic (\"Churn by month\").", "difficulty": "easy", "rationaleMd": "Conclusion‑first titling.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Titles carry the takeaway." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Topic titles force inference; weaker for decisions." }
+    ]},
+    { "ix": 3, "type": "mcq", "promptMd": "Which annotation practice MOST reduces eye travel?", "difficulty": "medium", "rationaleMd": "Labeling over legends.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Directly label lines/bars and highlight only the key series", "isCorrect": true, "feedbackMd": "Minimizes legend dependence and guides focus." },
+      { "ix": 2, "contentMd": "Use a complex legend with 12 colors", "isCorrect": false, "feedbackMd": "Hard to scan and match." },
+      { "ix": 3, "contentMd": "Annotate every minor tick", "isCorrect": false, "feedbackMd": "Over‑annotation creates clutter and hides the signal." },
+      { "ix": 4, "contentMd": "Add footnotes with long prose", "isCorrect": false, "feedbackMd": "Footnotes rarely aid glanceability." }
+    ]},
+    { "ix": 4, "type": "true_false", "promptMd": "True or False: If a slide’s visual is self‑explanatory, a descriptive (topic) title is sufficient.", "difficulty": "hard", "rationaleMd": "Enforces conclusion titles even with clear visuals.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": false, "feedbackMd": "Even clear visuals benefit from a stated conclusion to align interpretation." },
+      { "ix": 2, "contentMd": "False", "isCorrect": true, "feedbackMd": "Correct. Titles should state the takeaway, not just the topic." }
+    ]}
+  ]
+}
+

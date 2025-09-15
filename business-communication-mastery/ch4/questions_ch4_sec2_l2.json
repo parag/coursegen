@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 4, "sectionIx": 2, "ix": 2, "title": "Packaging Offers and Contingent Agreements" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which package set MOST improves the chance of agreement?", "difficulty": "hard", "rationaleMd": "Curated options with distinct trade profiles.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Three options: (A) lowest price/longer term, (B) mid price/standard term, (C) higher price/short term + premium SLAs", "isCorrect": true, "feedbackMd": "Distinct packages align to different priorities." },
+      { "ix": 2, "contentMd": "One take‑it‑or‑leave‑it offer", "isCorrect": false, "feedbackMd": "Reduces flexibility and learning." },
+      { "ix": 3, "contentMd": "Ten nearly identical options", "isCorrect": false, "feedbackMd": "Choice overload confuses." },
+      { "ix": 4, "contentMd": "Two options with hidden terms", "isCorrect": false, "feedbackMd": "Erodes trust and comparability." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which clause is a valid contingent agreement?", "difficulty": "medium", "rationaleMd": "If‑then structuring around uncertainty.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "‘If uptime < 99.9% in Q2, fee reduces 10% in Q3’", "isCorrect": true, "feedbackMd": "Objective trigger ties to future uncertainty." },
+      { "ix": 2, "contentMd": "‘We will be fair as conditions change’", "isCorrect": false, "feedbackMd": "Too vague; not enforceable." },
+      { "ix": 3, "contentMd": "‘Both parties will revisit later’", "isCorrect": false, "feedbackMd": "No trigger or defined adjustment." },
+      { "ix": 4, "contentMd": "‘We might adjust if needed’", "isCorrect": false, "feedbackMd": "Unclear and subjective." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Objective criteria (benchmarks) help settle disagreements about fairness in packages.", "difficulty": "easy", "rationaleMd": "Standards reduce positional conflict.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Shared standards enable principled movement." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Ignoring criteria invites positional arguing." }
+    ]}
+  ]
+}
+

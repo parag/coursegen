@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 6, "sectionIx": 2, "ix": 3, "title": "Ladder of Inference and Reframing" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which move MOST directly tests an assumption on the Ladder of Inference?", "difficulty": "hard", "rationaleMd": "Data→meaning test.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "‘What observable data led you to that conclusion?’", "isCorrect": true, "feedbackMd": "Brings discussion back to data selection." },
+      { "ix": 2, "contentMd": "‘You’re wrong; here’s my conclusion’", "isCorrect": false, "feedbackMd": "Conclusion vs. conclusion escalates." },
+      { "ix": 3, "contentMd": "‘Let’s vote’", "isCorrect": false, "feedbackMd": "Bypasses testing assumptions." },
+      { "ix": 4, "contentMd": "‘Let’s take a break’", "isCorrect": false, "feedbackMd": "May help heat, not assumptions." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which reframe BEST shifts from conclusions to testable interpretations?", "difficulty": "medium", "rationaleMd": "Hypothesis framing.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "‘An alternative interpretation is X; how could we test which fits the data?’", "isCorrect": true, "feedbackMd": "Moves to testable hypotheses." },
+      { "ix": 2, "contentMd": "‘That’s just your opinion’", "isCorrect": false, "feedbackMd": "Dismissive; not constructive." },
+      { "ix": 3, "contentMd": "‘We’re overthinking it’", "isCorrect": false, "feedbackMd": "Shuts inquiry." },
+      { "ix": 4, "contentMd": "‘Agree to disagree’", "isCorrect": false, "feedbackMd": "Forecloses learning." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Asking for the specific data considered can expose selective attention.", "difficulty": "easy", "rationaleMd": "Data selection awareness.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Clarifies what was included/excluded." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Data transparency is key to alignment." }
+    ]}
+  ]
+}
+

@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 4, "sectionIx": 1, "ix": 5, "title": "Opening Strategy and Agenda Control" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which opening MOST effectively sets a collaborative frame?", "difficulty": "hard", "rationaleMd": "Agenda control + tone.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "State joint goals, propose a 3‑part agenda, and offer a package to explore trades", "isCorrect": true, "feedbackMd": "Aligns interests, sets structure, and invites collaboration." },
+      { "ix": 2, "contentMd": "Start with a single number and \"non‑negotiable\" stance", "isCorrect": false, "feedbackMd": "Positional and brittle; harms value creation." },
+      { "ix": 3, "contentMd": "Ask the other side to set the agenda entirely", "isCorrect": false, "feedbackMd": "Cedes process control unnecessarily." },
+      { "ix": 4, "contentMd": "Tell a long backstory before any goals", "isCorrect": false, "feedbackMd": "Wastes momentum and invites drift." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which move BEST resets a derailed agenda?", "difficulty": "medium", "rationaleMd": "Facilitation in negotiation.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Summarize progress, restate agenda, and time‑box the current topic", "isCorrect": true, "feedbackMd": "Calmly re‑anchors process and time." },
+      { "ix": 2, "contentMd": "Match the other side’s volume and argue", "isCorrect": false, "feedbackMd": "Escalation reduces control." },
+      { "ix": 3, "contentMd": "Ignore derail and push your point", "isCorrect": false, "feedbackMd": "Fails to regain structure." },
+      { "ix": 4, "contentMd": "End the meeting abruptly", "isCorrect": false, "feedbackMd": "Premature and relationship‑damaging." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Process agreements (who decides, how, and when) should be set early.", "difficulty": "easy", "rationaleMd": "Procedural clarity.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Clear process reduces later friction." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Process ambiguity invites stalls and surprises." }
+    ]}
+  ]
+}
+

@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 8, "sectionIx": 1, "ix": 4, "title": "Protecting Vulnerable Audiences" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which adaptation MOST protects vulnerable audiences?", "difficulty": "hard", "rationaleMd": "Time, clarity, advocates.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Extend review windows, provide plain summaries, invite an advisor if desired", "isCorrect": true, "feedbackMd": "Supports informed, unpressured choice." },
+      { "ix": 2, "contentMd": "Use urgent countdown timers", "isCorrect": false, "feedbackMd": "Coercive pressure tactic." },
+      { "ix": 3, "contentMd": "Hide complex terms", "isCorrect": false, "feedbackMd": "Concealment is unethical." },
+      { "ix": 4, "contentMd": "Default to irreversible choices", "isCorrect": false, "feedbackMd": "Removes autonomy." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which sign MOST indicates a vulnerable context?", "difficulty": "medium", "rationaleMd": "Power/time asymmetry.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Severe time pressure and one‑sided information", "isCorrect": true, "feedbackMd": "Signals risk to informed consent." },
+      { "ix": 2, "contentMd": "Ample time and clear materials", "isCorrect": false, "feedbackMd": "Lower risk context." },
+      { "ix": 3, "contentMd": "Presence of translators", "isCorrect": false, "feedbackMd": "Support, not necessarily vulnerability." },
+      { "ix": 4, "contentMd": "Two‑sided negotiation", "isCorrect": false, "feedbackMd": "More balanced setting." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: When in doubt, slow down decisions involving vulnerable parties.", "difficulty": "easy", "rationaleMd": "Do no harm.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Favor care over speed." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Rushing increases risk of harm." }
+    ]}
+  ]
+}
+

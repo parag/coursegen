@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 4, "sectionIx": 3, "ix": 4, "title": "Time Pressure, Deadlines, and Process Control" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which move MOST effectively mitigates artificial deadline pressure?", "difficulty": "hard", "rationaleMd": "Verify constraint and manage tempo.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Ask for the rationale behind the date and propose a brief, milestone‑tied extension", "isCorrect": true, "feedbackMd": "Tests legitimacy and protects decision quality." },
+      { "ix": 2, "contentMd": "Concede quickly to avoid missing the date", "isCorrect": false, "feedbackMd": "Yields value to time pressure." },
+      { "ix": 3, "contentMd": "Debate louder to win the point", "isCorrect": false, "feedbackMd": "Escalation wastes time." },
+      { "ix": 4, "contentMd": "Ignore the deadline entirely", "isCorrect": false, "feedbackMd": "May be real; verify first." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which process shift reduces heat and improves clarity mid‑negotiation?", "difficulty": "medium", "rationaleMd": "Tempo and channel control.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Move contentious points to async email with a recap and options", "isCorrect": true, "feedbackMd": "Lowers arousal and adds documentation." },
+      { "ix": 2, "contentMd": "Shorten all breaks", "isCorrect": false, "feedbackMd": "Rest time often helps thinking." },
+      { "ix": 3, "contentMd": "Invite more observers mid‑call", "isCorrect": false, "feedbackMd": "Crowds raise complexity and pressure." },
+      { "ix": 4, "contentMd": "Remove the agenda to be flexible", "isCorrect": false, "feedbackMd": "Loses structure." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Batching issues and resolving them as packages helps prevent whack‑a‑mole under time pressure.", "difficulty": "easy", "rationaleMd": "Package resolution.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Packages preserve trades and focus." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Single‑issue churn wastes time." }
+    ]}
+  ]
+}
+

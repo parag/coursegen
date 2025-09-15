@@ -1,0 +1,56 @@
+{
+  "section": { "chapterIx": 6, "sectionIx": 2, "title": "Conflict Resolution Frameworks" },
+  "learnings": [
+    {
+      "ix": 1,
+      "title": "Interest‑Based Problem Solving",
+      "bodyMd": "# Interest‑Based Problem Solving\n\n## Overview\nShift from positions to interests to find options that meet underlying needs.\n\n## Key Concepts\n- Interests: why each side cares.\n- Options: expand before choosing.\n- Objective criteria: neutral standards.\n\n## Examples\n- Map interests → brainstorm options → evaluate by criteria.\n\n## Common Pitfalls\n- Debating positions.\n- Jumping to solutions prematurely.\n\n## Summary\nName interests explicitly, generate options collaboratively, and test them against agreed criteria.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show template", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 2,
+      "title": "Mediation Steps and Roles",
+      "bodyMd": "# Mediation Steps and Roles\n\n## Overview\nWhen conflicts persist, use a simple mediation flow with a neutral facilitator.\n\n## Key Concepts\n- Steps: opening, stories, issues, options, agreement.\n- Roles: facilitator, parties, observers.\n- Ground rules: respect, no interruptions, timeboxes.\n\n## Examples\n- 60‑minute mediation with timeboxed shares and whiteboard.\n\n## Common Pitfalls\n- Facilitator taking sides.\n- No agreement on process.\n\n## Summary\nA light mediation structure contains emotions and enables productive option generation and agreement.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give steps", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 3,
+      "title": "Ladder of Inference and Reframing",
+      "bodyMd": "# Ladder of Inference and Reframing\n\n## Overview\nUse the Ladder of Inference to separate data from assumptions and reframe polarized positions.\n\n## Key Concepts\n- Data → selection → meaning → conclusions.\n- Testing assumptions: ask, don’t assume.\n- Reframing to shared goals.\n\n## Examples\n- \"What data led you to that conclusion?\"\n- \"Could we test both interpretations?\"\n\n## Common Pitfalls\n- Treating stories as facts.\n- Arguing conclusions, not data.\n\n## Summary\nSlow down leaps up the ladder. Return to observable data and test interpretations together.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give examples", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 4,
+      "title": "Nonviolent Communication (NVC) in Practice",
+      "bodyMd": "# Nonviolent Communication (NVC) in Practice\n\n## Overview\nNVC helps express needs without blame and hear others with empathy.\n\n## Key Concepts\n- Observe, Feel, Need, Request.\n- Specific, doable requests.\n- Empathic listening: reflect and validate.\n\n## Examples\n- \"When deadlines shift (O), I feel anxious (F) because predictability matters (N). Could we confirm changes 24h ahead? (R)\"\n\n## Common Pitfalls\n- Using NVC formula mechanically.\n- Turning requests into demands.\n\n## Summary\nUse NVC to reduce defensiveness and surface needs. Keep language natural and focused on solutions.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show phrases", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 5,
+      "title": "Formalizing Agreements and Escalation Paths",
+      "bodyMd": "# Formalizing Agreements and Escalation Paths\n\n## Overview\nDocument agreements, decision rights, and escalation paths to prevent conflict relapse.\n\n## Key Concepts\n- Decision logs and RACI/DACI.\n- Service levels and change control.\n- Escalation: criteria, roles, and timing.\n\n## Examples\n- Agreement doc with owners, dates, and success metrics.\n- Simple DACI for cross‑team decisions.\n\n## Common Pitfalls\n- Verbal agreements that drift.\n- Escalating without an agreed path.\n\n## Summary\nLock resolutions in writing with clear roles and timelines. Define when and how to escalate if commitments slip.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show a template", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    }
+  ]
+}
+

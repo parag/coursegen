@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 4, "sectionIx": 1, "ix": 1, "title": "Interests, Positions, and BATNA/WATNA" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which statement BEST distinguishes interests from positions?", "difficulty": "medium", "rationaleMd": "Tests conceptual clarity critical to integrative bargaining.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Position = what is demanded; Interest = why it matters", "isCorrect": true, "feedbackMd": "Correct. Interests are needs/motives behind stated positions." },
+      { "ix": 2, "contentMd": "Position = why; Interest = what", "isCorrect": false, "feedbackMd": "Reversed. Positions are the surface asks." },
+      { "ix": 3, "contentMd": "Both are identical once priced", "isCorrect": false, "feedbackMd": "Price can mask differing underlying interests." },
+      { "ix": 4, "contentMd": "Interests only matter in multi‑party talks", "isCorrect": false, "feedbackMd": "Interests matter in any negotiation." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which action MOST strengthens your BATNA before talks?", "difficulty": "hard", "rationaleMd": "BATNA improvement as leverage.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Secure a viable alternative supplier with acceptable terms", "isCorrect": true, "feedbackMd": "A credible outside option raises your walk‑away power." },
+      { "ix": 2, "contentMd": "Draft a longer agenda", "isCorrect": false, "feedbackMd": "Helpful for process, not BATNA strength." },
+      { "ix": 3, "contentMd": "Increase your opening anchor by 20%", "isCorrect": false, "feedbackMd": "Opening numbers ≠ outside alternative strength." },
+      { "ix": 4, "contentMd": "Collect team bios for credibility", "isCorrect": false, "feedbackMd": "Ethos helps, but BATNA is the fallback option." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: If an offer is worse than your reservation point, you should prefer your BATNA.", "difficulty": "easy", "rationaleMd": "Reservation logic.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Reservation point separates acceptable from unacceptable outcomes." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Accepting below reservation point leaves you worse than your alternative." }
+    ]}
+  ]
+}
+

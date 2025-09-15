@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 8, "sectionIx": 3, "ix": 4, "title": "Cadence, Check‑Ins, and Serendipity" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which cadence plan MOST sustains warm ties?", "difficulty": "hard", "rationaleMd": "Periodic, low‑ask touchpoints.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Monthly/quarterly tailored check‑ins with no ask, sharing value", "isCorrect": true, "feedbackMd": "Keeps ties warm without pressure." },
+      { "ix": 2, "contentMd": "Daily messages to stay top of mind", "isCorrect": false, "feedbackMd": "Annoying; burns goodwill." },
+      { "ix": 3, "contentMd": "Yearly mass email blast", "isCorrect": false, "feedbackMd": "Low salience and personalization." },
+      { "ix": 4, "contentMd": "Only reach out for favors", "isCorrect": false, "feedbackMd": "Transactional pattern harms ties." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which randomization practice MOST helps?", "difficulty": "medium", "rationaleMd": "Avoid cluster bias.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Rotate through contacts using reminders and vary days/times", "isCorrect": true, "feedbackMd": "Increases serendipity and fairness." },
+      { "ix": 2, "contentMd": "Always reach out Monday 9am", "isCorrect": false, "feedbackMd": "Predictable and clustered." },
+      { "ix": 3, "contentMd": "Pick whoever pings you", "isCorrect": false, "feedbackMd": "Reactive and biased." },
+      { "ix": 4, "contentMd": "Only message when bored", "isCorrect": false, "feedbackMd": "Inconsistent and self‑oriented." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Sharing value with no ask is a strong default for check‑ins.", "difficulty": "easy", "rationaleMd": "Asymmetric value first.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Builds goodwill and signal." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Asks should be occasional and specific." }
+    ]}
+  ]
+}
+

@@ -1,0 +1,26 @@
+{
+  "learning": { "chapterIx": 2, "sectionIx": 2, "ix": 5, "title": "Repairing Trust After Mistakes" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which apology pattern MOST supports trust repair?", "difficulty": "hard", "rationaleMd": "Assesses concrete repair communication.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Acknowledge impact → specific apology → remedy plan with dates → verification", "isCorrect": true, "feedbackMd": "Complete sequence shows ownership and competence." },
+      { "ix": 2, "contentMd": "\"We’re sorry if you felt…\" + no specifics", "isCorrect": false, "feedbackMd": "Non‑apology; avoids responsibility." },
+      { "ix": 3, "contentMd": "Blame third parties + promise to \"do better\"", "isCorrect": false, "feedbackMd": "Deflection lacks accountability." },
+      { "ix": 4, "contentMd": "Silence until fixed to avoid attention", "isCorrect": false, "feedbackMd": "Delay worsens speculation and harm." }
+    ]},
+    { "ix": 2, "type": "true_false", "promptMd": "True or False: Offering make‑good options without acknowledging impact is sufficient in most cases.", "difficulty": "medium", "rationaleMd": "Affect + remedy both matter.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": false, "feedbackMd": "Acknowledge impact explicitly; repair is both emotional and practical." },
+      { "ix": 2, "contentMd": "False", "isCorrect": true, "feedbackMd": "Correct. Recognition of harm is foundational to repair." }
+    ]},
+    { "ix": 3, "type": "mcq", "promptMd": "Which follow‑up MOST credibly closes the loop after an incident?", "difficulty": "medium", "rationaleMd": "Verification and learning.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Post‑mortem with root causes, fixes, owners, and dates; share verification results", "isCorrect": true, "feedbackMd": "Demonstrates learning and completion." },
+      { "ix": 2, "contentMd": "A vague email stating \"we improved things\"", "isCorrect": false, "feedbackMd": "Lacks specifics and verification." },
+      { "ix": 3, "contentMd": "A marketing blog about future vision", "isCorrect": false, "feedbackMd": "Not a repair follow‑up." },
+      { "ix": 4, "contentMd": "Silently updating the system", "isCorrect": false, "feedbackMd": "No proof to stakeholders." }
+    ]},
+    { "ix": 4, "type": "true_false", "promptMd": "True or False: Trust often rebounds higher than baseline after a well‑handled failure.", "difficulty": "easy", "rationaleMd": "Trust repair literature.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Competent recovery can strengthen relationships." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Handled well, failures can build trust." }
+    ]}
+  ]
+}
+

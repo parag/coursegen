@@ -1,0 +1,56 @@
+{
+  "section": { "chapterIx": 3, "sectionIx": 1, "title": "Narrative Structures" },
+  "learnings": [
+    {
+      "ix": 1,
+      "title": "SCQA and SCR: Executive Narrative Arcs",
+      "bodyMd": "# SCQA and SCR: Executive Narrative Arcs\n\n## Overview\nSCQA (Situation, Complication, Question, Answer) and SCR (Situation, Complication, Resolution) are concise structures for decision‑makers.\n\n## Key Concepts\n- Situation: the agreed current state.\n- Complication: the tension or change creating urgency.\n- Question/Resolution: the decision at hand and the recommended path.\n- Pyramid principle: headline → grouped supports → detail.\n\n## Examples\n- Memo opening with SCQA followed by option analysis.\n- Slide deck: headline per slide linked to the answer.\n\n## Common Pitfalls\n- Burying the answer in background.\n- Complications that feel manufactured.\n\n## Summary\nLead with the answer supported by SCQA/SCR. Keep each part crisp and linked to a concrete decision.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show an outline", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 2,
+      "title": "Character, Conflict, and Stakes in Business Stories",
+      "bodyMd": "# Character, Conflict, and Stakes in Business Stories\n\n## Overview\nStories engage when people see relatable characters, real conflicts, and meaningful stakes tied to outcomes.\n\n## Key Concepts\n- Protagonist: team, customer, or stakeholder.\n- Conflict: blockers, constraints, risks.\n- Stakes: impact on goals, revenue, risk, or well‑being.\n- Transformation: before → after state tied to your proposal.\n\n## Examples\n- Customer journey from manual toil to automated reliability.\n- Internal team overcoming a blocker through process change.\n\n## Common Pitfalls\n- Abstract stories without people or stakes.\n- Over‑dramatization that undercuts credibility.\n\n## Summary\nMake the audience care via relatable characters and stakes. Connect the transformation to the decision you seek.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give me an example", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 3,
+      "title": "Story Beats for Docs and Decks",
+      "bodyMd": "# Story Beats for Docs and Decks\n\n## Overview\nTranslate narrative beats into document and slide structures that guide executive attention.\n\n## Key Concepts\n- Opening: problem/goal and recommendation.\n- Middle: options vs. criteria, risks, mitigations.\n- Closing: decision request, next steps, owners, dates.\n- Slide flow: one idea per slide with a headline takeaway.\n\n## Examples\n- 1‑pager: BLUF, options table, risks, CTA.\n- Deck: title (answer), context, options, proof, CTA.\n\n## Common Pitfalls\n- Meandering narratives without a clear ask.\n- Slide headlines that describe instead of conclude.\n\n## Summary\nMap story beats to sections. Headline every slide with the takeaway that advances the decision.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show a template", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 4,
+      "title": "Storyboarding and Outlining",
+      "bodyMd": "# Storyboarding and Outlining\n\n## Overview\nStoryboard early to clarify flow before polishing words or visuals. Iterate quickly to align on structure.\n\n## Key Concepts\n- Sticky‑note beats: arrange key points physically or digitally.\n- Constraints: time/slide limits force prioritization.\n- Feedback early: validate flow before detail.\n\n## Examples\n- 8‑slide storyboard with headlines only for review.\n- Doc outline with section headings and bullets first.\n\n## Common Pitfalls\n- Overwriting before the structure is right.\n- Adding detail that later gets cut.\n\n## Summary\nLock the structure using storyboards/outlines. Iterate with stakeholders before investing in polish.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show an outline", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 5,
+      "title": "Building a Story Library",
+      "bodyMd": "# Building a Story Library\n\n## Overview\nMaintain a repository of short, verifiable anecdotes, with metrics and quotes, ready to adapt across audiences.\n\n## Key Concepts\n- Tag stories by theme, role, metric, and risk.\n- Capture quotes, before/after, and proof artifacts.\n- Keep stories short (~60–90 seconds spoken).\n\n## Examples\n- Airtable/Notion with filters (industry, problem, result).\n- Story cards used across sales, hiring, and internal updates.\n\n## Common Pitfalls\n- Anecdotes without permissions or verifiable facts.\n- Letting stories go stale without outcomes.\n\n## Summary\nCurate a living library of concise, credible stories to reuse. Keep facts current and approvals documented.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show a template", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    }
+  ]
+}
+

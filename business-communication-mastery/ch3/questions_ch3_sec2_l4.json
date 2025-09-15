@@ -1,0 +1,26 @@
+{
+  "learning": { "chapterIx": 3, "sectionIx": 2, "ix": 4, "title": "Avoiding Misleading Visuals and Ethical Data Use" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which practice MOST reduces risk of misleading the audience?", "difficulty": "hard", "rationaleMd": "Ethical visualization.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Show full axes with baselines unless well‑justified and labeled", "isCorrect": true, "feedbackMd": "Baseline clarity prevents exaggeration." },
+      { "ix": 2, "contentMd": "Use 3D effects for excitement", "isCorrect": false, "feedbackMd": "3D distorts perception." },
+      { "ix": 3, "contentMd": "Cherry‑pick the most favorable time window", "isCorrect": false, "feedbackMd": "Misleading by omission." },
+      { "ix": 4, "contentMd": "Remove source citations to keep slides clean", "isCorrect": false, "feedbackMd": "Lowers traceability and trust." }
+    ]},
+    { "ix": 2, "type": "true_false", "promptMd": "True or False: De‑identification and consent are core to ethical data use in public presentations.", "difficulty": "easy", "rationaleMd": "Privacy norms.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Protect subjects and comply with policy/law." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Privacy is non‑negotiable in ethical practice." }
+    ]},
+    { "ix": 3, "type": "mcq", "promptMd": "Your time window shows a rising trend; adding earlier data reveals a flat decade. What’s the BEST action?", "difficulty": "medium", "rationaleMd": "Context honesty.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Expand to the honest window and explain why the subset looked rising", "isCorrect": true, "feedbackMd": "Gives full context and preserves trust." },
+      { "ix": 2, "contentMd": "Keep the rising window; it’s technically true", "isCorrect": false, "feedbackMd": "Technically true can still mislead; add context." },
+      { "ix": 3, "contentMd": "Add 3D effects to distract", "isCorrect": false, "feedbackMd": "Compounds deception." },
+      { "ix": 4, "contentMd": "Delete the slide", "isCorrect": false, "feedbackMd": "Better to present truthfully than hide." }
+    ]},
+    { "ix": 4, "type": "true_false", "promptMd": "True or False: When in doubt, include methods and source links for reproducibility.", "difficulty": "medium", "rationaleMd": "Reproducibility culture.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Transparency improves credibility and review." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Hiding sources weakens trust." }
+    ]}
+  ]
+}
+

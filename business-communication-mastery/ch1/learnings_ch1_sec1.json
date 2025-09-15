@@ -1,0 +1,71 @@
+{
+  "section": { "chapterIx": 1, "sectionIx": 1, "title": "Communication Goals & Contexts" },
+  "learnings": [
+    {
+      "ix": 1,
+      "title": "Defining Clear Communication Objectives",
+      "bodyMd": "# Defining Clear Communication Objectives\n\n## Overview\nEffective communication starts with explicit objectives: what the audience should know, feel, or do after the message. Clear objectives guide content, channel, tone, and success criteria.\n\n## Key Concepts\n- Outcome focus: knowledge, attitude, behavior (KAB) targets.\n- SMART objectives: specific, measurable, achievable, relevant, time‑bound.\n- Decision moment: the concrete action or agreement you seek.\n- Success metrics: leading and lagging indicators.\n\n## Examples\n- Quarterly email: "Increase product adoption" → Refine to: "Drive 30% of inactive users to try Feature X within 14 days."\n- Executive update: "Inform leadership" → Refine to: "Secure approval to hire 2 FTEs by Friday for project ALPHA."\n\n## Common Pitfalls\n- Vague goals ("share updates") with no decision ask.\n- Mixed objectives that dilute the core CTA.\n- No alignment between objective and measurement.\n\n## Summary\nWrite the objective first. Align message structure, channel, and CTA to a single, measurable goal. Use SMART framing to define success and focus the narrative.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": [
+        "Give me an example",
+        "Explain differently"
+      ],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 2,
+      "title": "Choosing the Right Channel and Medium",
+      "bodyMd": "# Choosing the Right Channel and Medium\n\n## Overview\nChannel and medium shape message fidelity, speed, and social dynamics. Select the channel that best fits the objective, urgency, sensitivity, and audience preferences.\n\n## Key Concepts\n- Richness continuum: face‑to‑face > video > phone > chat > email > docs.\n- Synchronous vs. asynchronous: coordination cost vs. reflection time.\n- Permanence: auditability and forwardability risks.\n- Accessibility: time zones, bandwidth, assistive tech.\n\n## Examples\n- Sensitive feedback → 1:1 video/voice; follow with a brief written summary.\n- Complex decision with multiple stakeholders → pre‑read doc + structured live discussion.\n- Simple FYI → async post/email with clear headline and action tags.\n\n## Common Pitfalls\n- Escalating conflicts over email or chat.\n- Scheduling synchronous meetings for purely informational updates.\n- Ignoring audience constraints (mobile‑only, low bandwidth).\n\n## Summary\nMatch channel to complexity, sensitivity, and urgency. Favor async for info sharing, sync for alignment and high‑stakes conversations. Document decisions for traceability.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": [
+        "Compare async vs. sync",
+        "More examples",
+        "I understand"
+      ],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 3,
+      "title": "Context Scanning: Stakeholders, Risks, and Timing",
+      "bodyMd": "# Context Scanning: Stakeholders, Risks, and Timing\n\n## Overview\nContext determines constraints and opportunities. Scan stakeholders, incentives, power dynamics, timing, and risk to tailor message strategy.\n\n## Key Concepts\n- Stakeholder map: influence vs. interest; allies, neutrals, skeptics.\n- Incentives: what each party gains or risks.\n- Timing windows: decision cycles, fiscal calendars, market events.\n- Risk assessment: reputational, legal, operational considerations.\n\n## Examples\n- Product pricing change: identify sales, support, finance, top accounts; pre‑brief influencers; time announcement post‑quarter close.\n- Policy update: involve legal and HR; pilot messaging with a small cohort first.\n\n## Common Pitfalls\n- Announcing decisions without preparing high‑influence stakeholders.\n- Missing critical timing (e.g., before board meetings).\n- Underestimating operational impact (tooling, training).\n\n## Summary\nBefore drafting, map the landscape. Calibrate content, sequence, and timing to stakeholder incentives and decision windows for smoother adoption.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": [
+        "Show a stakeholder map",
+        "Explain differently"
+      ],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 4,
+      "title": "Designing Calls‑to‑Action and Decision Pathways",
+      "bodyMd": "# Designing Calls‑to‑Action and Decision Pathways\n\n## Overview\nA clear call‑to‑action (CTA) and decision pathway reduce friction and increase follow‑through. Make the ask singular, specific, and easy to complete.\n\n## Key Concepts\n- Singular CTA: one primary ask per message.\n- Micro‑commitments: break large asks into smaller steps.\n- Defaults and friction: pre‑filled fields, templates, and links reduce effort.\n- Deadlines and ownership: explicit due date, responsible person, and success criteria.\n- Decision options: present 2–3 vetted options with recommendation.\n\n## Examples\n- Project approval: link to 1‑page brief + calendar poll + approval button.\n- Customer update: “Reply YES to join the beta by Friday.”\n\n## Common Pitfalls\n- Multiple CTAs competing in one message.\n- Vague asks ("thoughts?") without a timebox or owner.\n- Hidden prerequisites (access, permissions) discovered too late.\n\n## Summary\nMake action obvious and effortless. Use defaults, short paths, and explicit deadlines to increase compliance and speed.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": [
+        "Show CTA examples",
+        "Explain differently"
+      ],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 5,
+      "title": "Sequencing Messages and Cadence Planning",
+      "bodyMd": "# Sequencing Messages and Cadence Planning\n\n## Overview\nMajor communications benefit from a planned sequence: pre‑brief key stakeholders, announce broadly, and reinforce with reminders and live touchpoints.\n\n## Key Concepts\n- Pre‑briefs: socialize decisions with high‑influence parties first.\n- Cascade plan: tailor messages for execs, managers, and front‑line teams.\n- Drip sequence: stagger reminders and complementary content (FAQ, office hours).\n- Cadence calendar: avoid collisions and fatigue; align with decision windows.\n\n## Examples\n- Policy change: pre‑brief leads → org‑wide post → Q&A session → 2‑week reminder.\n- Product launch: early‑access invite → launch day deck → customer webinar.\n\n## Common Pitfalls\n- One‑and‑done announcements with no reinforcement.\n- Over‑messaging that causes disengagement.\n- Poor timing against peak workload or fiscal close.\n\n## Summary\nPlan sequences, not single blasts. Use pre‑briefs, tailored cascades, and time‑boxed reminders to drive awareness and adoption.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": [
+        "Give a cadence plan",
+        "I understand"
+      ],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    }
+  ]
+}

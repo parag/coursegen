@@ -1,0 +1,26 @@
+{
+  "learning": { "chapterIx": 3, "sectionIx": 3, "ix": 4, "title": "Credibility and Emotional Resonance" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which pairing MOST effectively combines credibility with emotion?", "difficulty": "hard", "rationaleMd": "Logic + pathos balance.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Chart with ROI + a brief customer vignette about regained sleep after fewer pages", "isCorrect": true, "feedbackMd": "Data anchors; human impact motivates." },
+      { "ix": 2, "contentMd": "Inspirational quote + stock photo", "isCorrect": false, "feedbackMd": "Low credibility and generic emotion." },
+      { "ix": 3, "contentMd": "Anecdote only without numbers", "isCorrect": false, "feedbackMd": "Emotion lacks credibility without data." },
+      { "ix": 4, "contentMd": "Dense table of numbers only", "isCorrect": false, "feedbackMd": "Lacks human relevance." }
+    ]},
+    { "ix": 2, "type": "true_false", "promptMd": "True or False: Emotional content should always be avoided in executive communications.", "difficulty": "medium", "rationaleMd": "Appropriate emotion can help.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": false, "feedbackMd": "Emotion, used briefly and truthfully, aids motivation." },
+      { "ix": 2, "contentMd": "False", "isCorrect": true, "feedbackMd": "Correct. Combine with credible evidence." }
+    ]},
+    { "ix": 3, "type": "mcq", "promptMd": "Which is the BEST way to show credibility without breaking flow?", "difficulty": "medium", "rationaleMd": "Lightweight credibility.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Short footnote with source + link to appendix", "isCorrect": true, "feedbackMd": "Maintains flow and traceability." },
+      { "ix": 2, "contentMd": "Reading a page of credentials aloud", "isCorrect": false, "feedbackMd": "Interrupts flow and adds little value." },
+      { "ix": 3, "contentMd": "A logo wall at every slide", "isCorrect": false, "feedbackMd": "Distracting and weak proof." },
+      { "ix": 4, "contentMd": "No sources to keep it clean", "isCorrect": false, "feedbackMd": "Hurts credibility." }
+    ]},
+    { "ix": 4, "type": "true_false", "promptMd": "True or False: Over‑emphasizing emotion can be perceived as manipulative if unsupported by facts.", "difficulty": "easy", "rationaleMd": "Guardrail on pathos.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Anchor emotion in truth and outcomes." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Emotion alone rarely persuades in business contexts." }
+    ]}
+  ]
+}
+

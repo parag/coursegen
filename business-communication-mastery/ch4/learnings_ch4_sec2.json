@@ -1,0 +1,56 @@
+{
+  "section": { "chapterIx": 4, "sectionIx": 2, "title": "Value Creation & Concessions" },
+  "learnings": [
+    {
+      "ix": 1,
+      "title": "Creating Value: Trades Across Issues",
+      "bodyMd": "# Creating Value: Trades Across Issues\n\n## Overview\nLook for differences in preferences to craft trades that expand the pie before dividing it.\n\n## Key Concepts\n- Logrolling: give on low‑value issues to gain on high‑value ones.\n- Preferences mapping: understand what each side values most.\n- Pareto improvements: outcomes better for at least one party without hurting the other.\n\n## Examples\n- Longer term in exchange for lower price.\n- Faster payment for improved service levels.\n\n## Common Pitfalls\n- Haggling on price only.\n- Ignoring non‑monetary issues (timing, risk, scope).\n\n## Summary\nIdentify and trade across issues to create mutual gains before negotiating division.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show examples", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 2,
+      "title": "Packaging Offers and Contingent Agreements",
+      "bodyMd": "# Packaging Offers and Contingent Agreements\n\n## Overview\nBundle issues into packages and use contingencies tied to future uncertainty to bridge gaps.\n\n## Key Concepts\n- Packages: present 2–3 options with different trade profiles.\n- Contingent contracts: \"If X happens, then Y terms apply.\"\n- Objective criteria: benchmarks to resolve disagreements.\n\n## Examples\n- Performance‑based pricing tied to usage.\n- Term extensions contingent on satisfaction metrics.\n\n## Common Pitfalls\n- Presenting a single take‑it‑or‑leave‑it offer.\n- Vague contingencies without measurement.\n\n## Summary\nOffer packages and build contingencies around uncertainties to close value gaps fairly.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give an example", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 3,
+      "title": "Concession Strategy and Pacing",
+      "bodyMd": "# Concession Strategy and Pacing\n\n## Overview\nPlan concessions deliberately: each move trades for reciprocal movement and progresses toward agreement.\n\n## Key Concepts\n- Concession size: decreasing over time signals a limit.\n- Reciprocity: ask for something in return.\n- Documentation: note what each concession buys.\n\n## Examples\n- Reduce price slightly for longer term and reference access.\n- Improve support hours in exchange for scope freeze.\n\n## Common Pitfalls\n- Matching every demand tit‑for‑tat.\n- Large early concessions that set bad expectations.\n\n## Summary\nConcede strategically with clear asks and a rationale. Pace moves to preserve value and momentum.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show a plan", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 4,
+      "title": "Collaborative Language and Problem‑Solving",
+      "bodyMd": "# Collaborative Language and Problem‑Solving\n\n## Overview\nLanguage shapes the process. Use neutral, joint‑problem framing to unlock solutions.\n\n## Key Concepts\n- Separate people from problems.\n- Interest‑based questions: \"What outcome matters most here?\"\n- Joint brainstorming before evaluation.\n\n## Examples\n- \"Let’s list options that reduce risk and protect budget.\"\n- \"How could we structure this to meet your timeline?\"\n\n## Common Pitfalls\n- Positional language that signals win/lose.\n- Prematurely rejecting ideas without exploration.\n\n## Summary\nSpeak to shared goals and explore options together before narrowing. Words can unlock value.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Give phrases", "Explain differently"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 5,
+      "title": "Closing and Documentation",
+      "bodyMd": "# Closing and Documentation\n\n## Overview\nEnd with clarity: recap terms, confirm owners and timelines, and document the agreement to avoid drift.\n\n## Key Concepts\n- Recap: who, what, when.\n- Written confirmation: email or doc sent same day.\n- Change control: how modifications happen.\n\n## Examples\n- Send a recap with bullets and next steps post‑call.\n- Share a draft agreement for review with a deadline.\n\n## Common Pitfalls\n- Verbal \"handshakes\" without documentation.\n- Ambiguous next steps and owners.\n\n## Summary\nLock in agreements quickly and in writing to prevent misunderstandings and maintain momentum.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": ["Show a recap", "I understand"],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    }
+  ]
+}
+

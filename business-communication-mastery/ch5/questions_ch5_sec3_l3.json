@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 5, "sectionIx": 3, "ix": 3, "title": "Handling Tough Questions: Bridging and Flagging" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which response uses bridging MOST effectively?", "difficulty": "hard", "rationaleMd": "Answer→bridge→key point.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "‘Yes, and the key point is X; here’s the data behind it’", "isCorrect": true, "feedbackMd": "Addresses question, then flags takeaway." },
+      { "ix": 2, "contentMd": "‘That’s not relevant’", "isCorrect": false, "feedbackMd": "Dismissive; invites friction." },
+      { "ix": 3, "contentMd": "Answer in exhaustive detail for 5 minutes", "isCorrect": false, "feedbackMd": "Loses the room." },
+      { "ix": 4, "contentMd": "Ignore and move on", "isCorrect": false, "feedbackMd": "Looks evasive." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which phrase BEST flags the takeaway?", "difficulty": "medium", "rationaleMd": "Signaling importance.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "‘The key point is…’", "isCorrect": true, "feedbackMd": "Explicit flagging helps focus." },
+      { "ix": 2, "contentMd": "‘Anyway…’", "isCorrect": false, "feedbackMd": "Weak signal." },
+      { "ix": 3, "contentMd": "‘Maybe…’", "isCorrect": false, "feedbackMd": "Hedges reduce clarity." },
+      { "ix": 4, "contentMd": "‘As I was saying earlier in slide 3…’", "isCorrect": false, "feedbackMd": "Meta talk adds friction." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Clarifying a question by restating it briefly can prevent talking past each other.", "difficulty": "easy", "rationaleMd": "Clarify before answering.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Ensures alignment before the answer." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Clarification avoids misfires." }
+    ]}
+  ]
+}
+

@@ -1,0 +1,71 @@
+{
+  "section": { "chapterIx": 1, "sectionIx": 2, "title": "Audience Analysis" },
+  "learnings": [
+    {
+      "ix": 1,
+      "title": "Stakeholder Mapping and Influence Grid",
+      "bodyMd": "# Stakeholder Mapping and Influence Grid\n\n## Overview\nAudience analysis begins by mapping stakeholders by interest and influence to prioritize engagement and tailor messages.\n\n## Key Concepts\n- Influence–Interest matrix: high/high, high/low, low/high, low/low.\n- Roles: decision maker, recommender, gatekeeper, end user, blocker.\n- Information needs and concerns by role.\n- Communication cadence and channel preferences.\n\n## Examples\n- Launch plan: decision makers (CPO/CFO), influencers (sales leaders), impacted users (support), external (top customers).\n- Tailored messaging: CFO cares about ROI and risk; end users care about workflow friction.\n\n## Common Pitfalls\n- Treating the audience as homogeneous.\n- Over‑serving vocal low‑influence stakeholders.\n- Missing silent but high‑influence gatekeepers.\n\n## Summary\nSegment the audience explicitly. Prioritize high‑influence stakeholders and tailor depth, framing, and cadence accordingly.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": [
+        "Show me an example",
+        "Explain differently",
+        "I understand"
+      ],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 2,
+      "title": "Decision Criteria and Motivations",
+      "bodyMd": "# Decision Criteria and Motivations\n\n## Overview\nDecisions hinge on explicit criteria and implicit motivations. Identify both to craft persuasive messages that address rational and emotional needs.\n\n## Key Concepts\n- Rational criteria: ROI, compliance, feasibility, timeline.\n- Emotional drivers: status, autonomy, certainty, relatedness, fairness.\n- Jobs‑to‑be‑done (JTBD): progress the audience seeks in context.\n- Objection handling: preempt with evidence and stories.\n\n## Examples\n- Procurement: emphasize total cost of ownership, risk mitigation, references.\n- Team adoption: emphasize ease of use, reduced toil, pilot success stories.\n\n## Common Pitfalls\n- Over‑indexing on numbers while ignoring identity/status concerns.\n- Assuming criteria are fixed; they evolve with constraints.\n\n## Summary\nWrite to the explicit checklist and the implicit motivations. Blend evidence with narrative to satisfy both.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": [
+        "Give me an example",
+        "Explain differently"
+      ],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 3,
+      "title": "Personas, Empathy Maps, and JTBD",
+      "bodyMd": "# Personas, Empathy Maps, and JTBD\n\n## Overview\nPersonas and empathy maps reveal pains, gains, and contexts; JTBD clarifies the progress users seek so messages can meet them where they are.\n\n## Key Concepts\n- Persona: archetype capturing goals, constraints, behaviors.\n- Empathy map: Says, Thinks, Does, Feels quadrants.\n- JTBD statement: When [situation], I want to [motivation], so I can [expected outcome].\n- Evidence base: interviews, analytics, support tickets.\n\n## Examples\n- Persona: "Ops Manager Olivia"—time‑pressed, risk‑averse, values reliability.\n- JTBD: When incidents spike, I want automated runbooks so I can restore service quickly and sleep.\n\n## Common Pitfalls\n- Fictional personas without data.\n- One persona for all messages; instead, tailor by segment.\n\n## Summary\nGround personas and JTBD in evidence. Use empathy maps to choose language, examples, and benefits that resonate.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": [
+        "Show a JTBD example",
+        "I understand"
+      ],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 4,
+      "title": "Eliciting Insights via Interviews and Surveys",
+      "bodyMd": "# Eliciting Insights via Interviews and Surveys\n\n## Overview\nCollect audience insights systematically using lightweight interviews and surveys to validate personas and decision criteria.\n\n## Key Concepts\n- Question design: open vs. closed; avoid leading and double‑barreled items.\n- Sampling: include decision makers, influencers, and end users.\n- Triangulation: combine interviews, analytics, support tickets, and NPS.\n- Synthesis: affinity clustering; themes → insights → implications.\n\n## Examples\n- 7–10 interviews across roles; 5‑minute pulse survey for broader signals.\n- Debrief template: key quotes, pain points, desired outcomes, language cues.\n\n## Common Pitfalls\n- Over‑reliance on small, biased samples.\n- Asking for preferences instead of observing behavior.\n- Jumping to solutions without extracting underlying needs.\n\n## Summary\nDesign neutral questions, recruit across roles, and synthesize themes. Use findings to refine messages, benefits, and proofs.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": [
+        "Provide interview guide",
+        "Explain differently"
+      ],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    },
+    {
+      "ix": 5,
+      "title": "Objection Mapping and Evidence Strategy",
+      "bodyMd": "# Objection Mapping and Evidence Strategy\n\n## Overview\nAnticipate objections and plan targeted proofs. Address rational and emotional concerns before they stall decisions.\n\n## Key Concepts\n- Objection taxonomy: cost, risk, complexity, timing, identity/status.\n- Root cause: what fear or constraint underlies the objection?\n- Proof types: data, demos, pilots, references, third‑party reviews.\n- Pre‑emption: FAQ, one‑pagers, and narrative examples built into the message.\n\n## Examples\n- CFO concern: TCO and risk → reference calls + ROI model + phased rollout.\n- CTO concern: integration complexity → demo with sample data + pilot timeline.\n\n## Common Pitfalls\n- Debating feelings with facts alone.\n- Overloading with evidence instead of the most credible 1–2 proofs.\n- Ignoring status or identity threats that block agreement.\n\n## Summary\nList objections, find root causes, and pair each with the right proof. Build answers into your narrative so objections surface and resolve early.",
+      "minQuestions": 2,
+      "maxQuestions": 6,
+      "quickReplies": [
+        "Show objection map",
+        "I understand"
+      ],
+      "resources": { "refs": [ { "source": "unknown", "pages": "N/A" } ] },
+      "state": "published"
+    }
+  ]
+}

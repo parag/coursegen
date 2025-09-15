@@ -1,0 +1,26 @@
+{
+  "learning": { "chapterIx": 3, "sectionIx": 1, "ix": 5, "title": "Building a Story Library" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which element MOST increases reuse value of a story in the library?", "difficulty": "medium", "rationaleMd": "Metadata for retrieval and credibility.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Tags for role/industry/metric + quotes + before/after + proof links", "isCorrect": true, "feedbackMd": "Enables fast matching and credibility." },
+      { "ix": 2, "contentMd": "A catchy title and emoji", "isCorrect": false, "feedbackMd": "Not sufficient for reuse or trust." },
+      { "ix": 3, "contentMd": "A vague summary without sources", "isCorrect": false, "feedbackMd": "Unverifiable and hard to repurpose." },
+      { "ix": 4, "contentMd": "Anonymized anecdote with no outcomes", "isCorrect": false, "feedbackMd": "Missing metrics reduces impact." }
+    ]},
+    { "ix": 2, "type": "true_false", "promptMd": "True or False: Stories should be kept to ~60–90 seconds spoken for exec settings.", "difficulty": "easy", "rationaleMd": "Brevity for oral delivery.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Short, pointed vignettes land better." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Overlong stories lose attention." }
+    ]},
+    { "ix": 3, "type": "mcq", "promptMd": "Which governance practice keeps the library credible?", "difficulty": "hard", "rationaleMd": "Curation quality.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Periodic verification of metrics and permissions; retire stale items", "isCorrect": true, "feedbackMd": "Maintains trust and relevance." },
+      { "ix": 2, "contentMd": "Allow any anecdote without review", "isCorrect": false, "feedbackMd": "Quality drifts and credibility declines." },
+      { "ix": 3, "contentMd": "Keep only feel‑good wins", "isCorrect": false, "feedbackMd": "Biased selection limits usefulness." },
+      { "ix": 4, "contentMd": "Prefer anonymous stories to avoid approvals", "isCorrect": false, "feedbackMd": "Anonymity weakens proof." }
+    ]},
+    { "ix": 4, "type": "true_false", "promptMd": "True or False: Tagging stories by risk addressed (e.g., security, downtime) is unnecessary if they’re already tagged by industry.", "difficulty": "medium", "rationaleMd": "Multi‑facet tagging aids retrieval.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": false, "feedbackMd": "Multiple facets improve match quality for specific objections." },
+      { "ix": 2, "contentMd": "False", "isCorrect": true, "feedbackMd": "Correct. Risk/metric tags matter beyond industry." }
+    ]}
+  ]
+}
+

@@ -1,0 +1,21 @@
+{
+  "learning": { "chapterIx": 5, "sectionIx": 1, "ix": 2, "title": "Narrative Arcs and Agenda Design" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which agenda MOST efficiently advances a decision?", "difficulty": "hard", "rationaleMd": "Decision-first arc.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Answer → options vs. criteria → risks/mitigations → decision & next steps", "isCorrect": true, "feedbackMd": "Tracks SCQA/SCR toward a concrete decision." },
+      { "ix": 2, "contentMd": "History → deep dive → vision → maybe a decision", "isCorrect": false, "feedbackMd": "Decision buried." },
+      { "ix": 3, "contentMd": "Roundtable intros → status updates → open ended Q&A", "isCorrect": false, "feedbackMd": "Unfocused and slow." },
+      { "ix": 4, "contentMd": "Demo-first → brainstorm → recap later", "isCorrect": false, "feedbackMd": "Demo can distract before decision." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which practice BEST enforces timeboxing?", "difficulty": "medium", "rationaleMd": "Pacing control.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Agenda with minutes per section and a visible timer cue", "isCorrect": true, "feedbackMd": "Makes pacing explicit." },
+      { "ix": 2, "contentMd": "Trust the flow and adjust later", "isCorrect": false, "feedbackMd": "Invites drift." },
+      { "ix": 3, "contentMd": "Put the longest content first", "isCorrect": false, "feedbackMd": "Can exhaust time before decision." },
+      { "ix": 4, "contentMd": "Ask someone to \"wing it\"", "isCorrect": false, "feedbackMd": "Unreliable pacing." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: An agenda should mark explicit decision points, not just topics.", "difficulty": "easy", "rationaleMd": "Outcome-oriented agendas.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Focuses attention on the goal." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Topic lists don’t guarantee throughput." }
+    ]}
+  ]
+}

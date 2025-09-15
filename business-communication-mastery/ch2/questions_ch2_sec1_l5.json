@@ -1,0 +1,26 @@
+{
+  "learning": { "chapterIx": 2, "sectionIx": 1, "ix": 5, "title": "Choice Architecture and Defaults" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which default MOST respects autonomy while improving adoption?", "difficulty": "hard", "rationaleMd": "Evaluates benign vs. dark defaults.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Opt‑in pre‑checked for a trial with clear benefits, easy opt‑out, and reminder before billing", "isCorrect": true, "feedbackMd": "Transparent, reversible, and beneficial—benign default." },
+      { "ix": 2, "contentMd": "Auto‑enroll paid plan without notice", "isCorrect": false, "feedbackMd": "Coercive and unethical." },
+      { "ix": 3, "contentMd": "Hide opt‑out behind multiple screens", "isCorrect": false, "feedbackMd": "Dark pattern; violates autonomy." },
+      { "ix": 4, "contentMd": "Provide ten near‑identical options to avoid bias", "isCorrect": false, "feedbackMd": "Choice overload hurts decisions." }
+    ]},
+    { "ix": 2, "type": "true_false", "promptMd": "True or False: Progressive disclosure supports better decisions by revealing detail when motivation is higher.", "difficulty": "medium", "rationaleMd": "Information staging and cognitive load.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Stage information so essentials come first, details later." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Dumping detail early increases load and stalls adoption." }
+    ]},
+    { "ix": 3, "type": "mcq", "promptMd": "A pricing page shows three curated plans with a \"Recommended\" middle tier. What additional design MOST improves informed choice?", "difficulty": "medium", "rationaleMd": "Clarity and comparability in choices.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Comparison table with criteria matched to persona needs", "isCorrect": true, "feedbackMd": "Enables reasoned evaluation across relevant attributes." },
+      { "ix": 2, "contentMd": "Auto‑select the highest tier on checkout", "isCorrect": false, "feedbackMd": "Coercive default; harms trust." },
+      { "ix": 3, "contentMd": "Remove cancellation instructions", "isCorrect": false, "feedbackMd": "Reduces reversibility and violates ethics." },
+      { "ix": 4, "contentMd": "Use a countdown timer on all tiers", "isCorrect": false, "feedbackMd": "Manufactured urgency distracts from informed choice." }
+    ]},
+    { "ix": 4, "type": "true_false", "promptMd": "True or False: Good defaults should be easy to discover, reverse, and explain.", "difficulty": "easy", "rationaleMd": "Core properties of benign defaults.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Transparency and reversibility are essential." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Hidden defaults breed distrust and backlash." }
+    ]}
+  ]
+}
+

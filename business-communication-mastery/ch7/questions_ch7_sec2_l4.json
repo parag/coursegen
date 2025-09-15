@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 7, "sectionIx": 2, "ix": 4, "title": "Decision Logs and Traceability" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which minimal fields MOST enable decision traceability?", "difficulty": "hard", "rationaleMd": "ID, context, date, decider, links.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "ID, context, date, decider, links to RFC/ADR/threads", "isCorrect": true, "feedbackMd": "Sufficient for recall and auditing." },
+      { "ix": 2, "contentMd": "Only a title and emoji", "isCorrect": false, "feedbackMd": "Not searchable or informative." },
+      { "ix": 3, "contentMd": "Owner name only", "isCorrect": false, "feedbackMd": "Missing essential context." },
+      { "ix": 4, "contentMd": "A PDF attachment without metadata", "isCorrect": false, "feedbackMd": "Hard to parse and search." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which practice MOST keeps logs current?", "difficulty": "medium", "rationaleMd": "Ownership and cadence.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Assign page owners and review cadence; archive stale entries", "isCorrect": true, "feedbackMd": "Ensures maintenance and trustworthiness." },
+      { "ix": 2, "contentMd": "Crowdsource updates ad hoc", "isCorrect": false, "feedbackMd": "Leads to decay." },
+      { "ix": 3, "contentMd": "No review; logs are self‑healing", "isCorrect": false, "feedbackMd": "They are not." },
+      { "ix": 4, "contentMd": "Keep multiple log copies", "isCorrect": false, "feedbackMd": "Creates inconsistencies." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: ADRs should be linked from PRs/issues for full traceability.", "difficulty": "easy", "rationaleMd": "Cross‑linking.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. Links tie decisions to implementation." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Without links, context gets lost." }
+    ]}
+  ]
+}
+

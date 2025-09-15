@@ -1,0 +1,22 @@
+{
+  "learning": { "chapterIx": 7, "sectionIx": 3, "ix": 4, "title": "Decision Frameworks (RACI/DACI)" },
+  "questions": [
+    { "ix": 1, "type": "mcq", "promptMd": "Which assignment MOST clarifies ownership?", "difficulty": "hard", "rationaleMd": "Single approver; explicit roles.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "DACI with a single Approver, named Driver, listed Contributors, and Informed", "isCorrect": true, "feedbackMd": "Reduces diffusion and stalls." },
+      { "ix": 2, "contentMd": "Two Approvers to be safe", "isCorrect": false, "feedbackMd": "Shared approval slows decisions." },
+      { "ix": 3, "contentMd": "No Driver; self‑organized", "isCorrect": false, "feedbackMd": "Driver coordinates progress." },
+      { "ix": 4, "contentMd": "Only ‘Informed’ listed", "isCorrect": false, "feedbackMd": "Misses decision roles." }
+    ]},
+    { "ix": 2, "type": "mcq", "promptMd": "Which misuse MOST causes confusion?", "difficulty": "medium", "rationaleMd": "Role muddle.", "metadata": {"shuffle": true}, "answers": [
+      { "ix": 1, "contentMd": "Multiple Accountables/Approvers in RACI", "isCorrect": true, "feedbackMd": "Ambiguity stalls; keep one accountable." },
+      { "ix": 2, "contentMd": "Listing Contributors", "isCorrect": false, "feedbackMd": "This is correct usage." },
+      { "ix": 3, "contentMd": "Informing stakeholders post‑decision", "isCorrect": false, "feedbackMd": "Appropriate for ‘I’." },
+      { "ix": 4, "contentMd": "Naming the Driver", "isCorrect": false, "feedbackMd": "Also correct usage." }
+    ]},
+    { "ix": 3, "type": "true_false", "promptMd": "True or False: Approver should be singular in DACI to avoid diffusion.", "difficulty": "easy", "rationaleMd": "Single‑threaded.", "answers": [
+      { "ix": 1, "contentMd": "True", "isCorrect": true, "feedbackMd": "Correct. One final decider accelerates." },
+      { "ix": 2, "contentMd": "False", "isCorrect": false, "feedbackMd": "Multi‑approver slows and conflicts." }
+    ]}
+  ]
+}
+
